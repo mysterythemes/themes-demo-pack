@@ -34,7 +34,7 @@ function mt_demo_importer_config(){
 			'is_shop'			=> true,
 			'theme_type'        => array( 'free', 'WooCommerce', 'Ecommerce' ),
 			'home_title'  		=> 'Home',
-			'blog_title'  		=> '',
+			'blog_title'  		=> 'Blog',
 			'menus_locations'	=> array(
 			   'easy_store_primary_menu' => 'Primary Menu',
 			),
