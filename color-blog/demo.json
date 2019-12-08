@@ -1,33 +1,33 @@
 {
-  "default": {
-    "demo_name": "Default Demo",
-    "theme_slug": "color-blog",
-    "theme_description": "A clean and colorful WordPress Theme.",
-    "xml_file": "https://raw.githubusercontent.com/mysterythemes/themes-demo-pack/master/color-blog/default/color-blog.xml",
-    "theme_settings": "https://raw.githubusercontent.com/mysterythemes/themes-demo-pack/master/color-blog/default/color-blog-export.dat",
-    "widgets_file": "https://raw.githubusercontent.com/mysterythemes/themes-demo-pack/master/color-blog/default/color-blog-widgets.wie",
-    "preview_screen": "https://raw.githubusercontent.com/mysterythemes/themes-demo-pack/master/color-blog/default/screenshot.png",
-    "preview_url": "https://demo.mysterythemes.com/color-blog/",
-    "is_shop": "0",
-    "theme_type": [
-      "free",
-      "blog",
-      "magazine"
-    ],
-    "home_title": "Home",
-    "blog_title": "",
-    "menus_locations": {
-      "top_header_menu": "top menu",
-      "primary_menu": "main-menu"
-    },
-    "required_plugins": {
-      "free-plugins": [
-        {
-          "plugin_name": "Contact Form 7",
-          "plugin_slug": "contact-form-7",
-          "install_setup": "contact-form-7/wp-contact-form-7.php"
+    "color-blog": {
+        "name": "Color Blog",
+        "theme_slug": "color-blog",
+        "theme_description": "A clean and colorful WordPress Theme.",
+        "version": "1.2",
+        "xml_file": "https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/color-blog\/default\/color-blog.xml",
+        "theme_settings": "https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/color-blog\/default\/color-blog-export.dat",
+        "widgets_file": "https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/color-blog\/default\/color-blog-widgets.wie",
+        "preview_screen": "https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/color-blog\/default\/screenshot.png",
+        "preview_url": "http:\/\/demo.mysterythemes.com\/color-blog",
+        "is_shop": "0",
+        "theme_type": [
+            "free",
+            "blog",
+            "magazine"
+        ],
+        "home_title": "",
+        "blog_title": "",
+        "menus_locations": {
+            "top_header_menu": "top menu",
+            "primary_menu": "main-menu"
+        },
+        "required_plugins": {
+            "free-plugins": [{
+                "plugin_name":      "Contact Form 7",
+                "plugin_slug":      "contact-form-7",
+                "install_setup":    "contact-form-7\/wp-contact-form-7.php"
+            }],
+            "premium-plugins": []
         }
-      ]
     }
-  }
 }
