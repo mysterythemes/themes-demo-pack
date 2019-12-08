@@ -1,33 +1,35 @@
 {
-  "default": {
-    "demo_name": "Default Demo",
-    "theme_slug": "news-portal",
-    "theme_description": "Ultimate responsive magazine WordPress Theme.",
-    "xml_file": "https://raw.githubusercontent.com/mysterythemes/themes-demo-pack/master/news-portal/default/news-portal.xml",
-    "theme_settings": "https://raw.githubusercontent.com/mysterythemes/themes-demo-pack/master/news-portal/default/news-portal-export.dat",
-    "widgets_file": "https://raw.githubusercontent.com/mysterythemes/themes-demo-pack/master/news-portal/default/news-portal-widgets.wie",
-    "preview_screen": "https://raw.githubusercontent.com/mysterythemes/themes-demo-pack/master/news-portal/default/screenshot.jpg",
-    "preview_url": "https://demo.mysterythemes.com/news-portal/",
-    "is_shop": "0",
-    "theme_type": [
-      "free",
-      "blog",
-      "magazine"
-    ],
-    "home_title": "Home",
-    "blog_title": "",
-    "menus_locations": {
-      "news_portal_top_menu": "top menu",
-      "news_portal_primary_menu": "primary menu"
-    },
-    "required_plugins": {
-      "free-plugins": [
-        {
-          "plugin_name": "Contact Form 7",
-          "plugin_slug": "contact-form-7",
-          "install_setup": "contact-form-7/wp-contact-form-7.php"
+    "news-portal": {
+        "name": "News Portal",
+        "theme_slug": "news-portal",
+        "theme_description": "Ultimate responsive magazine WordPress Theme.",
+        "version": "1.1.16",
+        "xml_file": "https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/news-portal\/default\/news-portal.xml",
+        "theme_settings": "https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/news-portal\/default\/news-portal-export.dat",
+        "widgets_file": "https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/news-portal\/default\/news-portal-widgets.wie",
+        "preview_screen": "https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/news-portal\/default\/screenshot.png",
+        "preview_url": "http:\/\/demo.mysterythemes.com\/news-portal",
+        "is_shop": "0",
+        "theme_type": [
+            "free",
+            "blog",
+            "magazine"
+        ],
+        "home_title": "Home",
+        "blog_title": "",
+        "menus_locations": {
+            "news_portal_top_menu": "top menu",
+            "news_portal_primary_menu" : "primary menu"
+        },
+        "required_plugins": {
+            "free-plugins": [
+                {
+                    "plugin_name":      "Contact Form 7",
+                    "plugin_slug":      "contact-form-7",
+                    "install_setup":    "contact-form-7\/wp-contact-form-7.php"
+                }
+            ],
+            "premium-plugins": []
         }
-      ]
     }
-  }
 }
