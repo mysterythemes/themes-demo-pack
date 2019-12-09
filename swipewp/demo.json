@@ -1,0 +1,40 @@
+{
+    "swipewp": {
+        "name": "SwipeWP",
+        "theme_slug": "swipewp",
+        "theme_description": "Powerful Multipurpose Free WordPress Theme.",
+        "version": "1.2",
+        "xml_file": "https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/swipewp\/default\/swipewp.xml",
+        "theme_settings": "https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/swipewp\/default\/swipewp-export.dat",
+        "widgets_file": "https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/swipewp\/default\/swipewp-widgets.wie",
+        "preview_screen": "https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/swipewp\/default\/screenshot.png",
+        "preview_url": "http:\/\/demo.mysterythemes.com\/swipewp",
+        "is_shop": "1",
+        "theme_type": [
+            "free",
+            "multipurpose",
+            "woocommerce",
+            "portfolio"
+        ],
+        "home_title": "Home",
+        "blog_title": "",
+        "menus_locations": {
+            "primary_menu": "Header Menu"
+        },
+        "required_plugins": {
+            "free-plugins": [
+                {
+                    "plugin_name":      "Contact Form 7",
+                    "plugin_slug":      "contact-form-7",
+                    "install_setup":    "contact-form-7\/wp-contact-form-7.php"
+                },
+                {
+                    "plugin_name":      "WooCommerce",
+                    "plugin_slug":      "woocommerce",
+                    "install_setup":    "woocommerce\/woocommerce.php"
+                }
+            ],
+            "premium-plugins": []
+        }
+    }
+}
