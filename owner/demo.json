@@ -1,33 +1,72 @@
 {
-  "owner-default": {
-    "demo_name": "owner-default Demo",
-    "theme_slug": "owner",
-    "theme_description": "A clean multipurpose WordPress Theme.",
-    "xml_file": "https://raw.githubusercontent.com/mysterythemes/themes-demo-pack/master/owner/owner-default/owner.xml",
-    "theme_settings": "https://raw.githubusercontent.com/mysterythemes/themes-demo-pack/master/owner/owner-default/owner-export.dat",
-    "widgets_file": "https://raw.githubusercontent.com/mysterythemes/themes-demo-pack/master/owner/owner-default/owner-widgets.wie",
-    "preview_screen": "https://raw.githubusercontent.com/mysterythemes/themes-demo-pack/master/owner/owner-default/screenshot.jpg",
-    "preview_url": "https://demo.mysterythemes.com/owner/",
-    "is_shop": "0",
-    "theme_type": [
-      "free",
-      "business",
-      "multipurpose"
-    ],
-    "home_title": "Home",
-    "blog_title": "Blogs",
-    "menus_locations": {
-      "owner_primary_menu": "Primary Menu",
-      "owner_footer_menu": "Footer Menu"
-    },
-    "required_plugins": {
-      "free-plugins": [
-        {
-          "plugin_name": "Contact Form 7",
-          "plugin_slug": "contact-form-7",
-          "install_setup": "contact-form-7/wp-contact-form-7.php"
+    "owner": {
+        "name": "Owner",
+        "theme_slug": "owner",
+        "theme_description": "A clean multipurpose WordPress Theme.",
+        "version": "1.2",
+        "xml_file": "https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/owner\/default\/owner.xml",
+        "theme_settings": "https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/owner\/default\/owner-export.dat",
+        "widgets_file": "https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/owner\/default\/owner-widgets.wie",
+        "preview_screen": "https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/owner\/default\/screenshot.png",
+        "preview_url": "http:\/\/demo.mysterythemes.com\/owner",
+        "is_shop": "0",
+        "theme_type": [
+            "free",
+            "business",
+            "multipurpose"
+        ],
+        "home_title": "Home",
+        "blog_title": "Blogs",
+        "menus_locations": {
+            "owner_primary_menu": "Primary Menu",
+            "owner_footer_menu": "Footer Menu"
+        },
+        "required_plugins": {
+            "free-plugins": [{
+                "plugin_name":      "Contact Form 7",
+                "plugin_slug":      "contact-form-7",
+                "install_setup":    "contact-form-7\/wp-contact-form-7.php"
+            }],
+            "premium-plugins": []
         }
-      ]
+    },
+
+    "owner-pro": {
+        "name": "Owner Pro",
+        "theme_slug": "owner-pro",
+        "theme_description": "A clean multipurpose premium WordPress Theme.",
+        "version": "1.2",
+        "xml_file": "https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/owner-pro\/default\/owner-pro.xml",
+        "theme_settings": "https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/owner-pro\/default\/owner-pro-export.dat",
+        "widgets_file": "https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/owner-pro\/default\/owner-pro-widgets.wie",
+        "preview_screen": "https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/owner-pro\/default\/screenshot.png",
+        "preview_url": "http:\/\/demo.mysterythemes.com\/owner-pro",
+        "is_shop": "1",
+        "theme_type": [
+            "premium",
+            "business",
+            "multipurpose"
+        ],
+        "home_title": "Home",
+        "blog_title": "Blogs",
+        "menus_locations": {
+            "owner_primary_menu": "Primary Menu",
+            "owner_footer_menu": "Footer Menu"
+        },
+        "required_plugins": {
+            "free-plugins": [
+                {
+                    "plugin_name":      "Contact Form 7",
+                    "plugin_slug":      "contact-form-7",
+                    "install_setup":    "contact-form-7\/wp-contact-form-7.php"
+                },
+                {
+                    "plugin_name":      "WooCommerce",
+                    "plugin_slug":      "woocommerce",
+                    "install_setup":    "woocommerce\/woocommerce.php"
+                }
+            ],
+            "premium-plugins": []
+        }
     }
-  }
 }
