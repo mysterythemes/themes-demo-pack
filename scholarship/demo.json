@@ -1,32 +1,34 @@
 {
-  "default": {
-    "demo_name": "Default Demo",
-    "theme_slug": "scholarship",
-    "theme_description": "A clean and colorful WordPress Theme.",
-    "xml_file": "https://raw.githubusercontent.com/mysterythemes/themes-demo-pack/master/scholarship/default/scholarship.xml",
-    "theme_settings": "https://raw.githubusercontent.com/mysterythemes/themes-demo-pack/master/scholarship/default/scholarship-export.dat",
-    "widgets_file": "https://raw.githubusercontent.com/mysterythemes/themes-demo-pack/master/scholarship/default/scholarship-widgets.wie",
-    "preview_screen": "https://raw.githubusercontent.com/mysterythemes/themes-demo-pack/master/scholarship/default/screenshot.png",
-    "preview_url": "https://demo.mysterythemes.com/scholarship/",
-    "is_shop": "0",
-    "theme_type": [
-      "free",
-      "WooCommerce",
-      "Ecommerce"
-    ],
-    "home_title": "Home",
-    "blog_title": "",
-    "menus_locations": {
-      "scholarship_primary_menu": "Primary Menu"
-    },
-    "required_plugins": {
-      "free-plugins": [
-        {
-          "plugin_name": "Contact Form 7",
-          "plugin_slug": "contact-form-7",
-          "install_setup": "contact-form-7/wp-contact-form-7.php"
+    "scholarship": {
+        "name": "Scholarship",
+        "theme_slug": "scholarship",
+        "theme_description": "Best Free WordPress Education Theme.",
+        "version": "1.2",
+        "xml_file": "https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/scholarship\/default\/scholarship.xml",
+        "theme_settings": "https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/scholarship\/default\/scholarship-export.dat",
+        "widgets_file": "https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/scholarship\/default\/scholarship-widgets.wie",
+        "preview_screen": "https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/scholarship\/default\/screenshot.png",
+        "preview_url": "http:\/\/demo.mysterythemes.com\/scholarship",
+        "is_shop": "0",
+        "theme_type": [
+            "free",
+            "education",
+            "portfolio"
+        ],
+        "home_title": "Home",
+        "blog_title": "Blog",
+        "menus_locations": {
+            "scholarship_primary_menu": "Primary Menu"
+        },
+        "required_plugins": {
+            "free-plugins": [
+                {
+                    "plugin_name":      "Contact Form 7",
+                    "plugin_slug":      "contact-form-7",
+                    "install_setup":    "contact-form-7\/wp-contact-form-7.php"
+                }
+            ],
+            "premium-plugins": []
         }
-      ]
     }
-  }
 }
