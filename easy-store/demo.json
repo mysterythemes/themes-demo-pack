@@ -2,18 +2,17 @@
     "easy-store": {
         "name": "Easy Store",
         "theme_slug": "easy-store",
-        "theme_description": "Easy Ecommerce WordPress Theme",
+        "theme_description": "Easy Ecommerce WordPress Theme.",
         "version": "1.2",
         "xml_file": "https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/easy-store\/default\/easy-store.xml",
         "theme_settings": "https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/easy-store\/default\/easy-store-export.dat",
         "widgets_file": "https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/easy-store\/default\/easy-store-widgets.wie",
         "preview_screen": "https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/easy-store\/default\/screenshot.png",
-        "preview_url": "http:\/\/demo.mysterythemes.com\/easy-store",
+        "preview_url": "https:\/\/demo.mysterythemes.com\/easy-store",
         "is_shop": "1",
         "theme_type": [
             "free",
-            "WooCommerce",
-            "Ecommerce"
+            "woocommerce"
         ],
         "home_title": "Home",
         "blog_title": "Blog",
