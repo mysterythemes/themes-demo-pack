@@ -21,15 +21,12 @@
             "news_portal_top_menu": "top menu",
             "news_portal_primary_menu" : "primary menu"
         },
-        "required_plugins": {
-            "free-plugins": [
-                {
-                    "plugin_name":      "Contact Form 7",
-                    "plugin_slug":      "contact-form-7",
-                    "install_setup":    "contact-form-7\/wp-contact-form-7.php"
-                }
-            ],
-            "premium-plugins": []
+        "plugins_list": {
+            "contact-form-7":{ 
+                "name":"Contact Form 7",
+                "slug":"contact-form-7/wp-contact-form-7.php",
+                "required":true
+             },
         }
     }
 }
