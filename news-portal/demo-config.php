@@ -35,9 +35,45 @@ function mt_demo_importer_config(){
 			'home_title'  		=> 'Home',
 			'blog_title'  		=> '',
 			'menus_locations'	=> array(
-									'news_portal_top_menu' => 'top menu',
-									'news_portal_primary_menu' => 'primary menu',
-								),
+				'news_portal_top_menu' => 'top menu',
+				'news_portal_primary_menu' => 'primary menu',
+			),
+			'widgets_data_update'    => array(
+				'dropdown_categories' => array(
+					'category' => array(
+						'news_portal_block_posts'   => array(
+							2 => array(
+								'block_cat_id' => 'Sports'
+							),
+							3 => array(
+								'block_cat_id' => 'Travel'
+							),
+							4 => array(
+								'block_cat_id' => 'Food'
+							),
+							5 => array(
+								'block_cat_id' => 'Travel'
+							),
+						)
+					)
+				),
+				'multi_checkbox' => array(
+					'multi_categories' => array(
+						'news_portal_featured_slider' => array(
+							2 => array(
+								'slider_cat_ids' 	=> array( 'Tech' ),
+								'featured_cat_ids'	=> array( 'Fashion', 'Lifestyle', 'Music', 'Travel' )
+							),
+						),
+
+						'news_portal_featured_posts' => array(
+							3 => array(
+								'block_cat_ids'	=> array( 'Fashion', 'Tech' )
+							),
+						),
+					)
+				)
+			),
 			'required_plugins'  => array(
 				'free' => array(
 					array(
@@ -46,7 +82,8 @@ function mt_demo_importer_config(){
 						'install_setup' => 'contact-form-7/wp-contact-form-7.php'
 					)
 				)
-			)
+			),
+
 		)
 	);
 
