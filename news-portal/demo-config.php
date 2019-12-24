@@ -43,32 +43,32 @@ function mt_demo_importer_config(){
 					'category' => array(
 						'news_portal_block_posts'   => array(
 							2 => array(
-								'block_cat_id' => 'Sports'
+								'block_cat_id' => 'sports'
 							),
 							3 => array(
-								'block_cat_id' => 'Travel'
+								'block_cat_id' => 'travel'
 							),
 							4 => array(
-								'block_cat_id' => 'Food'
+								'block_cat_id' => 'food'
 							),
 							5 => array(
-								'block_cat_id' => 'Travel'
+								'block_cat_id' => 'travel'
 							),
 						)
 					)
 				),
 				'multi_checkbox' => array(
-					'multi_categories' => array(
+					'category' => array(
 						'news_portal_featured_slider' => array(
 							2 => array(
-								'slider_cat_ids' 	=> array( 'Tech' ),
-								'featured_cat_ids'	=> array( 'Fashion', 'Lifestyle', 'Music', 'Travel' )
+								'slider_cat_ids' 	=> array( 'tech' ),
+								'featured_cat_ids'	=> array( 'fashion', 'lifestyle', 'music', 'travel' )
 							),
 						),
 
 						'news_portal_featured_posts' => array(
 							3 => array(
-								'block_cat_ids'	=> array( 'Fashion', 'Tech' )
+								'block_cat_ids'	=> array( 'fashion', 'tech' )
 							),
 						),
 					)
