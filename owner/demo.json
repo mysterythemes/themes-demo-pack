@@ -22,6 +22,48 @@
             "owner_primary_menu":"Primary Menu",
             "owner_footer_menu":"Footer Menu"
         },
+        "widgets_data_update":{
+            "dropdown_categories":{
+                "category":{
+                    "owner_grid_layout":{
+                        "2":{
+                            "section_cat_id":"Services"
+                        }
+                    },
+                    "owner_portfolio":{
+                        "2":{
+                            "section_cat_id":"Portfolio"
+                        }
+                    },
+                    "owner_team":{
+                        "2":{
+                            "section_cat_id":"Team"
+                        }
+                    },
+                    "owner_testimonials":{
+                        "2":{
+                            "section_cat_id":"Testimonials"
+                        }
+                    },
+                    "owner_sponsors":{
+                        "2":{
+                            "section_cat_id":"Sponsors"
+                        }
+                    }
+                }
+            },
+            "multi_checkbox":{
+                "category":{
+                    "owner_latest_blog":{
+                        "2":{
+                            "section_cat_ids":[
+                                "Blog"
+                            ]
+                        }
+                    }
+                }
+            }
+        },
         "plugins_list":{
             "contact-form-7":{
                 "name":"Contact Form 7",

@@ -41,6 +41,46 @@ function mt_demo_importer_config(){
 				'owner_primary_menu' 	=> 'Primary Menu',
 				'owner_footer_menu'		=> 'Footer Menu'
 			),
+			'widgets_data_update'    => array(
+				'dropdown_categories' => array(
+					'category' => array(
+						'owner_grid_layout'   => array(
+							2 => array(
+								'section_cat_id' 	=> 'Services'
+							)
+						),
+						'owner_portfolio'   => array(
+							2 => array(
+								'section_cat_id' 	=> 'Portfolio'
+							)
+						),
+						'owner_team'   => array(
+							2 => array(
+								'section_cat_id' 	=> 'Team'
+							)
+						),
+						'owner_testimonials'   => array(
+							2 => array(
+								'section_cat_id' 	=> 'Testimonials'
+							)
+						),
+						'owner_sponsors'   => array(
+							2 => array(
+								'section_cat_id' 	=> 'Sponsors'
+							)
+						)
+					)
+				),
+				'multi_checkbox' => array(
+					'category' => array(
+						'owner_latest_blog' => array(
+							2 => array(
+								'section_cat_ids' 	=> array( 'Blog' )
+							),
+						)
+					)
+				)
+			),
 			'plugins_list' => array(
 				'contact-form-7' => array(
 					'name'=> __( 'Contact Form 7', 'mystery-demo-importer' ),
