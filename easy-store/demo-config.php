@@ -20,41 +20,43 @@ if ( ! defined( 'ABSPATH' ) ) {
 function mt_demo_importer_config(){
 
     $theme_slug 	= 'easy-store';
-	$git_url 		= 'https://raw.githubusercontent.com/mysterythemes/themes-demo-pack/master/'.$theme_slug.'/default/';
+	$git_url 		= 'https://raw.githubusercontent.com/mysterythemes/themes-demo-pack/master/'.$theme_slug.'/';
 	$demo_config 	= array(
-		'default' => array(
-			'demo_name'			=> esc_html__( 'Default Demo', 'mystery-demo-importer' ),
+		'easy-store' => array(
+			'name'			=> esc_html__( 'Easy Store', 'mystery-demo-importer' ),
 			'theme_slug'        => $theme_slug,
-			'theme_description' => esc_html__( 'Easy Ecommerce WordPress Theme.', 'mystery-demo-importer' ),
-			'xml_file'     		=> $git_url . $theme_slug.'.xml',
-			'theme_settings' 	=> $git_url . $theme_slug.'-export.dat',
-			'widgets_file'  	=> $git_url . $theme_slug.'-widgets.wie',
-			'preview_screen'	=> $git_url . 'screenshot.png',
+			'version'        => '1.0.16',
+			'theme_description' => esc_html__( 'Easy Ecommerce WordPress Theme', 'mystery-demo-importer' ),
+			'xml_file'     		=> $git_url . 'default/'.$theme_slug.'.xml',
+			'theme_settings' 	=> $git_url . 'default/'.$theme_slug.'-export.dat',
+			'widgets_file'  	=> $git_url . 'default/'.$theme_slug.'-widgets.wie',
+			'preview_screen'	=> $git_url . 'default/screenshot.png',
 			'preview_url'		=> 'https://demo.mysterythemes.com/'.$theme_slug.'/',
 			'is_shop'			=> true,
-			'theme_type'        => array( 'free', 'woocommerce' ),
+			'theme_type'        => array( 'free', 'WooCommerce', 'Ecommerce' ),
+			'show_on_front'     => 'page',
 			'home_title'  		=> 'Home',
 			'blog_title'  		=> 'Blog',
 			'menus_locations'	=> array(
-			   'easy_store_primary_menu' => 'Primary Menu',
+			   'easy_store_primary_menu' 	=> 'Primary Menu',
+			   'easy_store_top_menu' 		=> 'Top Menu',
+			   'easy_store_footer_menu' 	=> 'Footer Menu',
 			),
-			'required_plugins'  => array(
-				'free-plugins' => array(
-					array(
-						'plugin_name'   => __( 'Contact Form 7', 'mystery-demo-importer' ),
-						'plugin_slug'	=> 'contact-form-7',
-						'install_setup' => 'contact-form-7/wp-contact-form-7.php',
-					),
-					array(
-						'plugin_name' 	=> __( 'WooCommerce', 'mystery-demo-importer' ),
-						'plugin_slug'	=> 'woocommerce',
-						'install_setup' => 'woocommerce/woocommerce.php',
-					),
-					array(
-						'plugin_name' 	=> __( 'YITH WooCommerce Wishlist', 'mystery-demo-importer' ),
-						'plugin_slug'	=> 'yith-woocommerce-wishlist',
-						'install_setup' => 'yith-woocommerce-wishlist/init.php',
-					),
+			'plugins_list' => array(
+				'contact-form-7' => array(
+					'name'=> 'Contact Form 7',
+					'slug'=> 'contact-form-7/wp-contact-form-7.php',
+					'required'=> true
+				),
+				'woocommerce' => array(
+					'name'=> 'WooCommerce',
+					'slug'=> 'woocommerce/woocommerce.php',
+					'required'=> true
+				),
+				'yith-woocommerce-wishlist' => array(
+					'name'=> 'YITH WooCommerce Wishlist',
+					'slug'=> 'yith-woocommerce-wishlist/init.php',
+					'required'=> true
 				)
 			)
 		)
