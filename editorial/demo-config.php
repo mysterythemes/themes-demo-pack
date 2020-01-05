@@ -29,7 +29,7 @@ function mt_demo_importer_config(){
 			'xml_file'     		=> $git_url . 'default/'.$theme_slug.'.xml',
 			'theme_settings' 	=> $git_url . 'default/'.$theme_slug.'-export.dat',
 			'widgets_file'  	=> $git_url . 'default/'.$theme_slug.'-widgets.wie',
-			'preview_screen'	=> $git_url . 'default/screenshot.jpg',
+			'preview_screen'	=> $git_url . 'default/screenshot.png',
 			'preview_url'		=> 'https://demo.mysterythemes.com/'.$theme_slug.'/',
 			'is_shop'			=> false,
 			'theme_type'        => array( 'free', 'blog', 'magazine' ),
