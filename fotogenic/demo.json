@@ -1,34 +1,32 @@
 {
-    "fotogenic": {
-        "name": "Fotogenic",
-        "theme_slug": "fotogenic",
-        "theme_description": "A clean and powerful photography WordPress Theme.",
-        "version": "1.2",
-        "xml_file": "https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/fotogenic\/default\/fotogenic.xml",
-        "theme_settings": "https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/fotogenic\/default\/fotogenic-export.dat",
-        "widgets_file": "https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/fotogenic\/default\/fotogenic-widgets.wie",
-        "preview_screen": "https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/fotogenic\/default\/screenshot.png",
-        "preview_url": "https:\/\/demo.mysterythemes.com\/fotogenic",
-        "is_shop": "0",
-        "theme_type": [
+    "fotogenic":{
+        "name":"Fotogenic",
+        "theme_slug":"fotogenic",
+        "version":"1.0.7",
+        "theme_description":"A clean and powerful photography WordPress Theme.",
+        "xml_file":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/fotogenic\/default\/fotogenic.xml",
+        "theme_settings":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/fotogenic\/default\/fotogenic-export.dat",
+        "widgets_file":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/fotogenic\/default\/fotogenic-widgets.wie",
+        "preview_screen":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/fotogenic\/default\/screenshot.png",
+        "preview_url":"https:\/\/demo.mysterythemes.com\/fotogenic\/",
+        "is_shop":false,
+        "theme_type":[
             "free",
             "photography",
             "portfolio"
         ],
-        "home_title": "",
-        "blog_title": "",
-        "menus_locations": {
-            "menu-1": "main menu"
+        "show_on_front":"",
+        "home_title":"",
+        "blog_title":"",
+        "menus_locations":{
+            "menu-1":"main menu"
         },
-        "required_plugins": {
-            "free-plugins": [
-                {
-                    "plugin_name":      "Contact Form 7",
-                    "plugin_slug":      "contact-form-7",
-                    "install_setup":    "contact-form-7\/wp-contact-form-7.php"
-                }
-            ],
-            "premium-plugins": []
+        "plugins_list":{
+            "contact-form-7":{
+                "name":"Contact Form 7",
+                "slug":"contact-form-7\/wp-contact-form-7.php",
+                "required":true
+            }
         }
     }
 }
