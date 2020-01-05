@@ -1,34 +1,75 @@
 {
-    "editorial": {
-        "name": "Editorial",
-        "theme_slug": "editorial",
-        "theme_description": "A clean and colorful WordPress Theme.",
-        "version": "1.2",
-        "xml_file": "https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/editorial\/default\/editorial.xml",
-        "theme_settings": "https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/editorial\/default\/editorial-export.dat",
-        "widgets_file": "https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/editorial\/default\/editorial-widgets.wie",
-        "preview_screen": "https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/editorial\/default\/screenshot.png",
-        "preview_url": "http:\/\/demo.mysterythemes.com\/editorial",
-        "is_shop": "0",
-        "theme_type": [
-            "free",
-            "blog",
-            "magazine"
-        ],
-        "home_title": "Home",
-        "blog_title": "",
-        "menus_locations": {
-            "top-header": "top-header-menu",
-            "primary": "primary",
-            "footer": "footer-menu"
-        },
-        "required_plugins": {
-            "free-plugins": [{
-                "plugin_name":      "Contact Form 7",
-                "plugin_slug":      "contact-form-7",
-                "install_setup":    "contact-form-7\/wp-contact-form-7.php"
-            }],
-            "premium-plugins": []
-        }
-    }
+	"editorial":{
+		"name":"Editorial",
+		"theme_slug":"editorial",
+		"version":"1.4.2",
+		"theme_description":"Ultimate responsive magazine WordPress Theme.",
+		"xml_file":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/editorial\/default\/editorial.xml",
+		"theme_settings":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/editorial\/default\/editorial-export.dat",
+		"widgets_file":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/editorial\/default\/editorial-widgets.wie",
+		"preview_screen":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/editorial\/default\/screenshot.jpg",
+		"preview_url":"https:\/\/demo.mysterythemes.com\/editorial\/",
+		"is_shop":false,
+		"theme_type":[
+			"free",
+			"blog",
+			"magazine"
+		],
+		"show_on_front":"page",
+		"home_title":"Home",
+		"blog_title":"",
+		"menus_locations":{
+			"top-header":"top-header-menu",
+			"primary":"primary",
+			"footer":"footer-menu"
+		},
+		"widgets_data_update":{
+			"dropdown_categories":{
+				"category":{
+					"editorial_featured_slider":{
+						"1":{
+							"editorial_slider_category":"travel",
+							"editorial_featured_category":"fashion"
+						}
+					},
+					"editorial_block_grid":{
+						"1":{
+							"editorial_block_cat_id":"health"
+						},
+						"2":{
+							"editorial_block_cat_id":"health"
+						}
+					},
+					"editorial_block_layout":{
+						"1":{
+							"editorial_block_cat_id":"technology"
+						}
+					},
+					"editorial_block_column":{
+						"1":{
+							"editorial_block_cat_id":"sports"
+						},
+						"2":{
+							"editorial_block_cat_id":"lifestyle"
+						},
+						"3":{
+							"editorial_block_cat_id":"food"
+						}
+					},
+					"editorial_block_list":{
+						"1":{
+							"editorial_block_cat_id":"Music"
+						}
+					}
+				}
+			}
+		},
+		"plugins_list":{
+			"contact-form-7":{
+				"name":"Contact Form 7",
+				"slug":"contact-form-7\/wp-contact-form-7.php",
+				"required":true
+			}
+		}
+	}
 }
