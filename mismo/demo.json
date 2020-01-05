@@ -1,0 +1,32 @@
+{
+	"mismo":{
+		"name":"Mismo",
+		"theme_slug":"mismo",
+		"version":"1.0.9",
+		"theme_description":"Ultimate responsive magazine WordPress Theme.",
+		"xml_file":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/mismo\/default\/mismo.xml",
+		"theme_settings":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/mismo\/default\/mismo-export.dat",
+		"widgets_file":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/mismo\/default\/mismo-widgets.wie",
+		"preview_screen":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/mismo\/default\/screenshot.png",
+		"preview_url":"https:\/\/demo.mysterythemes.com\/mismo\/",
+		"is_shop":false,
+		"theme_type":[
+			"free",
+			"blog",
+			"magazine"
+		],
+		"show_on_front":"page",
+		"home_title":"Home",
+		"blog_title":"",
+		"menus_locations":{
+			"menu-1":"Main menu"
+		},
+		"plugins_list":{
+			"contact-form-7":{
+				"name":"Contact Form 7",
+				"slug":"contact-form-7\/wp-contact-form-7.php",
+				"required":true
+			}
+		}
+	}
+}
