@@ -22,41 +22,12 @@
             "primary_menu":"front menu",
             "footer_menu":"front menu"
         },
-        "required_plugins":{
-            "free":[{"plugin_name":"Contact Form 7","plugin_slug":"contact-form-7","install_setup":"contact-form-7\/wp-contact-form-7.php"}]}}}
-
-{
-    "wp-diary": {
-        "name": "WP Diary",
-        "theme_slug": "wp-diary",
-        "theme_description": "A pure blogger free WordPress Theme.",
-        "version": "1.2",
-        "xml_file": "https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/wp-diary\/default\/wp-diary.xml",
-        "theme_settings": "https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/wp-diary\/default\/wp-diary-export.dat",
-        "widgets_file": "https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/wp-diary\/default\/wp-diary-widgets.wie",
-        "preview_screen": "https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/wp-diary\/default\/screenshot.png",
-        "preview_url": "http:\/\/demo.mysterythemes.com\/wp-diary",
-        "is_shop": "0",
-        "theme_type": [
-            "free",
-            "blog",
-            "portfolio"
-        ],
-        "home_title": "",
-        "blog_title": "",
-        "menus_locations": {
-            "primary_menu": "front menu",
-            "footer_menu": "front menu"
-        },
-        "required_plugins": {
-            "free-plugins": [
-                {
-                    "plugin_name":      "Contact Form 7",
-                    "plugin_slug":      "contact-form-7",
-                    "install_setup":    "contact-form-7\/wp-contact-form-7.php"
-                }
-            ],
-            "premium-plugins": []
+        "plugins_list":{
+            "contact-form-7":{
+                "name":"Contact Form 7",
+                "slug":"contact-form-7\/wp-contact-form-7.php",
+                "required":true
+            }
         }
     }
 }
