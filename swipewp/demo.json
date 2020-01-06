@@ -1,40 +1,38 @@
 {
-    "swipewp": {
-        "name": "SwipeWP",
-        "theme_slug": "swipewp",
-        "theme_description": "Powerful Multipurpose Free WordPress Theme.",
-        "version": "1.2",
-        "xml_file": "https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/swipewp\/default\/swipewp.xml",
-        "theme_settings": "https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/swipewp\/default\/swipewp-export.dat",
-        "widgets_file": "https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/swipewp\/default\/swipewp-widgets.wie",
-        "preview_screen": "https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/swipewp\/default\/screenshot.png",
-        "preview_url": "http:\/\/demo.mysterythemes.com\/swipewp",
-        "is_shop": "1",
-        "theme_type": [
+    "swipewp":{
+        "name":"Swipewp",
+        "theme_slug":"swipewp",
+        "version":"1.0.5",
+        "theme_description":"Powerful Multipurpose Free WordPress Theme.",
+        "xml_file":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/swipewp\/default\/swipewp.xml",
+        "theme_settings":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/swipewp\/default\/swipewp-export.dat",
+        "widgets_file":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/swipewp\/default\/swipewp-widgets.wie",
+        "preview_screen":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/swipewp\/default\/screenshot.png",
+        "preview_url":"https:\/\/demo.mysterythemes.com\/swipewp\/",
+        "is_shop":true,
+        "theme_type":[
             "free",
             "multipurpose",
             "woocommerce",
             "portfolio"
         ],
-        "home_title": "Home",
-        "blog_title": "",
-        "menus_locations": {
-            "primary_menu": "Header Menu"
+        "show_on_front":"page",
+        "home_title":"Home",
+        "blog_title":"",
+        "menus_locations":{
+            "primary_menu":"Header Menu"
         },
-        "required_plugins": {
-            "free-plugins": [
-                {
-                    "plugin_name":      "Contact Form 7",
-                    "plugin_slug":      "contact-form-7",
-                    "install_setup":    "contact-form-7\/wp-contact-form-7.php"
-                },
-                {
-                    "plugin_name":      "WooCommerce",
-                    "plugin_slug":      "woocommerce",
-                    "install_setup":    "woocommerce\/woocommerce.php"
-                }
-            ],
-            "premium-plugins": []
+        "plugins_list":{
+            "contact-form-7":{
+                "name":"Contact Form 7",
+                "slug":"contact-form-7\/wp-contact-form-7.php",
+                "required":true
+            },
+            "woocommerce":{
+                "name":"WooCommerce",
+                "slug":"woocommerce\/woocommerce.php",
+                "required":true
+            }
         }
     }
 }
