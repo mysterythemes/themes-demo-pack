@@ -20,32 +20,32 @@ if ( ! defined( 'ABSPATH' ) ) {
 function mt_demo_importer_config(){
 
     $theme_slug 	= 'saaya';
-	$git_url 		= 'https://raw.githubusercontent.com/mysterythemes/themes-demo-pack/master/'.$theme_slug.'/default/';
+	$git_url 		= 'https://raw.githubusercontent.com/mysterythemes/themes-demo-pack/master/'.$theme_slug.'/';
 	$demo_config 	= array(
-		'default' => array(
-			'demo_name'			=> esc_html__( 'Default Demo', 'mystery-demo-importer' ),
+		'saaya' => array(
+			'name'				=> esc_html__( 'Saaya', 'mystery-demo-importer' ),
 			'theme_slug'        => $theme_slug,
+			'version'			=> '1.0.5',
 			'theme_description' => esc_html__( 'Perfect WordPress Theme for a blog.', 'mystery-demo-importer' ),
-			'xml_file'     		=> $git_url . $theme_slug.'.xml',
-			'theme_settings' 	=> $git_url . $theme_slug.'-export.dat',
-			'widgets_file'  	=> $git_url . $theme_slug.'-widgets.wie',
-			'preview_screen'	=> $git_url . 'screenshot.png',
+			'xml_file'     		=> $git_url . 'default/'.$theme_slug.'.xml',
+			'theme_settings' 	=> $git_url . 'default/'.$theme_slug.'-export.dat',
+			'widgets_file'  	=> $git_url . 'default/'.$theme_slug.'-widgets.wie',
+			'preview_screen'	=> $git_url . 'default/screenshot.png',
 			'preview_url'		=> 'https://demo.mysterythemes.com/'.$theme_slug.'/',
 			'is_shop'			=> false,
 			'theme_type'        => array( 'free', 'blog', 'portfolio' ),
+			'show_on_front'     => '',
 			'home_title'  		=> '',
 			'blog_title'  		=> '',
 			'menus_locations'	=> array(
 			   'primary_menu' => 'Main Menu',
 			   'footer_menu' => 'Footer menu',
 			),
-			'required_plugins'  => array(
-				'free-plugins' => array(
-					array(
-						'plugin_name'   => __( 'Contact Form 7', 'mystery-demo-importer' ),
-						'plugin_slug'	=> 'contact-form-7',
-						'install_setup' => 'contact-form-7/wp-contact-form-7.php',
-					)
+			'plugins_list' => array(
+				'contact-form-7' => array(
+					'name'		=> __( 'Contact Form 7', 'mystery-demo-importer' ),
+					'slug'		=> 'contact-form-7/wp-contact-form-7.php',
+					'required'	=> true
 				)
 			)
 		)
