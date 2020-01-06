@@ -86,9 +86,9 @@ function mt_demo_importer_config(){
 			),
 			'plugins_list' => array(
 				'contact-form-7' => array(
-					'name'=> __( 'Contact Form 7', 'mystery-demo-importer' ),
-					'slug'=> 'contact-form-7/wp-contact-form-7.php',
-					'required'=> true
+					'name'		=> __( 'Contact Form 7', 'mystery-demo-importer' ),
+					'slug'		=> 'contact-form-7/wp-contact-form-7.php',
+					'required'	=> true
 				)
 			)
 		)
