@@ -15,7 +15,7 @@
             "blog",
             "portfolio"
         ],
-        "show_on_front":"page",
+        "show_on_front":"",
         "home_title":"",
         "blog_title":"",
         "menus_locations":{

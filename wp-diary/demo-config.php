@@ -33,7 +33,7 @@ function mt_demo_importer_config(){
 			'preview_url'		=> 'https://demo.mysterythemes.com/'.$theme_slug.'/',
 			'is_shop'			=> false,
 			'theme_type'        => array( 'free', 'blog', 'portfolio' ),
-			'show_on_front'     => 'page',
+			'show_on_front'     => '',
 			'home_title'  		=> '',
 			'blog_title'  		=> '',
 			'menus_locations'	=> array(
