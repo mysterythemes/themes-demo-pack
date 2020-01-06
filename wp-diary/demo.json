@@ -1,4 +1,31 @@
 {
+    "wp-diary":{
+        "name":"WP Diary",
+        "theme_slug":"wp-diary",
+        "version":"1.0.6",
+        "theme_description":"A pure blogger free WordPress Theme.",
+        "xml_file":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/wp-diary\/default\/wp-diary.xml",
+        "theme_settings":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/wp-diary\/default\/wp-diary-export.dat",
+        "widgets_file":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/wp-diary\/default\/wp-diary-widgets.wie",
+        "preview_screen":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/wp-diary\/default\/screenshot.png",
+        "preview_url":"https:\/\/demo.mysterythemes.com\/wp-diary\/",
+        "is_shop":false,
+        "theme_type":[
+            "free",
+            "blog",
+            "portfolio"
+        ],
+        "show_on_front":"page",
+        "home_title":"",
+        "blog_title":"",
+        "menus_locations":{
+            "primary_menu":"front menu",
+            "footer_menu":"front menu"
+        },
+        "required_plugins":{
+            "free":[{"plugin_name":"Contact Form 7","plugin_slug":"contact-form-7","install_setup":"contact-form-7\/wp-contact-form-7.php"}]}}}
+
+{
     "wp-diary": {
         "name": "WP Diary",
         "theme_slug": "wp-diary",
