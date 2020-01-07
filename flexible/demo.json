@@ -1,0 +1,64 @@
+{
+	"flexible":{
+		"name":"Flexible Lite",
+		"theme_slug":"flexible-lite",
+		"version":"1.1.6",
+		"theme_description":"Elegant & Creative One Page WordPress Theme.",
+		"xml_file":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/flexible\/default\/flexible.xml",
+		"theme_settings":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/flexible\/default\/flexible-export.dat",
+		"widgets_file":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/flexible\/default\/flexible-widgets.wie",
+		"preview_screen":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/flexible\/default\/screenshot.png",
+		"preview_url":"https:\/\/demo.mysterythemes.com\/flexible-lite\/",
+		"is_shop":false,
+		"theme_type":[
+			"free",
+			"portfolio",
+			"multipurpose"
+		],
+		"show_on_front":"page",
+		"home_title":"Home",
+		"blog_title":"",
+		"menus_locations":{
+			"primary":"primary"
+		},
+		"widgets_data_update":{
+			"dropdown_pages":{
+				"flexible_lite_about_page":{
+					"1":{
+						"section_page_id":"About"
+					}
+				}
+			},
+			"dropdown_categories":{
+				"category":{
+					"flexible_lite_testimonials_section":{
+						"1":{
+							"section_cat_id":"testimonial"
+						}
+					},
+					"flexible_lite_sponsors":{
+						"1":{
+							"section_cat_id":"sponsors"
+						}
+					}
+				}
+			},
+			"multi_checkbox":{
+				"category":{
+					"flexible_lite_latest_news":{
+						"1":{
+							"slider_cat_ids":["Blog"]
+						}
+					}
+				}
+			}
+		},
+		"plugins_list":{
+			"contact-form-7":{
+				"name":"Contact Form 7",
+				"slug":"contact-form-7\/wp-contact-form-7.php",
+				"required":true
+			}
+		}
+	}
+}
