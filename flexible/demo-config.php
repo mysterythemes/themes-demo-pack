@@ -21,7 +21,7 @@ function mt_demo_importer_config(){
 	$theme_slug 	= 'flexible';
 	$git_url 		= 'https://raw.githubusercontent.com/mysterythemes/themes-demo-pack/master/'.$theme_slug.'/';
 	$demo_config 	= array(
-		'flexible-lite' => array(
+		'flexible' => array(
 			'name'				=> esc_html__( 'Flexible Lite', 'mystery-demo-importer' ),
 			'theme_slug'        => $theme_slug.'-lite',
 			'version'			=> '1.1.6',
@@ -40,6 +40,13 @@ function mt_demo_importer_config(){
 				'primary' 	 => 'primary'
 			),
 			'widgets_data_update'    => array(
+				'dropdown_pages' => array(
+					'flexible_lite_about_page'   => array(
+						1 => array(
+							'section_page_id' 	=> 'About'
+						)
+					)
+				),
 				'dropdown_categories' => array(
 					'category' => array(
 						'flexible_lite_testimonials_section'   => array(

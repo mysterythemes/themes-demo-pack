@@ -1,5 +1,5 @@
 {
-	"flexible-lite":{
+	"flexible":{
 		"name":"Flexible Lite",
 		"theme_slug":"flexible-lite",
 		"version":"1.1.6",
@@ -22,6 +22,13 @@
 			"primary":"primary"
 		},
 		"widgets_data_update":{
+			"dropdown_pages":{
+				"flexible_lite_about_page":{
+					"1":{
+						"section_page_id":"About"
+					}
+				}
+			},
 			"dropdown_categories":{
 				"category":{
 					"flexible_lite_testimonials_section":{
