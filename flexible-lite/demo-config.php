@@ -43,7 +43,7 @@ function mt_demo_importer_config(){
 				'dropdown_pages' => array(
 					'flexible_lite_about_page'   => array(
 						1 => array(
-							'section_page_id' 	=> 'About'
+							'section_page_id' 	=> 'about'
 						)
 					)
 				),
