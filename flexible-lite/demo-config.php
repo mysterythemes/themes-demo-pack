@@ -18,10 +18,10 @@ if ( ! defined( 'ABSPATH' ) ) {
  */
 function mt_demo_importer_config(){
 	
-	$theme_slug 	= 'flexible';
+	$theme_slug 	= 'flexible-lite';
 	$git_url 		= 'https://raw.githubusercontent.com/mysterythemes/themes-demo-pack/master/'.$theme_slug.'/';
 	$demo_config 	= array(
-		'flexible' => array(
+		'flexible-lite' => array(
 			'name'				=> esc_html__( 'Flexible Lite', 'mystery-demo-importer' ),
 			'theme_slug'        => $theme_slug.'-lite',
 			'version'			=> '1.1.6',
@@ -30,7 +30,7 @@ function mt_demo_importer_config(){
 			'theme_settings' 	=> $git_url . 'default/'.$theme_slug.'-export.dat',
 			'widgets_file'  	=> $git_url . 'default/'.$theme_slug.'-widgets.wie',
 			'preview_screen'	=> $git_url . 'default/screenshot.png',
-			'preview_url'		=> 'https://demo.mysterythemes.com/'.$theme_slug.'-lite/',
+			'preview_url'		=> 'https://demo.mysterythemes.com/'.$theme_slug,
 			'is_shop'			=> false,
 			'theme_type'        => array( 'free', 'portfolio', 'multipurpose' ),
 			'show_on_front'     => 'page',

@@ -1,13 +1,13 @@
 {
-	"flexible":{
+	"flexible-lite":{
 		"name":"Flexible Lite",
 		"theme_slug":"flexible-lite",
 		"version":"1.1.6",
 		"theme_description":"Elegant & Creative One Page WordPress Theme.",
-		"xml_file":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/flexible\/default\/flexible.xml",
-		"theme_settings":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/flexible\/default\/flexible-export.dat",
-		"widgets_file":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/flexible\/default\/flexible-widgets.wie",
-		"preview_screen":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/flexible\/default\/screenshot.png",
+		"xml_file":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/flexible-lite\/default\/flexible.xml",
+		"theme_settings":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/flexible-lite\/default\/flexible-export.dat",
+		"widgets_file":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/flexible-lite\/default\/flexible-widgets.wie",
+		"preview_screen":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/flexible-lite\/default\/screenshot.png",
 		"preview_url":"https:\/\/demo.mysterythemes.com\/flexible-lite\/",
 		"is_shop":false,
 		"theme_type":[
