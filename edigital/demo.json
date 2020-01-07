@@ -1,0 +1,72 @@
+{
+    "edigital":{
+        "name":"Edigital",
+        "theme_slug":"edigital",
+        "version":"1.1.7",
+        "theme_description":"Multipurpose theme mainly designed for Easy Digital Downloads Plugin.",
+        "xml_file":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/edigital\/default\/edigital.xml",
+        "theme_settings":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/edigital\/default\/edigital-export.dat",
+        "widgets_file":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/edigital\/default\/edigital-widgets.wie",
+        "preview_screen":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/edigital\/default\/screenshot.png",
+        "preview_url":"https:\/\/demo.mysterythemes.com\/edigital\/",
+        "is_shop":false,
+        "theme_type":[
+            "free",
+            "multipurpose",
+            "ecommerce"
+        ],
+        "show_on_front":"page",
+        "home_title":"Home",
+        "blog_title":"",
+        "menus_locations":{
+            "edigital_primary":"primary",
+            "edigital_footer":"Footer Menu"
+        },
+        "widgets_data_update":{
+            "dropdown_categories":{
+                "category":{
+                    "edigital_service_section":{
+                        "1":{
+                            "section_cat_id":"features"
+                        }
+                    },
+                    "edigital_testimonials":{
+                        "1":{
+                            "section_cat_id":"Testimonials"
+                        }
+                    }
+                }
+            },
+            "dropdown_categories":{
+                "download_category":{
+                    "edigital_featured_products":{
+                        "1":{
+                            "section_edd_cat_id":"featured"
+                        }
+                    }
+                }
+            },
+            "multi_checkbox":{
+                "category":{
+                    "edigital_latest_blog":{
+                        "2":{
+                            "section_cat_ids":["blog"]
+                        }
+                    }
+                }
+            }
+        },
+        "plugins_list":{
+            "contact-form-7":{
+                "name":"Contact Form 7",
+                "slug":"contact-form-7\/wp-contact-form-7.php",
+                "required":true
+            },
+            "easy-digital-downloads":{
+                "name":"Easy Digital Downloads",
+                "slug":"easy-digital-downloads\/easy-digital-downloads.php",
+                "required":true
+            }
+        }
+    }
+}

@@ -43,29 +43,14 @@ function mt_demo_importer_config(){
 			'widgets_data_update'    => array(
 				'dropdown_categories' => array(
 					'category' => array(
-						'owner_grid_layout'   => array(
-							2 => array(
-								'section_cat_id' 	=> 'Services'
+						'edigital_service_section'   => array(
+							1 => array(
+								'section_cat_id' 	=> 'features'
 							)
 						),
-						'owner_portfolio'   => array(
-							2 => array(
-								'section_cat_id' 	=> 'Portfolio'
-							)
-						),
-						'owner_team'   => array(
-							2 => array(
-								'section_cat_id' 	=> 'Team'
-							)
-						),
-						'owner_testimonials'   => array(
-							2 => array(
+						'edigital_testimonials'   => array(
+							1 => array(
 								'section_cat_id' 	=> 'Testimonials'
-							)
-						),
-						'owner_sponsors'   => array(
-							2 => array(
-								'section_cat_id' 	=> 'Sponsors'
 							)
 						)
 					)
@@ -81,9 +66,9 @@ function mt_demo_importer_config(){
 				),
 				'multi_checkbox' => array(
 					'category' => array(
-						'owner_latest_blog' => array(
+						'edigital_latest_blog' => array(
 							2 => array(
-								'section_cat_ids' 	=> array( 'Blog' )
+								'section_cat_ids' 	=> array( 'blog' )
 							),
 						)
 					)
@@ -91,9 +76,14 @@ function mt_demo_importer_config(){
 			),
 			'plugins_list' => array(
 				'contact-form-7' => array(
-					'name'=> __( 'Contact Form 7', 'mystery-demo-importer' ),
-					'slug'=> 'contact-form-7/wp-contact-form-7.php',
-					'required'=> true
+					'name'		=> __( 'Contact Form 7', 'mystery-demo-importer' ),
+					'slug'		=> 'contact-form-7/wp-contact-form-7.php',
+					'required'	=> true
+				),
+				'easy-digital-downloads' => array(
+					'name'		=> __( 'Easy Digital Downloads', 'mystery-demo-importer' ),
+					'slug'		=> 'easy-digital-downloads/easy-digital-downloads.php',
+					'required'	=> true
 				)
 			)
 		)
