@@ -83,17 +83,16 @@
 			}
 		}
 	},
-
 	"news-portal-pro":{
 		"name":"News Portal Pro",
-		"theme_slug":"news-portal",
+		"theme_slug":"news-portal-pro",
 		"version":"1.1.5",
 		"theme_description":"Ultimate responsive premium magazine WordPress Theme.",
-		"xml_file":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/news-portal\/news-portal-pro\/news-portal.xml",
-		"theme_settings":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/news-portal\/news-portal-pro\/news-portal-export.dat",
-		"widgets_file":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/news-portal\/news-portal-pro\/news-portal-widgets.wie",
+		"xml_file":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/news-portal\/news-portal-pro\/news-portal-pro.xml",
+		"theme_settings":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/news-portal\/news-portal-pro\/news-portal-pro-export.dat",
+		"widgets_file":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/news-portal\/news-portal-pro\/news-portal-pro-widgets.wie",
 		"preview_screen":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/news-portal\/news-portal-pro\/screenshot.png",
-		"preview_url":"http:\/\/demo.mysterythemes.com\/news-portal\/",
+		"preview_url":"http:\/\/demo.mysterythemes.com\/news-portal-pro\/",
 		"is_shop":true,
 		"theme_type":[
 			"premium",

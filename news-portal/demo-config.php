@@ -19,6 +19,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 function mt_demo_importer_config(){
 	
 	$theme_slug 	= 'news-portal';
+	$pro_theme_slug = 'news-portal-pro';
 	$git_url 		= 'https://raw.githubusercontent.com/mysterythemes/themes-demo-pack/master/'.$theme_slug.'/';
 	$demo_config 	= array(
 		'news-portal' => array(
@@ -95,14 +96,14 @@ function mt_demo_importer_config(){
 
 		'news-portal-pro' => array(
 			'name'				=> esc_html__( 'News Portal Pro', 'mystery-demo-importer' ),
-			'theme_slug'        => $theme_slug,
+			'theme_slug'        => $pro_theme_slug,
 			'version' 			=> '1.1.5',
 			'theme_description' => esc_html__( 'Ultimate responsive premium magazine WordPress Theme.', 'mystery-demo-importer' ),
-			'xml_file'     		=> $git_url . 'news-portal-pro/'.$theme_slug.'.xml',
-			'theme_settings' 	=> $git_url . 'news-portal-pro/'.$theme_slug.'-export.dat',
-			'widgets_file'  	=> $git_url . 'news-portal-pro/'.$theme_slug.'-widgets.wie',
+			'xml_file'     		=> $git_url . 'news-portal-pro/'.$pro_theme_slug.'.xml',
+			'theme_settings' 	=> $git_url . 'news-portal-pro/'.$pro_theme_slug.'-export.dat',
+			'widgets_file'  	=> $git_url . 'news-portal-pro/'.$pro_theme_slug.'-widgets.wie',
 			'preview_screen'	=> $git_url . 'news-portal-pro/screenshot.png',
-			'preview_url'		=> 'http://demo.mysterythemes.com/'.$theme_slug.'/',
+			'preview_url'		=> 'http://demo.mysterythemes.com/'.$pro_theme_slug.'/',
 			'is_shop'			=> true,
 			'theme_type'        => array( 'premium', 'blog', 'magazine' ),
 			'show_on_front'     => 'page',
