@@ -44,19 +44,19 @@ function mt_demo_importer_config(){
 			),
 			'plugins_list' => array(
 				'contact-form-7' => array(
-					'name'=> 'Contact Form 7',
-					'slug'=> 'contact-form-7/wp-contact-form-7.php',
-					'required'=> true
+					'name'		=> 'Contact Form 7',
+					'slug'		=> 'contact-form-7/wp-contact-form-7.php',
+					'required'	=> true
 				),
 				'woocommerce' => array(
-					'name'=> 'WooCommerce',
-					'slug'=> 'woocommerce/woocommerce.php',
-					'required'=> true
+					'name'		=> 'WooCommerce',
+					'slug'		=> 'woocommerce/woocommerce.php',
+					'required'	=> true
 				),
 				'yith-woocommerce-wishlist' => array(
-					'name'=> 'YITH WooCommerce Wishlist',
-					'slug'=> 'yith-woocommerce-wishlist/init.php',
-					'required'=> true
+					'name'		=> 'YITH WooCommerce Wishlist',
+					'slug'		=> 'yith-woocommerce-wishlist/init.php',
+					'required'	=> true
 				)
 			)
 		)
