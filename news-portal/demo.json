@@ -82,5 +82,89 @@
 				"required":true
 			}
 		}
+	},
+
+	"news-portal-pro":{
+		"name":"News Portal Pro",
+		"theme_slug":"news-portal",
+		"version":"1.1.5",
+		"theme_description":"Ultimate responsive premium magazine WordPress Theme.",
+		"xml_file":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/news-portal\/news-portal-pro\/news-portal.xml",
+		"theme_settings":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/news-portal\/news-portal-pro\/news-portal-export.dat",
+		"widgets_file":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/news-portal\/news-portal-pro\/news-portal-widgets.wie",
+		"preview_screen":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/news-portal\/news-portal-pro\/screenshot.png",
+		"preview_url":"http:\/\/demo.mysterythemes.com\/news-portal\/",
+		"is_shop":true,
+		"theme_type":[
+			"premium",
+			"blog",
+			"magazine"
+		],
+		"show_on_front":"page",
+		"home_title":"Home",
+		"blog_title":"",
+		"menus_locations":{
+			"news_portal_top_menu":"top menu",
+			"news_portal_primary_menu":"primary menu",
+			"news_portal_footer_menu":"footer menu"
+		},
+		"widgets_data_update":{
+			"dropdown_categories":{
+				"category":{
+					"news_portal_block_posts":{
+						"2":{
+							"block_cat_id":"Sports"
+						},
+						"3":{
+							"block_cat_id":"Health"
+						}
+					}
+				}
+			},
+			"multi_checkbox":{
+				"category":{
+					"news_portal_featured_slider":{
+						"2":{
+							"slider_cat_ids":["Lifestyle"],
+							"featured_cat_ids":["Food","Sports","Tech","Travel"]
+						}
+					},
+					"news_portal_featured_posts":{
+						"3":{
+							"block_cat_ids":["Food","Gadget","Health"]
+						}
+					},
+					"news_portal_list_posts":{
+						"3":{
+							"block_cat_ids":["Gadget"]
+						},
+							"4":{"block_cat_ids":["Tech"]
+						}
+					},
+					"news_portal_fullwidth_posts":{
+						"3":{
+							"block_cat_ids":["Travel"]
+						}
+					},
+					"news_portal_carousel":{
+						"2":{
+							"block_cat_ids":["Travel"]
+						}
+					}
+				}
+			}
+		},
+		"plugins_list":{
+			"contact-form-7":{
+				"name":"Contact Form 7",
+				"slug":"contact-form-7\/wp-contact-form-7.php",
+				"required":true
+			},
+			"woocommerce":{
+				"name":"WooCommerce",
+				"slug":"woocommerce\/woocommerce.php",
+				"required":true
+			}
+		}
 	}
 }
