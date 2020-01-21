@@ -181,7 +181,7 @@ function mt_demo_importer_config(){
 
 		'news-portal-pro-fashion' => array(
 			'name'					=> esc_html__( 'News Portal Pro Fashion', 'mystery-demo-importer' ),
-			'theme_slug'        	=> $pro_theme_slug,
+			'theme_slug'        	=> $pro_theme_slug.'-fashion',
 			'version' 				=> '1.1.5',
 			'theme_description' 	=> esc_html__( 'Ultimate responsive premium magazine WordPress Theme.', 'mystery-demo-importer' ),
 			'xml_file'     			=> $git_url . 'news-portal-pro-fashion/'.$pro_theme_slug.'.xml',
