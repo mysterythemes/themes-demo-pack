@@ -177,6 +177,68 @@ function mt_demo_importer_config(){
 					'required'	=> true
 				),
 			)
+		),
+
+		'news-portal-pro-fashion' => array(
+			'name'					=> esc_html__( 'News Portal Pro Fashion', 'mystery-demo-importer' ),
+			'theme_slug'        	=> $pro_theme_slug,
+			'version' 				=> '1.1.5',
+			'theme_description' 	=> esc_html__( 'Ultimate responsive premium magazine WordPress Theme.', 'mystery-demo-importer' ),
+			'xml_file'     			=> $git_url . 'news-portal-pro-fashion/'.$pro_theme_slug.'.xml',
+			'theme_settings' 		=> $git_url . 'news-portal-pro-fashion/'.$pro_theme_slug.'-export.dat',
+			'widgets_file'  		=> $git_url . 'news-portal-pro-fashion/'.$pro_theme_slug.'-widgets.wie',
+			'preview_screen'		=> $git_url . 'news-portal-pro-fashion/screenshot.png',
+			'preview_url'			=> 'https://demo.mysterythemes.com/'.$pro_theme_slug.'/',
+			'is_shop'				=> false,
+			'theme_type'        	=> array( 'premium', 'blog', 'magazine' ),
+			'show_on_front'     	=> 'page',
+			'home_title'  			=> 'Home',
+			'blog_title'  			=> '',
+			'menus_locations'		=> array(
+				'news_portal_primary_menu' 	=> 'primary menu'
+			),
+			'widgets_data_update'    => array(
+				'dropdown_categories' => array(
+					'category' => array(
+						'news_portal_block_posts'   => array(
+							2 => array(
+								'block_cat_id' => 'Men'
+							),
+							3 => array(
+								'block_cat_id' => 'Women'
+							)
+						)
+					)
+				),
+				'multi_checkbox' => array(
+					'category' => array(
+						'news_portal_featured_posts' => array(
+							2 => array(
+								'block_cat_ids'	=> array( 'Featured' )
+							),
+						),
+
+						'news_portal_list_posts' => array(
+							2 => array(
+								'block_cat_ids'	=> array( 'girls' )
+							),
+						),
+
+						'news_portal_fullwidth_posts' => array(
+							2 => array(
+								'block_cat_ids'	=> array( 'summer', 'Trend' )
+							),
+						)
+					)
+				)
+			),
+			'plugins_list' => array(
+				'contact-form-7' => array(
+					'name'		=> 'Contact Form 7',
+					'slug'		=> 'contact-form-7/wp-contact-form-7.php',
+					'required'	=> true
+				)
+			)
 		)
 	);
 
