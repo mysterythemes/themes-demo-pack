@@ -188,7 +188,7 @@ function mt_demo_importer_config(){
 			'theme_settings' 		=> $git_url . 'news-portal-pro-fashion/'.$pro_theme_slug.'-export.dat',
 			'widgets_file'  		=> $git_url . 'news-portal-pro-fashion/'.$pro_theme_slug.'-widgets.wie',
 			'preview_screen'		=> $git_url . 'news-portal-pro-fashion/screenshot.png',
-			'preview_url'			=> 'https://demo.mysterythemes.com/'.$pro_theme_slug.'/',
+			'preview_url'			=> 'https://demo.mysterythemes.com/'.$pro_theme_slug.'/-fashion',
 			'is_shop'				=> false,
 			'theme_type'        	=> array( 'premium', 'blog', 'magazine' ),
 			'show_on_front'     	=> 'page',
