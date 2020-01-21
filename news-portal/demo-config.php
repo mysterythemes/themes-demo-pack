@@ -31,7 +31,7 @@ function mt_demo_importer_config(){
 			'theme_settings' 	=> $git_url . 'news-portal/'.$theme_slug.'-export.dat',
 			'widgets_file'  	=> $git_url . 'news-portal/'.$theme_slug.'-widgets.wie',
 			'preview_screen'	=> $git_url . 'news-portal/screenshot.png',
-			'preview_url'		=> 'http://demo.mysterythemes.com/'.$theme_slug.'/',
+			'preview_url'		=> 'https://demo.mysterythemes.com/'.$theme_slug.'/',
 			'is_shop'			=> false,
 			'theme_type'        => array( 'free', 'blog', 'magazine' ),
 			'show_on_front'     => 'page',
@@ -91,7 +91,7 @@ function mt_demo_importer_config(){
 					'slug'		=> 'contact-form-7/wp-contact-form-7.php',
 					'required'	=> true
 				)
-			 )
+			)
 		),
 
 		'news-portal-pro' => array(
@@ -103,7 +103,7 @@ function mt_demo_importer_config(){
 			'theme_settings' 	=> $git_url . 'news-portal-pro/'.$pro_theme_slug.'-export.dat',
 			'widgets_file'  	=> $git_url . 'news-portal-pro/'.$pro_theme_slug.'-widgets.wie',
 			'preview_screen'	=> $git_url . 'news-portal-pro/screenshot.png',
-			'preview_url'		=> 'http://demo.mysterythemes.com/'.$pro_theme_slug.'/',
+			'preview_url'		=> 'https://demo.mysterythemes.com/'.$pro_theme_slug.'/',
 			'is_shop'			=> true,
 			'theme_type'        => array( 'premium', 'blog', 'magazine' ),
 			'show_on_front'     => 'page',
@@ -137,7 +137,7 @@ function mt_demo_importer_config(){
 						),
 
 						'news_portal_featured_posts' => array(
-							3 => array(
+							2 => array(
 								'block_cat_ids'	=> array( 'Food', 'Gadget', 'Health' )
 							),
 						),
@@ -162,8 +162,6 @@ function mt_demo_importer_config(){
 								'block_cat_ids'	=> array( 'Travel' )
 							),
 						),
-
-
 					)
 				)
 			),

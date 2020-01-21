@@ -8,7 +8,7 @@
 		"theme_settings":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/news-portal\/news-portal\/news-portal-export.dat",
 		"widgets_file":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/news-portal\/news-portal\/news-portal-widgets.wie",
 		"preview_screen":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/news-portal\/news-portal\/screenshot.png",
-		"preview_url":"http:\/\/demo.mysterythemes.com\/news-portal\/",
+		"preview_url":"https:\/\/demo.mysterythemes.com\/news-portal\/",
 		"is_shop":false,
 		"theme_type":[
 			"free",
@@ -92,7 +92,7 @@
 		"theme_settings":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/news-portal\/news-portal-pro\/news-portal-pro-export.dat",
 		"widgets_file":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/news-portal\/news-portal-pro\/news-portal-pro-widgets.wie",
 		"preview_screen":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/news-portal\/news-portal-pro\/screenshot.png",
-		"preview_url":"http:\/\/demo.mysterythemes.com\/news-portal-pro\/",
+		"preview_url":"https:\/\/demo.mysterythemes.com\/news-portal-pro\/",
 		"is_shop":true,
 		"theme_type":[
 			"premium",
@@ -129,7 +129,7 @@
 						}
 					},
 					"news_portal_featured_posts":{
-						"3":{
+						"2":{
 							"block_cat_ids":["Food","Gadget","Health"]
 						}
 					},
