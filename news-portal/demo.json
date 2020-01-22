@@ -228,5 +228,61 @@
 				"required":true
 			}
 		}
+	},
+	"news-portal-pro-blog":{
+		"name":"News Portal Pro Blog",
+		"theme_slug":"news-portal-pro-blog",
+		"version":"1.1.5",
+		"theme_description":"Ultimate responsive premium magazine WordPress Theme.",
+		"xml_file":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/news-portal\/news-portal-pro-blog\/news-portal-pro.xml",
+		"theme_settings":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/news-portal\/news-portal-pro-blog\/news-portal-pro-export.dat",
+		"widgets_file":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/news-portal\/news-portal-pro-blog\/news-portal-pro-widgets.wie",
+		"preview_screen":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/news-portal\/news-portal-pro-blog\/screenshot.png",
+		"preview_url":"https:\/\/demo.mysterythemes.com\/news-portal-pro-blog\/",
+		"is_shop":false,
+		"theme_type":[
+			"premium",
+			"blog",
+			"magazine"
+		],
+		"show_on_front":"page",
+		"home_title":"Home",
+		"blog_title":"Blog",
+		"menus_locations":{
+			"news_portal_primary_menu":"primary menu"
+		},
+		"widgets_data_update":{
+			"multi_checkbox":{
+				"category":{
+					"news_portal_slider":{
+						"2":{
+							"slider_cat_ids":["Slider"]
+						}
+					},
+					"news_portal_list_posts":{
+						"2":{
+							"block_cat_ids":["Lifestyle"]
+						}
+					},
+					"news_portal_fullwidth_posts":{
+						"2":{
+							"block_cat_ids":["Photography","Technology","Wildlife"]
+						}
+					},
+					"news_portal_carousel":{
+						"2":{
+							"block_cat_ids":["Food","Photography","Wildlife"]
+						}
+					}
+				}
+			}
+		},
+		"plugins_list":{
+			"contact-form-7":{
+				"name":"Contact Form 7",
+				"slug":"contact-form-7\/wp-contact-form-7.php",
+				"required":true
+			}
+		}
 	}
 }
