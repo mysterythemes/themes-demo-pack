@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.3.2" created="2020-01-22 10:24" -->
+	<!-- generator="WordPress/5.3.2" created="2020-01-22 10:50" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>News Portal Pro Fashion - Ultimate Magazine WordPress Theme</title>
 	<link>https://demo.mysterythemes.com/news-portal-pro-fashion</link>
 	<description>Just another Mystery Themes Demos site</description>
-	<pubDate>Wed, 22 Jan 2020 10:24:23 +0000</pubDate>
+	<pubDate>Wed, 22 Jan 2020 10:50:17 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://demo.mysterythemes.com/</wp:base_site_url>
@@ -2515,21 +2515,7 @@ Suspendisse mauris. Fusce accumsan mollis eros. Pellentesque a diam sit amet mi 
 		<wp:meta_key><![CDATA[post_meta_identity]]></wp:meta_key>
 		<wp:meta_value><![CDATA[np-metabox-info]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:comment>
-			<wp:comment_id>8</wp:comment_id>
-			<wp:comment_author><![CDATA[Trending Looks For Boys &#8211; Nirontar]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[]]></wp:comment_author_email>
-			<wp:comment_author_url>https://nirontar.com/2019/08/03/trending-looks-for-boys/</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[138.128.162.210]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2019-08-03 03:19:28]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2019-08-03 03:19:28]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[[&#8230;] FeaturedMenworldJanuary 8, 2017DemoAdmin197Leave a Comment on Trending Looks For Boys [&#8230;]]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[pingback]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>0</wp:comment_user_id>
-							</wp:comment>
-					</item>
+							</item>
 					<item>
 		<title>Fashion For Simple Girls</title>
 		<link>https://demo.mysterythemes.com/news-portal-pro-fashion/fashion-for-simple-girls/</link>
