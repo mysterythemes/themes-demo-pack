@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.3.2" created="2020-01-21 08:03" -->
+	<!-- generator="WordPress/5.3.2" created="2020-01-22 10:24" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>News Portal Pro Fashion - Ultimate Magazine WordPress Theme</title>
 	<link>https://demo.mysterythemes.com/news-portal-pro-fashion</link>
 	<description>Just another Mystery Themes Demos site</description>
-	<pubDate>Tue, 21 Jan 2020 08:03:43 +0000</pubDate>
+	<pubDate>Wed, 22 Jan 2020 10:24:23 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://demo.mysterythemes.com/</wp:base_site_url>
@@ -940,44 +940,6 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
 		<wp:meta_value><![CDATA[demoadmin]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Home</title>
-		<link>https://demo.mysterythemes.com/news-portal-pro-fashion/</link>
-		<pubDate>Sun, 08 Jan 2017 05:52:55 +0000</pubDate>
-		<dc:creator><![CDATA[DemoAdmin]]></dc:creator>
-		<guid isPermaLink="false">http://demo.mysterythemes.com/editorial-pro/fashion/?page_id=8</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>8</wp:post_id>
-		<wp:post_date><![CDATA[2017-01-08 05:52:55]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2017-01-08 05:52:55]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[home]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[templates/template-home.php]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[editorial_pro_sidebar_location]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default_sidebar]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[demoadmin]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1930,6 +1892,75 @@ Click the help icon above to learn more.
 		</wp:postmeta>
 							</item>
 					<item>
+		<title>news-portal-pro-fashion-logo</title>
+		<link>https://demo.mysterythemes.com/news-portal-pro-fashion/news-portal-pro-fashion-logo/</link>
+		<pubDate>Wed, 22 Jan 2020 10:21:06 +0000</pubDate>
+		<dc:creator><![CDATA[DemoAdmin]]></dc:creator>
+		<guid isPermaLink="false">https://demo.mysterythemes.com/news-portal-pro-fashion/wp-content/uploads/sites/16/2020/01/news-portal-pro-fashion-logo.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>177</wp:post_id>
+		<wp:post_date><![CDATA[2020-01-22 10:21:06]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-01-22 10:21:06]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[news-portal-pro-fashion-logo]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://demo.mysterythemes.com/news-portal-pro-fashion/wp-content/uploads/sites/16/2020/01/news-portal-pro-fashion-logo.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/01/news-portal-pro-fashion-logo.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:372;s:6:"height";i:45;s:4:"file";s:40:"2020/01/news-portal-pro-fashion-logo.png";s:5:"sizes";a:7:{s:6:"medium";a:4:{s:4:"file";s:39:"news-portal-pro-fashion-logo-300x36.png";s:5:"width";i:300;s:6:"height";i:36;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:39:"news-portal-pro-fashion-logo-150x45.png";s:5:"width";i:150;s:6:"height";i:45;s:9:"mime-type";s:9:"image/png";}s:23:"news-portal-block-thumb";a:4:{s:4:"file";s:39:"news-portal-pro-fashion-logo-136x45.png";s:5:"width";i:136;s:6:"height";i:45;s:9:"mime-type";s:9:"image/png";}s:24:"news-portal-block-medium";a:4:{s:4:"file";s:39:"news-portal-pro-fashion-logo-305x45.png";s:5:"width";i:305;s:6:"height";i:45;s:9:"mime-type";s:9:"image/png";}s:26:"news-portal-alternate-grid";a:4:{s:4:"file";s:39:"news-portal-pro-fashion-logo-340x45.png";s:5:"width";i:340;s:6:"height";i:45;s:9:"mime-type";s:9:"image/png";}s:26:"news-portal-portrait-thumb";a:4:{s:4:"file";s:39:"news-portal-pro-fashion-logo-305x45.png";s:5:"width";i:305;s:6:"height";i:45;s:9:"mime-type";s:9:"image/png";}s:30:"news-portal-small-square-thumb";a:4:{s:4:"file";s:39:"news-portal-pro-fashion-logo-321x45.png";s:5:"width";i:321;s:6:"height";i:45;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Home</title>
+		<link>https://demo.mysterythemes.com/news-portal-pro-fashion/</link>
+		<pubDate>Sun, 08 Jan 2017 05:52:55 +0000</pubDate>
+		<dc:creator><![CDATA[DemoAdmin]]></dc:creator>
+		<guid isPermaLink="false">http://demo.mysterythemes.com/editorial-pro/fashion/?page_id=8</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>8</wp:post_id>
+		<wp:post_date><![CDATA[2017-01-08 05:52:55]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-01-08 05:52:55]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[home]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[templates/template-home.php]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[editorial_pro_sidebar_location]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default_sidebar]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[demoadmin]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title>Boys New Trending Fashion For 2017</title>
 		<link>https://demo.mysterythemes.com/news-portal-pro-fashion/boys-new-trending-fashion-for-2017/</link>
 		<pubDate>Sun, 08 Jan 2017 06:15:04 +0000</pubDate>
@@ -1983,7 +2014,7 @@ Suspendisse mauris. Fusce accumsan mollis eros. Pellentesque a diam sit amet mi 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[news_portal_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[449]]></wp:meta_value>
+		<wp:meta_value><![CDATA[450]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -2133,7 +2164,7 @@ Suspendisse mauris. Fusce accumsan mollis eros. Pellentesque a diam sit amet mi 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[news_portal_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[239]]></wp:meta_value>
+		<wp:meta_value><![CDATA[240]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -2207,7 +2238,7 @@ Suspendisse mauris. Fusce accumsan mollis eros. Pellentesque a diam sit amet mi 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[news_portal_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[245]]></wp:meta_value>
+		<wp:meta_value><![CDATA[246]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2264,7 +2295,7 @@ Suspendisse mauris. Fusce accumsan mollis eros. Pellentesque a diam sit amet mi 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[news_portal_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[258]]></wp:meta_value>
+		<wp:meta_value><![CDATA[259]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -2337,7 +2368,7 @@ Suspendisse mauris. Fusce accumsan mollis eros. Pellentesque a diam sit amet mi 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[news_portal_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[465]]></wp:meta_value>
+		<wp:meta_value><![CDATA[466]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -2606,7 +2637,7 @@ Suspendisse mauris. Fusce accumsan mollis eros. Pellentesque a diam sit amet mi 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[news_portal_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[395]]></wp:meta_value>
+		<wp:meta_value><![CDATA[396]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2662,7 +2693,7 @@ Suspendisse mauris. Fusce accumsan mollis eros. Pellentesque a diam sit amet mi 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[news_portal_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[317]]></wp:meta_value>
+		<wp:meta_value><![CDATA[318]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2718,7 +2749,7 @@ Suspendisse mauris. Fusce accumsan mollis eros. Pellentesque a diam sit amet mi 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[news_portal_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[350]]></wp:meta_value>
+		<wp:meta_value><![CDATA[351]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2775,7 +2806,7 @@ Suspendisse mauris. Fusce accumsan mollis eros. Pellentesque a diam sit amet mi 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[news_portal_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[297]]></wp:meta_value>
+		<wp:meta_value><![CDATA[298]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -2847,7 +2878,7 @@ Suspendisse mauris. Fusce accumsan mollis eros. Pellentesque a diam sit amet mi 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[news_portal_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[346]]></wp:meta_value>
+		<wp:meta_value><![CDATA[347]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -2920,7 +2951,7 @@ Suspendisse mauris. Fusce accumsan mollis eros. Pellentesque a diam sit amet mi 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[news_portal_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[341]]></wp:meta_value>
+		<wp:meta_value><![CDATA[342]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
