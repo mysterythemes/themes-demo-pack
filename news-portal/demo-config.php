@@ -20,6 +20,7 @@ function mt_demo_importer_config(){
 	
 	$theme_slug 	= 'news-portal';
 	$pro_theme_slug = 'news-portal-pro';
+	$fashion_demo_slug = 'news-portal-pro-fashion';
 	$git_url 		= 'https://raw.githubusercontent.com/mysterythemes/themes-demo-pack/master/'.$theme_slug.'/';
 	$demo_config 	= array(
 		'news-portal' => array(
@@ -181,14 +182,14 @@ function mt_demo_importer_config(){
 
 		'news-portal-pro-fashion' => array(
 			'name'					=> esc_html__( 'News Portal Pro Fashion', 'mystery-demo-importer' ),
-			'theme_slug'        	=> $pro_theme_slug.'-fashion',
+			'theme_slug'        	=> $fashion_demo_slug,
 			'version' 				=> '1.1.5',
 			'theme_description' 	=> esc_html__( 'Ultimate responsive premium magazine WordPress Theme.', 'mystery-demo-importer' ),
-			'xml_file'     			=> $git_url . 'news-portal-pro-fashion/'.$pro_theme_slug.'.xml',
-			'theme_settings' 		=> $git_url . 'news-portal-pro-fashion/'.$pro_theme_slug.'-export.dat',
-			'widgets_file'  		=> $git_url . 'news-portal-pro-fashion/'.$pro_theme_slug.'-widgets.wie',
+			'xml_file'     			=> $git_url . 'news-portal-pro-fashion/'.$fashion_demo_slug.'.xml',
+			'theme_settings' 		=> $git_url . 'news-portal-pro-fashion/'.$fashion_demo_slug.'-export.dat',
+			'widgets_file'  		=> $git_url . 'news-portal-pro-fashion/'.$fashion_demo_slug.'-widgets.wie',
 			'preview_screen'		=> $git_url . 'news-portal-pro-fashion/screenshot.png',
-			'preview_url'			=> 'https://demo.mysterythemes.com/'.$pro_theme_slug.'/-fashion',
+			'preview_url'			=> 'https://demo.mysterythemes.com/'.$fashion_demo_slug,
 			'is_shop'				=> false,
 			'theme_type'        	=> array( 'premium', 'blog', 'magazine' ),
 			'show_on_front'     	=> 'page',
@@ -232,6 +233,11 @@ function mt_demo_importer_config(){
 					)
 				)
 			),
+			/*'customizer_data_update' => array(
+				'nav_menu_locations' => array(
+					'news_portal_primary_menu'   => 'primary menu'
+				),
+			),*/
 			'plugins_list' => array(
 				'contact-form-7' => array(
 					'name'		=> 'Contact Form 7',
