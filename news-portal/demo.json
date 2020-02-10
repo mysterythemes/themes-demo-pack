@@ -282,6 +282,11 @@
 				}
 			}
 		},
+		"customizer_data_update": {
+			"nav_menu_locations": {
+				"news_portal_primary_menu": "primary menu"
+			}
+		},
 		"plugins_list":{
 			"contact-form-7":{
 				"name":"Contact Form 7",

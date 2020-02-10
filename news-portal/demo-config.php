@@ -302,6 +302,11 @@ function mt_demo_importer_config(){
 					)
 				)
 			),
+			'customizer_data_update' => array(
+				'nav_menu_locations' => array(
+					'news_portal_primary_menu'   => 'primary menu'
+				),
+			),
 			'plugins_list' => array(
 				'contact-form-7' => array(
 					'name'		=> 'Contact Form 7',
