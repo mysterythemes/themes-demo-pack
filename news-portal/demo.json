@@ -235,7 +235,8 @@
 		}
 	},
 	"news-portal-pro-sports":{
-        "name":"News Portal Pro Sports- Ultimate Magazine WordPress Theme",
+        "name":"News Portal Pro Sports",
+        "site_title":"Ultimate Magazine WordPress Theme",
         "theme_slug":"news-portal-pro-sports",
         "version":"1.1.5",
         "theme_description":"Just another Mystery Themes Demos site",
