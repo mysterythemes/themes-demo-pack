@@ -371,5 +371,127 @@
 				"required":true
 			}
 		}
-	}
+	},
+	"news-portal-pro-food":{
+        "name":"News Portal Pro Food",
+        "site_title":"Just another Mystery Themes Demos site",
+        "theme_slug":"news-portal-pro-food",
+        "version":"1.1.5",
+        "theme_description":"Ultimate Magazine WordPress Theme",
+        "xml_file":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/news-portal\/news-portal-pro-food\/news-portal-pro.xml",
+        "theme_settings":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/news-portal\/news-portal-pro-food\/news-portal-pro-export.dat",
+        "widgets_file":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/news-portal\/news-portal-pro-food\/news-portal-pro-widgets.wie",
+        "preview_screen":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/news-portal\/news-portal-pro-food\/screenshot.png",
+        "preview_url":"https:\/\/demo.mysterythemes.com\/news-portal-pro-food\/",
+        "is_shop":false,
+        "theme_type":[
+            "premium",
+            "blog",
+            "magazine"
+        ],
+        "show_on_front":"page",
+        "home_title":"Home",
+        "blog_title":"",
+        "menus_locations":{
+            "news_portal_primary_menu":"primary menu"
+        },
+        "widgets_data_update":{
+            "multi_checkbox":{
+                "category":{
+                    "news_portal_slider":{
+                        "2":{
+                            "slider_cat_ids":["Slider"]
+                        }
+                    },
+                    "news_portal_list_posts":{
+                        "2":{
+                            "block_cat_ids":["Drinks","Launch","Salad"]
+                        }
+                    },
+                    "news_portal_fullwidth_posts":{
+                        "4":{
+                            "block_cat_ids":["Desserts"]
+                        },
+                        "6":{
+                            "block_cat_ids":["Chicken"]
+                        },
+                        "7":{
+                            "block_cat_ids":["Drinks"]
+                        }
+                    }
+                }
+            }
+        },
+        "customizer_data_update": {
+            "nav_menu_locations": {
+                "news_portal_primary_menu": "primary menu"
+            }
+        },
+        "plugins_list":{
+            "contact-form-7":{
+                "name":"Contact Form 7",
+                "slug":"contact-form-7\/wp-contact-form-7.php",
+                "required":true
+            }
+        }
+    },
+    "news-portal-pro-tech":{
+        "name":"News Portal Pro Tech",
+        "site_title":"Just another Mystery Themes Demos site",
+        "theme_slug":"news-portal-pro-tech",
+        "version":"1.1.5",
+        "theme_description":"Ultimate Magazine WordPress Theme",
+        "xml_file":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/news-portal\/news-portal-pro-tech\/news-portal-pro.xml",
+        "theme_settings":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/news-portal\/news-portal-pro-tech\/news-portal-pro-export.dat",
+        "widgets_file":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/news-portal\/news-portal-pro-tech\/news-portal-pro-widgets.wie",
+        "preview_screen":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/news-portal\/news-portal-pro-tech\/screenshot.png",
+        "preview_url":"https:\/\/demo.mysterythemes.com\/news-portal-pro-tech\/",
+        "is_shop":false,
+        "theme_type":[
+            "premium",
+            "blog",
+            "magazine"
+        ],
+        "show_on_front":"page",
+        "home_title":"Home",
+        "blog_title":"",
+        "menus_locations":{
+            "news_portal_primary_menu":"primary menu",
+            "news_portal_footer_menu":"footer menu"
+        },
+        "widgets_data_update":{
+            "multi_checkbox":{
+                "category":{
+                    "news_portal_carousel":{
+                        "2":{
+                            "block_cat_ids":["Trending"]
+                        }
+                    },
+                    "news_portal_list_posts":{
+                        "3":{
+                            "block_cat_ids":["Technology"]
+                        }
+                    },
+                    "news_portal_fullwidth_posts":{
+                        "2":{
+                            "block_cat_ids":["Gadgets"]
+                        }
+                    }
+                }
+            }
+        },
+        "customizer_data_update": {
+            "nav_menu_locations": {
+                "news_portal_primary_menu": "primary menu",
+                "news_portal_footer_menu":"footer menu"
+            }
+        },
+        "plugins_list":{
+            "contact-form-7":{
+                "name":"Contact Form 7",
+                "slug":"contact-form-7\/wp-contact-form-7.php",
+                "required":true
+            }
+        }
+    }
 }
