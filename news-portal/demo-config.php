@@ -246,6 +246,79 @@ function mt_demo_importer_config(){
 			)
 		),
 
+		'news-portal-pro-sports' => array(
+			'name'					=> esc_html__( 'News Portal Pro Sports', 'mystery-demo-importer' ),
+			'theme_slug'        	=> $pro_theme_slug.'-sports',
+			'version' 				=> '1.1.5',
+			'theme_description' 	=> esc_html__( 'Ultimate responsive premium magazine WordPress Theme.', 'mystery-demo-importer' ),
+			'xml_file'     			=> $git_url . 'news-portal-pro-sports/'.$pro_theme_slug.'.xml',
+			'theme_settings' 		=> $git_url . 'news-portal-pro-sports/'.$pro_theme_slug.'-export.dat',
+			'widgets_file'  		=> $git_url . 'news-portal-pro-sports/'.$pro_theme_slug.'-widgets.wie',
+			'preview_screen'		=> $git_url . 'news-portal-pro-sports/screenshot.png',
+			'preview_url'			=> 'https://demo.mysterythemes.com/'.$pro_theme_slug.'/-sports',
+			'is_shop'				=> false,
+			'theme_type'        	=> array( 'premium', 'blog', 'magazine' ),
+			'show_on_front'     	=> 'page',
+			'home_title'  			=> 'Home',
+			'blog_title'  			=> 'Blog',
+			'menus_locations'		=> array(
+				'news_portal_primary_menu' 	=> 'primary'
+			),
+			'widgets_data_update'    => array(
+				'dropdown_categories' => array(
+					'category' => array(
+						'news_portal_block_posts'   => array(
+							2 => array(
+								'block_cat_id' => 'sports'
+							)
+						)
+					)
+				),
+				'multi_checkbox' => array(
+					'category' => array(
+						'news_portal_featured_slider' => array(
+							2 => array(
+								'slider_cat_ids' 	=> array( 'sports' ),
+								'featured_cat_ids'	=> array( 'Foodball', 'racing' )
+							),
+						),
+						'news_portal_list_posts' => array(
+							2 => array(
+								'block_cat_ids'	=> array( 'Basketball', 'Foodball' )
+							),
+						),
+						'news_portal_featured_posts' => array(
+							3 => array(
+								'block_cat_ids'	=> array( 'racing' )
+							),
+						),
+						'news_portal_fullwidth_posts' => array(
+							3 => array(
+								'block_cat_ids'	=> array( 'racing', 'Swimming' )
+							),
+						),
+						'news_portal_carousel' => array(
+							2 => array(
+								'block_cat_ids'	=> array( 'sports' )
+							),
+						)
+					)
+				)
+			),
+			'customizer_data_update' => array(
+				'nav_menu_locations' => array(
+					'news_portal_primary_menu'   => 'primary'
+				),
+			),
+			'plugins_list' => array(
+				'contact-form-7' => array(
+					'name'		=> 'Contact Form 7',
+					'slug'		=> 'contact-form-7/wp-contact-form-7.php',
+					'required'	=> true
+				)
+			)
+		),
+
 		'news-portal-pro-blog' => array(
 			'name'					=> esc_html__( 'News Portal Pro Blog', 'mystery-demo-importer' ),
 			'theme_slug'        	=> $pro_theme_slug.'-blog',

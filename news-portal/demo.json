@@ -234,6 +234,81 @@
 			}
 		}
 	},
+	"news-portal-pro-sports":{
+		"name":"News Portal Pro Sports",
+		"theme_slug":"news-portal-pro-sports",
+		"version":"1.1.5",
+		"theme_description":"Ultimate responsive premium magazine WordPress Theme.",
+		"xml_file":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/news-portal\/news-portal-pro-sports\/news-portal-pro.xml",
+		"theme_settings":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/news-portal\/news-portal-pro-sports\/news-portal-pro-export.dat",
+		"widgets_file":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/news-portal\/news-portal-pro-sports\/news-portal-pro-widgets.wie",
+		"preview_screen":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/news-portal\/news-portal-pro-sports\/screenshot.png",
+		"preview_url":"https:\/\/demo.mysterythemes.com\/news-portal-pro\/-sports",
+		"is_shop":false,
+		"theme_type":[
+			"premium",
+			"blog",
+			"magazine"
+		],
+		"show_on_front":"page",
+		"home_title":"Home",
+		"blog_title":"Blog",
+		"menus_locations":{
+			"news_portal_primary_menu":"primary"
+		},
+		"widgets_data_update":{
+			"dropdown_categories":{
+				"category":{
+					"news_portal_block_posts":{
+						"2":{
+							"block_cat_id":"sports"
+						}
+					}
+				}
+			},
+			"multi_checkbox":{
+				"category":{
+					"news_portal_featured_slider":{
+						"2":{
+							"slider_cat_ids":["sports"],
+							"featured_cat_ids":["Foodball","racing"]
+						}
+					},
+					"news_portal_list_posts":{
+						"2":{
+							"block_cat_ids":["Basketball","Foodball"]
+						}
+					},
+					"news_portal_featured_posts":{
+						"3":{
+						"block_cat_ids":["racing"]
+					}
+				},
+				"news_portal_fullwidth_posts":{
+					"3":{
+						"block_cat_ids":["racing","Swimming"]
+					}
+				},
+				"news_portal_carousel":{
+					"2":{
+						"block_cat_ids":["sports"]
+					}
+				}
+			}
+		},
+		"customizer_data_update":{
+			"nav_menu_locations":{
+				"news_portal_primary_menu":"primary"
+			}
+		},
+		"plugins_list":{
+			"contact-form-7":{
+				"name":"Contact Form 7",
+				"slug":"contact-form-7\/wp-contact-form-7.php",
+				"required":true
+			}
+		}
+	},
 	"news-portal-pro-blog":{
 		"name":"News Portal Pro Blog- Ultimate Magazine WordPress Theme",
 		"theme_slug":"news-portal-pro-blog",
