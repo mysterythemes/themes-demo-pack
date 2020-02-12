@@ -236,7 +236,7 @@
 	},
 	"news-portal-pro-sports":{
         "name":"News Portal Pro Sports",
-        "site_title":"Ultimate Magazine WordPress Theme",
+        "blog_description":"Ultimate Magazine WordPress Theme",
         "theme_slug":"news-portal-pro-sports",
         "version":"1.1.5",
         "theme_description":"Just another Mystery Themes Demos site",
@@ -374,7 +374,7 @@
 	},
 	"news-portal-pro-food":{
         "name":"News Portal Pro Food",
-        "site_title":"Just another Mystery Themes Demos site",
+        "blog_description":"Just another Mystery Themes Demos site",
         "theme_slug":"news-portal-pro-food",
         "version":"1.1.5",
         "theme_description":"Ultimate Magazine WordPress Theme",
@@ -437,7 +437,7 @@
     },
     "news-portal-pro-tech":{
         "name":"News Portal Pro Tech",
-        "site_title":"Just another Mystery Themes Demos site",
+        "blog_description":"Just another Mystery Themes Demos site",
         "theme_slug":"news-portal-pro-tech",
         "version":"1.1.5",
         "theme_description":"Ultimate Magazine WordPress Theme",

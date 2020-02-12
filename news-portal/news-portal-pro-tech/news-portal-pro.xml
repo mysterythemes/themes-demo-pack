@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.3.2" created="2020-02-11 16:36" -->
+	<!-- generator="WordPress/5.3.2" created="2020-02-12 05:15" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>News Portal Pro Tech</title>
 	<link>https://demo.mysterythemes.com/news-portal-pro-tech</link>
 	<description>Just another Mystery Themes Demos site</description>
-	<pubDate>Tue, 11 Feb 2020 16:36:23 +0000</pubDate>
+	<pubDate>Wed, 12 Feb 2020 05:15:43 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://demo.mysterythemes.com/</wp:base_site_url>
@@ -1509,7 +1509,7 @@ To short sentences, to many headings, images too large for the proposed design, 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[news_portal_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[332]]></wp:meta_value>
+		<wp:meta_value><![CDATA[333]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2064,7 +2064,7 @@ To short sentences, to many headings, images too large for the proposed design, 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[news_portal_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[252]]></wp:meta_value>
+		<wp:meta_value><![CDATA[253]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2284,7 +2284,7 @@ To short sentences, to many headings, images too large for the proposed design, 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[news_portal_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[264]]></wp:meta_value>
+		<wp:meta_value><![CDATA[267]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2339,7 +2339,7 @@ To short sentences, to many headings, images too large for the proposed design, 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[news_portal_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[216]]></wp:meta_value>
+		<wp:meta_value><![CDATA[217]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2504,7 +2504,7 @@ To short sentences, to many headings, images too large for the proposed design, 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[news_portal_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[227]]></wp:meta_value>
+		<wp:meta_value><![CDATA[229]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2560,7 +2560,7 @@ To short sentences, to many headings, images too large for the proposed design, 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[news_portal_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[265]]></wp:meta_value>
+		<wp:meta_value><![CDATA[267]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 				</channel>
