@@ -464,7 +464,7 @@
                 "category":{
                     "news_portal_carousel":{
                         "2":{
-                            "block_cat_ids":["Trending"]
+                            "block_cat_ids":["Trending Now"]
                         }
                     },
                     "news_portal_list_posts":{
