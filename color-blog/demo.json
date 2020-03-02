@@ -33,7 +33,7 @@
             }
         }
     },
-    "color-blog-pro":{
+    /*"color-blog-pro":{
         "name":"Color Blog Pro",
         "theme_slug":"color-blog",
         "version":"1.0.7",
@@ -137,5 +137,5 @@
                 "required":true
             }
         }
-    }
+    }*/
 }
