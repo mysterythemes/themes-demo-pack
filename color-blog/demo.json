@@ -1,19 +1,19 @@
-{
+{ 
     "color-blog":{
         "name":"Color Blog",
         "theme_slug":"color-blog",
-        "version":"1.0.4",
-        "theme_description":"A clean and colorful WordPress Theme.",
+        "theme_description":"Easy Ecommerce WordPress Theme",
+        "version":"1.0.16",
         "xml_file":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/color-blog\/color-blog\/color-blog.xml",
         "theme_settings":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/color-blog\/color-blog\/color-blog-export.dat",
         "widgets_file":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/color-blog\/color-blog\/color-blog-widgets.wie",
         "preview_screen":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/color-blog\/color-blog\/screenshot.png",
-        "preview_url":"https:\/\/demo.mysterythemes.com\/color-blog\/",
-        "is_shop":false,
+        "preview_url":"https:\/\/demo.mysterythemes.com\/color-blog",
+        "is_shop":"1",
         "theme_type":[
             "free",
-            "blog",
-            "magazine"
+            "woocommerce",
+            "ecommerce"
         ],
         "show_on_front":"",
         "home_title":"",
@@ -26,116 +26,11 @@
             }
         },
         "plugins_list":{
-            "contact-form-7":{
+            "contact-form-7":{ 
                 "name":"Contact Form 7",
-                "slug":"contact-form-7\/wp-contact-form-7.php",
+                "slug":"contact-form-7/wp-contact-form-7.php",
                 "required":true
             }
         }
-    },
-    /*"color-blog-pro":{
-        "name":"Color Blog Pro",
-        "theme_slug":"color-blog",
-        "version":"1.0.7",
-        "theme_description":"A clean and colorful WordPress Theme.",
-        "xml_file":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/color-blog\/color-blog-pro\/color-blog-pro.xml",
-        "theme_settings":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/color-blog\/color-blog-pro\/color-blog-pro-export.dat",
-        "widgets_file":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/color-blog\/color-blog-pro\/color-blog-pro-widgets.wie",
-        "preview_screen":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/color-blog\/color-blog-pro\/screenshot.png",
-        "preview_url":"https:\/\/demo.mysterythemes.com\/color-blog-pro\/",
-        "is_shop":true,
-        "theme_type":[
-            "premium",
-            "blog",
-            "magazine"
-        ],
-        "show_on_front":"",
-        "home_title":"",
-        "blog_title":"",
-        "customizer_data_update": {
-            "nav_menu_locations": {
-                "top_header_menu":"Top Menu",
-                "primary_menu" : "Main Menu",
-                "footer_menu" : "Footer menu",
-            }
-        },
-        "plugins_list":{
-            "contact-form-7":{
-                "name":"Contact Form 7",
-                "slug":"contact-form-7\/wp-contact-form-7.php",
-                "required":true
-            },
-            "woocommerce":{ 
-                "name":"WooCommerce",
-                "slug":"woocommerce/woocommerce.php",
-                "required":true
-            },
-        }
-    },
-    "color-blog-pro-kids":{
-        "name":"Color Blog Pro Kids",
-        "theme_slug":"color-blog-kids",
-        "version":"1.0.7",
-        "theme_description":"A clean and colorful WordPress Theme.",
-        "xml_file":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/color-blog\/color-blog-pro-kids\/color-blog-pro.xml",
-        "theme_settings":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/color-blog\/color-blog-pro-kids\/color-blog-pro-export.dat",
-        "widgets_file":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/color-blog\/color-blog-pro-kids\/color-blog-pro-widgets.wie",
-        "preview_screen":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/color-blog\/color-blog-pro-kids\/screenshot.png",
-        "preview_url":"https:\/\/demo.mysterythemes.com\/color-blog-pro-kids\/",
-        "is_shop":false,
-        "theme_type":[
-            "premium",
-            "blog",
-            "magazine"
-        ],
-        "show_on_front":"",
-        "home_title":"",
-        "blog_title":"",
-        "customizer_data_update": {
-            "nav_menu_locations": {
-                "top_header_menu":"Top",
-                "primary_menu" : "Main Menu",
-            }
-        },
-        "plugins_list":{
-            "contact-form-7":{
-                "name":"Contact Form 7",
-                "slug":"contact-form-7\/wp-contact-form-7.php",
-                "required":true
-            }
-        }
-    },
-    "color-blog-pro-mag":{
-        "name":"Color Blog Pro Mag",
-        "theme_slug":"color-blog-mag",
-        "version":"1.0.7",
-        "theme_description":"A clean and colorful WordPress Theme.",
-        "xml_file":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/color-blog\/color-blog-pro-mag\/color-blog-pro.xml",
-        "theme_settings":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/color-blog\/color-blog-pro-mag\/color-blog-pro-export.dat",
-        "widgets_file":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/color-blog\/color-blog-pro-mag\/color-blog-pro-widgets.wie",
-        "preview_screen":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/color-blog\/color-blog-pro-mag\/screenshot.png",
-        "preview_url":"https:\/\/demo.mysterythemes.com\/color-blog-pro-mag\/",
-        "is_shop":false,
-        "theme_type":[
-            "premium",
-            "blog",
-            "magazine"
-        ],
-        "show_on_front":"",
-        "home_title":"",
-        "blog_title":"",
-        "customizer_data_update": {
-            "nav_menu_locations": {
-                "top_header_menu":"Top Menu",
-                "primary_menu" : "Main Menu",
-            }
-        },
-        "plugins_list":{
-            "contact-form-7":{
-                "name":"Contact Form 7",
-                "slug":"contact-form-7\/wp-contact-form-7.php",
-                "required":true
-            }
-        }
-    }*/
+    }
 }
