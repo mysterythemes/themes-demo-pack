@@ -1,27 +1,28 @@
 { 
-    "easy-store":{ 
+    "easy-store":{
         "name":"Easy Store",
         "theme_slug":"easy-store",
         "theme_description":"Easy Ecommerce WordPress Theme",
         "version":"1.0.16",
-        "xml_file":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/easy-store\/default\/easy-store.xml",
-        "theme_settings":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/easy-store\/default\/easy-store-export.dat",
-        "widgets_file":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/easy-store\/default\/easy-store-widgets.wie",
-        "preview_screen":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/easy-store\/default\/screenshot.png",
+        "xml_file":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/easy-store\/easy-store\/easy-store.xml",
+        "theme_settings":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/easy-store\/easy-store\/easy-store-export.dat",
+        "widgets_file":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/easy-store\/easy-store\/easy-store-widgets.wie",
+        "preview_screen":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/easy-store\/easy-store\/screenshot.png",
         "preview_url":"https:\/\/demo.mysterythemes.com\/easy-store",
         "is_shop":"1",
-        "theme_type":[ 
+        "theme_type":[
             "free",
-            "WooCommerce",
-            "Ecommerce"
+            "woocommerce",
+            "ecommerce"
         ],
         "show_on_front":"page",
         "home_title":"Home",
         "blog_title":"Blog",
-        "menus_locations":{ 
-            "easy_store_primary_menu":"Primary Menu",
-            "easy_store_top_menu" : "Top Menu",
-            "easy_store_footer_menu" : "Footer Menu"
+        "customizer_data_update": {
+            "nav_menu_locations": {
+                "easy_store_primary_menu":"Primary Menu",
+                "easy_store_footer_menu" : "Footer Menu"
+            }
         },
         "plugins_list":{ 
             "contact-form-7":{ 

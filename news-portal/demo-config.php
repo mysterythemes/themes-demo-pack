@@ -85,6 +85,12 @@ function mt_demo_importer_config(){
 					)
 				)
 			),
+			'customizer_data_update' => array(
+				'nav_menu_locations' => array(
+					'news_portal_top_menu' 		=> 'top menu',
+					'news_portal_primary_menu' 	=> 'primary menu',
+				),
+			),
 			'plugins_list' => array(
 				'contact-form-7' => array(
 					'name'		=> 'Contact Form 7',
@@ -164,6 +170,13 @@ function mt_demo_importer_config(){
 						),
 					)
 				)
+			),
+			'customizer_data_update' => array(
+				'nav_menu_locations' => array(
+					'news_portal_top_menu' 		=> 'top menu',
+					'news_portal_primary_menu' 	=> 'primary menu',
+					'news_portal_footer_menu'	=> 'footer menu'
+				),
 			),
 			'plugins_list' => array(
 				'contact-form-7' => array(
