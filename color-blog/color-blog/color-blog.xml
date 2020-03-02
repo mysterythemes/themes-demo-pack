@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.2.3" created="2019-09-24 11:47" -->
+	<!-- generator="WordPress/5.3.2" created="2020-03-02 16:53" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -27,13 +27,13 @@
 
 <channel>
 	<title>Color Blog</title>
-	<link>http://demo.mysterythemes.com/color-blog</link>
+	<link>https://demo.mysterythemes.com/color-blog</link>
 	<description>Just another Mystery Themes Demos site</description>
-	<pubDate>Tue, 24 Sep 2019 11:47:19 +0000</pubDate>
+	<pubDate>Mon, 02 Mar 2020 16:53:37 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://demo.mysterythemes.com/</wp:base_site_url>
-	<wp:base_blog_url>http://demo.mysterythemes.com/color-blog</wp:base_blog_url>
+	<wp:base_blog_url>https://demo.mysterythemes.com/color-blog</wp:base_blog_url>
 
 		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[DemoAdmin]]></wp:author_login><wp:author_email><![CDATA[mysterythemes@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[DemoAdmin]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
@@ -96,24 +96,131 @@
 		<wp:tag_slug><![CDATA[trending]]></wp:tag_slug>
 		<wp:tag_name><![CDATA[Trending]]></wp:tag_name>
 	</wp:tag>
-				<wp:term><wp:term_id>12</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[main-menu]]></wp:term_slug><wp:term_name><![CDATA[main-menu]]></wp:term_name>
+			<wp:term>
+		<wp:term_id><![CDATA[5]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[adventure]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Adventure]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id><![CDATA[2]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[fashion]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Fashion]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id><![CDATA[6]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[fashion]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Fashion]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id><![CDATA[15]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[nav_menu]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[footer-menu]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[footer menu]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id><![CDATA[7]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[gallery]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Gallery]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id><![CDATA[13]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[post_format]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[post-format-gallery]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Gallery]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id><![CDATA[3]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[lifestyle]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Lifestyle]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id><![CDATA[8]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[lifestyle]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Lifestyle]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id><![CDATA[12]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[nav_menu]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[main-menu]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[main-menu]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id><![CDATA[9]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[tips]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Tips]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id><![CDATA[14]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[nav_menu]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[top-menu]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[top menu]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id><![CDATA[4]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[travel]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Travel]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id><![CDATA[10]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[travel]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Travel]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id><![CDATA[11]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[trending]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Trending]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id><![CDATA[1]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[uncategorized]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Uncategorized]]></wp:term_name>
+	</wp:term>
+			<wp:term><wp:term_id>15</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[footer-menu]]></wp:term_slug><wp:term_name><![CDATA[footer menu]]></wp:term_name>
+</wp:term>
+	<wp:term><wp:term_id>12</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[main-menu]]></wp:term_slug><wp:term_name><![CDATA[main-menu]]></wp:term_name>
 </wp:term>
 	<wp:term><wp:term_id>14</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[top-menu]]></wp:term_slug><wp:term_name><![CDATA[top menu]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.2.3</generator>
+	<generator>https://wordpress.org/?v=5.3.2</generator>
 
 <image>
-	<url>http://demo.mysterythemes.com/color-blog/wp-content/uploads/sites/58/2019/08/color-blog-icon.png</url>
+	<url>https://demo.mysterythemes.com/color-blog/wp-content/uploads/sites/58/2019/08/color-blog-icon.png</url>
 	<title>Color Blog</title>
-	<link>http://demo.mysterythemes.com/color-blog</link>
+	<link>https://demo.mysterythemes.com/color-blog</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 
 		<item>
 		<title>fashion-5</title>
-		<link>http://demo.mysterythemes.com/color-blog/fashion-5/</link>
+		<link>https://demo.mysterythemes.com/color-blog/fashion-5/</link>
 		<pubDate>Sun, 14 Jul 2019 07:38:25 +0000</pubDate>
 		<dc:creator><![CDATA[DemoAdmin]]></dc:creator>
 		<guid isPermaLink="false">http://demo.mysterythemes.com/color-blog/wp-content/uploads/sites/58/2019/07/fashion-5.jpg</guid>
@@ -132,7 +239,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://demo.mysterythemes.com/color-blog/wp-content/uploads/sites/58/2019/07/fashion-5.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.mysterythemes.com/color-blog/wp-content/uploads/sites/58/2019/07/fashion-5.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/07/fashion-5.jpg]]></wp:meta_value>
@@ -144,7 +251,7 @@
 							</item>
 					<item>
 		<title>lifestyle-1</title>
-		<link>http://demo.mysterythemes.com/color-blog/lifestyle-1/</link>
+		<link>https://demo.mysterythemes.com/color-blog/lifestyle-1/</link>
 		<pubDate>Sun, 14 Jul 2019 07:38:27 +0000</pubDate>
 		<dc:creator><![CDATA[DemoAdmin]]></dc:creator>
 		<guid isPermaLink="false">http://demo.mysterythemes.com/color-blog/wp-content/uploads/sites/58/2019/07/lifestyle-1.jpg</guid>
@@ -163,7 +270,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://demo.mysterythemes.com/color-blog/wp-content/uploads/sites/58/2019/07/lifestyle-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.mysterythemes.com/color-blog/wp-content/uploads/sites/58/2019/07/lifestyle-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/07/lifestyle-1.jpg]]></wp:meta_value>
@@ -175,7 +282,7 @@
 							</item>
 					<item>
 		<title>lifestyle-2</title>
-		<link>http://demo.mysterythemes.com/color-blog/lifestyle-2/</link>
+		<link>https://demo.mysterythemes.com/color-blog/lifestyle-2/</link>
 		<pubDate>Sun, 14 Jul 2019 07:38:28 +0000</pubDate>
 		<dc:creator><![CDATA[DemoAdmin]]></dc:creator>
 		<guid isPermaLink="false">http://demo.mysterythemes.com/color-blog/wp-content/uploads/sites/58/2019/07/lifestyle-2.jpg</guid>
@@ -194,7 +301,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://demo.mysterythemes.com/color-blog/wp-content/uploads/sites/58/2019/07/lifestyle-2.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.mysterythemes.com/color-blog/wp-content/uploads/sites/58/2019/07/lifestyle-2.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/07/lifestyle-2.jpg]]></wp:meta_value>
@@ -206,7 +313,7 @@
 							</item>
 					<item>
 		<title>lifestyle-3</title>
-		<link>http://demo.mysterythemes.com/color-blog/lifestyle-3/</link>
+		<link>https://demo.mysterythemes.com/color-blog/lifestyle-3/</link>
 		<pubDate>Sun, 14 Jul 2019 07:38:30 +0000</pubDate>
 		<dc:creator><![CDATA[DemoAdmin]]></dc:creator>
 		<guid isPermaLink="false">http://demo.mysterythemes.com/color-blog/wp-content/uploads/sites/58/2019/07/lifestyle-3.jpg</guid>
@@ -225,7 +332,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://demo.mysterythemes.com/color-blog/wp-content/uploads/sites/58/2019/07/lifestyle-3.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.mysterythemes.com/color-blog/wp-content/uploads/sites/58/2019/07/lifestyle-3.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1200;s:6:"height";i:900;s:4:"file";s:23:"2019/07/lifestyle-3.jpg";s:5:"sizes";a:4:{s:9:"thumbnail";a:4:{s:4:"file";s:23:"lifestyle-3-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:23:"lifestyle-3-300x225.jpg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:23:"lifestyle-3-768x576.jpg";s:5:"width";i:768;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:24:"lifestyle-3-1024x768.jpg";s:5:"width";i:1024;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
@@ -237,7 +344,7 @@
 							</item>
 					<item>
 		<title>lifestyle-4</title>
-		<link>http://demo.mysterythemes.com/color-blog/lifestyle-4/</link>
+		<link>https://demo.mysterythemes.com/color-blog/lifestyle-4/</link>
 		<pubDate>Sun, 14 Jul 2019 07:38:32 +0000</pubDate>
 		<dc:creator><![CDATA[DemoAdmin]]></dc:creator>
 		<guid isPermaLink="false">http://demo.mysterythemes.com/color-blog/wp-content/uploads/sites/58/2019/07/lifestyle-4.jpg</guid>
@@ -256,7 +363,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://demo.mysterythemes.com/color-blog/wp-content/uploads/sites/58/2019/07/lifestyle-4.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.mysterythemes.com/color-blog/wp-content/uploads/sites/58/2019/07/lifestyle-4.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/07/lifestyle-4.jpg]]></wp:meta_value>
@@ -268,7 +375,7 @@
 							</item>
 					<item>
 		<title>lifestyle-5</title>
-		<link>http://demo.mysterythemes.com/color-blog/lifestyle-5/</link>
+		<link>https://demo.mysterythemes.com/color-blog/lifestyle-5/</link>
 		<pubDate>Sun, 14 Jul 2019 07:38:34 +0000</pubDate>
 		<dc:creator><![CDATA[DemoAdmin]]></dc:creator>
 		<guid isPermaLink="false">http://demo.mysterythemes.com/color-blog/wp-content/uploads/sites/58/2019/07/lifestyle-5.jpg</guid>
@@ -287,7 +394,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://demo.mysterythemes.com/color-blog/wp-content/uploads/sites/58/2019/07/lifestyle-5.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.mysterythemes.com/color-blog/wp-content/uploads/sites/58/2019/07/lifestyle-5.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/07/lifestyle-5.jpg]]></wp:meta_value>
@@ -299,7 +406,7 @@
 							</item>
 					<item>
 		<title>logo</title>
-		<link>http://demo.mysterythemes.com/color-blog/logo/</link>
+		<link>https://demo.mysterythemes.com/color-blog/logo/</link>
 		<pubDate>Sun, 14 Jul 2019 07:38:36 +0000</pubDate>
 		<dc:creator><![CDATA[DemoAdmin]]></dc:creator>
 		<guid isPermaLink="false">http://demo.mysterythemes.com/color-blog/wp-content/uploads/sites/58/2019/07/logo.png</guid>
@@ -318,7 +425,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://demo.mysterythemes.com/color-blog/wp-content/uploads/sites/58/2019/07/logo.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.mysterythemes.com/color-blog/wp-content/uploads/sites/58/2019/07/logo.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/07/logo.png]]></wp:meta_value>
@@ -330,7 +437,7 @@
 							</item>
 					<item>
 		<title>travel-1</title>
-		<link>http://demo.mysterythemes.com/color-blog/travel-1/</link>
+		<link>https://demo.mysterythemes.com/color-blog/travel-1/</link>
 		<pubDate>Sun, 14 Jul 2019 07:38:38 +0000</pubDate>
 		<dc:creator><![CDATA[DemoAdmin]]></dc:creator>
 		<guid isPermaLink="false">http://demo.mysterythemes.com/color-blog/wp-content/uploads/sites/58/2019/07/travel-1.jpg</guid>
@@ -349,7 +456,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://demo.mysterythemes.com/color-blog/wp-content/uploads/sites/58/2019/07/travel-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.mysterythemes.com/color-blog/wp-content/uploads/sites/58/2019/07/travel-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/07/travel-1.jpg]]></wp:meta_value>
@@ -361,7 +468,7 @@
 							</item>
 					<item>
 		<title>travel-2</title>
-		<link>http://demo.mysterythemes.com/color-blog/travel-2/</link>
+		<link>https://demo.mysterythemes.com/color-blog/travel-2/</link>
 		<pubDate>Sun, 14 Jul 2019 07:38:40 +0000</pubDate>
 		<dc:creator><![CDATA[DemoAdmin]]></dc:creator>
 		<guid isPermaLink="false">http://demo.mysterythemes.com/color-blog/wp-content/uploads/sites/58/2019/07/travel-2.jpg</guid>
@@ -380,7 +487,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://demo.mysterythemes.com/color-blog/wp-content/uploads/sites/58/2019/07/travel-2.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.mysterythemes.com/color-blog/wp-content/uploads/sites/58/2019/07/travel-2.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/07/travel-2.jpg]]></wp:meta_value>
@@ -392,7 +499,7 @@
 							</item>
 					<item>
 		<title>travel-3</title>
-		<link>http://demo.mysterythemes.com/color-blog/travel-3/</link>
+		<link>https://demo.mysterythemes.com/color-blog/travel-3/</link>
 		<pubDate>Sun, 14 Jul 2019 07:38:42 +0000</pubDate>
 		<dc:creator><![CDATA[DemoAdmin]]></dc:creator>
 		<guid isPermaLink="false">http://demo.mysterythemes.com/color-blog/wp-content/uploads/sites/58/2019/07/travel-3.jpg</guid>
@@ -411,7 +518,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://demo.mysterythemes.com/color-blog/wp-content/uploads/sites/58/2019/07/travel-3.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.mysterythemes.com/color-blog/wp-content/uploads/sites/58/2019/07/travel-3.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/07/travel-3.jpg]]></wp:meta_value>
@@ -423,7 +530,7 @@
 							</item>
 					<item>
 		<title>travel-4</title>
-		<link>http://demo.mysterythemes.com/color-blog/travel-4/</link>
+		<link>https://demo.mysterythemes.com/color-blog/travel-4/</link>
 		<pubDate>Sun, 14 Jul 2019 07:38:45 +0000</pubDate>
 		<dc:creator><![CDATA[DemoAdmin]]></dc:creator>
 		<guid isPermaLink="false">http://demo.mysterythemes.com/color-blog/wp-content/uploads/sites/58/2019/07/travel-4.jpg</guid>
@@ -442,7 +549,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://demo.mysterythemes.com/color-blog/wp-content/uploads/sites/58/2019/07/travel-4.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.mysterythemes.com/color-blog/wp-content/uploads/sites/58/2019/07/travel-4.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/07/travel-4.jpg]]></wp:meta_value>
@@ -454,7 +561,7 @@
 							</item>
 					<item>
 		<title>travel-5</title>
-		<link>http://demo.mysterythemes.com/color-blog/travel-5/</link>
+		<link>https://demo.mysterythemes.com/color-blog/travel-5/</link>
 		<pubDate>Sun, 14 Jul 2019 07:38:49 +0000</pubDate>
 		<dc:creator><![CDATA[DemoAdmin]]></dc:creator>
 		<guid isPermaLink="false">http://demo.mysterythemes.com/color-blog/wp-content/uploads/sites/58/2019/07/travel-5.jpg</guid>
@@ -473,7 +580,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://demo.mysterythemes.com/color-blog/wp-content/uploads/sites/58/2019/07/travel-5.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.mysterythemes.com/color-blog/wp-content/uploads/sites/58/2019/07/travel-5.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/07/travel-5.jpg]]></wp:meta_value>
@@ -485,7 +592,7 @@
 							</item>
 					<item>
 		<title>fashion-1</title>
-		<link>http://demo.mysterythemes.com/color-blog/fashion-1/</link>
+		<link>https://demo.mysterythemes.com/color-blog/fashion-1/</link>
 		<pubDate>Sun, 14 Jul 2019 07:38:53 +0000</pubDate>
 		<dc:creator><![CDATA[DemoAdmin]]></dc:creator>
 		<guid isPermaLink="false">http://demo.mysterythemes.com/color-blog/wp-content/uploads/sites/58/2019/07/fashion-1.jpg</guid>
@@ -504,7 +611,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://demo.mysterythemes.com/color-blog/wp-content/uploads/sites/58/2019/07/fashion-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.mysterythemes.com/color-blog/wp-content/uploads/sites/58/2019/07/fashion-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/07/fashion-1.jpg]]></wp:meta_value>
@@ -516,7 +623,7 @@
 							</item>
 					<item>
 		<title>fashion-2</title>
-		<link>http://demo.mysterythemes.com/color-blog/fashion-2/</link>
+		<link>https://demo.mysterythemes.com/color-blog/fashion-2/</link>
 		<pubDate>Sun, 14 Jul 2019 07:38:55 +0000</pubDate>
 		<dc:creator><![CDATA[DemoAdmin]]></dc:creator>
 		<guid isPermaLink="false">http://demo.mysterythemes.com/color-blog/wp-content/uploads/sites/58/2019/07/fashion-2.jpg</guid>
@@ -535,7 +642,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://demo.mysterythemes.com/color-blog/wp-content/uploads/sites/58/2019/07/fashion-2.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.mysterythemes.com/color-blog/wp-content/uploads/sites/58/2019/07/fashion-2.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/07/fashion-2.jpg]]></wp:meta_value>
@@ -547,7 +654,7 @@
 							</item>
 					<item>
 		<title>fashion-3</title>
-		<link>http://demo.mysterythemes.com/color-blog/fashion-3/</link>
+		<link>https://demo.mysterythemes.com/color-blog/fashion-3/</link>
 		<pubDate>Sun, 14 Jul 2019 07:38:56 +0000</pubDate>
 		<dc:creator><![CDATA[DemoAdmin]]></dc:creator>
 		<guid isPermaLink="false">http://demo.mysterythemes.com/color-blog/wp-content/uploads/sites/58/2019/07/fashion-3.jpg</guid>
@@ -566,7 +673,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://demo.mysterythemes.com/color-blog/wp-content/uploads/sites/58/2019/07/fashion-3.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.mysterythemes.com/color-blog/wp-content/uploads/sites/58/2019/07/fashion-3.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/07/fashion-3.jpg]]></wp:meta_value>
@@ -578,7 +685,7 @@
 							</item>
 					<item>
 		<title>fashion-4</title>
-		<link>http://demo.mysterythemes.com/color-blog/fashion-4/</link>
+		<link>https://demo.mysterythemes.com/color-blog/fashion-4/</link>
 		<pubDate>Sun, 14 Jul 2019 07:38:58 +0000</pubDate>
 		<dc:creator><![CDATA[DemoAdmin]]></dc:creator>
 		<guid isPermaLink="false">http://demo.mysterythemes.com/color-blog/wp-content/uploads/sites/58/2019/07/fashion-4.jpg</guid>
@@ -597,7 +704,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://demo.mysterythemes.com/color-blog/wp-content/uploads/sites/58/2019/07/fashion-4.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.mysterythemes.com/color-blog/wp-content/uploads/sites/58/2019/07/fashion-4.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/07/fashion-4.jpg]]></wp:meta_value>
@@ -609,7 +716,7 @@
 							</item>
 					<item>
 		<title>Look-out-for-hourly-flash-sales</title>
-		<link>http://demo.mysterythemes.com/color-blog/look-out-for-hourly-flash-sales/</link>
+		<link>https://demo.mysterythemes.com/color-blog/look-out-for-hourly-flash-sales/</link>
 		<pubDate>Sun, 14 Jul 2019 07:39:01 +0000</pubDate>
 		<dc:creator><![CDATA[DemoAdmin]]></dc:creator>
 		<guid isPermaLink="false">http://demo.mysterythemes.com/color-blog/wp-content/uploads/sites/58/2019/07/Look-out-for-hourly-flash-sales.png</guid>
@@ -628,7 +735,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://demo.mysterythemes.com/color-blog/wp-content/uploads/sites/58/2019/07/Look-out-for-hourly-flash-sales.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.mysterythemes.com/color-blog/wp-content/uploads/sites/58/2019/07/Look-out-for-hourly-flash-sales.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/07/Look-out-for-hourly-flash-sales.png]]></wp:meta_value>
@@ -640,7 +747,7 @@
 							</item>
 					<item>
 		<title>cropped-travel-4.jpg</title>
-		<link>http://demo.mysterythemes.com/color-blog/cropped-travel-4-jpg/</link>
+		<link>https://demo.mysterythemes.com/color-blog/cropped-travel-4-jpg/</link>
 		<pubDate>Sun, 14 Jul 2019 08:04:45 +0000</pubDate>
 		<dc:creator><![CDATA[DemoAdmin]]></dc:creator>
 		<guid isPermaLink="false">http://demo.mysterythemes.com/color-blog/wp-content/uploads/sites/58/2019/07/cropped-travel-4.jpg</guid>
@@ -659,7 +766,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://demo.mysterythemes.com/color-blog/wp-content/uploads/sites/58/2019/07/cropped-travel-4.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.mysterythemes.com/color-blog/wp-content/uploads/sites/58/2019/07/cropped-travel-4.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/07/cropped-travel-4.jpg]]></wp:meta_value>
@@ -683,7 +790,7 @@
 							</item>
 					<item>
 		<title>cropped-logo.png</title>
-		<link>http://demo.mysterythemes.com/color-blog/cropped-logo-png/</link>
+		<link>https://demo.mysterythemes.com/color-blog/cropped-logo-png/</link>
 		<pubDate>Mon, 15 Jul 2019 09:56:56 +0000</pubDate>
 		<dc:creator><![CDATA[DemoAdmin]]></dc:creator>
 		<guid isPermaLink="false">http://demo.mysterythemes.com/color-blog/wp-content/uploads/sites/58/2019/07/cropped-logo.png</guid>
@@ -702,7 +809,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://demo.mysterythemes.com/color-blog/wp-content/uploads/sites/58/2019/07/cropped-logo.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.mysterythemes.com/color-blog/wp-content/uploads/sites/58/2019/07/cropped-logo.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/07/cropped-logo.png]]></wp:meta_value>
@@ -718,7 +825,7 @@
 							</item>
 					<item>
 		<title>post</title>
-		<link>http://demo.mysterythemes.com/color-blog/post/</link>
+		<link>https://demo.mysterythemes.com/color-blog/post/</link>
 		<pubDate>Mon, 29 Jul 2019 11:19:21 +0000</pubDate>
 		<dc:creator><![CDATA[DemoAdmin]]></dc:creator>
 		<guid isPermaLink="false">http://demo.mysterythemes.com/color-blog/wp-content/uploads/sites/58/2019/07/post.jpg</guid>
@@ -737,7 +844,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://demo.mysterythemes.com/color-blog/wp-content/uploads/sites/58/2019/07/post.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.mysterythemes.com/color-blog/wp-content/uploads/sites/58/2019/07/post.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/07/post.jpg]]></wp:meta_value>
@@ -749,7 +856,7 @@
 							</item>
 					<item>
 		<title>Sample Page</title>
-		<link>http://demo.mysterythemes.com/color-blog/sample-page/</link>
+		<link>https://demo.mysterythemes.com/color-blog/sample-page/</link>
 		<pubDate>Sun, 14 Jul 2019 06:33:14 +0000</pubDate>
 		<dc:creator><![CDATA[DemoAdmin]]></dc:creator>
 		<guid isPermaLink="false">http://demo.mysterythemes.com/color-blog/?page_id=2</guid>
@@ -793,7 +900,7 @@
 							</item>
 					<item>
 		<title>Think You&#039;re An Expert In Lifestyle</title>
-		<link>http://demo.mysterythemes.com/color-blog/think-youre-an-expert-in-lifestyle/</link>
+		<link>https://demo.mysterythemes.com/color-blog/think-youre-an-expert-in-lifestyle/</link>
 		<pubDate>Wed, 26 Jun 2019 06:33:39 +0000</pubDate>
 		<dc:creator><![CDATA[DemoAdmin]]></dc:creator>
 		<guid isPermaLink="false">http://demo.mysterythemes.com/child-theme/saaya-blog/?p=24</guid>
@@ -864,61 +971,8 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Tips To Help You Get Better At Lifestyle</title>
-		<link>http://demo.mysterythemes.com/color-blog/tips-to-help-you-get-better-at-lifestyle/</link>
-		<pubDate>Wed, 26 Jun 2019 06:34:31 +0000</pubDate>
-		<dc:creator><![CDATA[DemoAdmin]]></dc:creator>
-		<guid isPermaLink="false">http://demo.mysterythemes.com/child-theme/saaya-blog/?p=25</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>Vestibulum purus quam, scelerisque ut, mollis sed, nonummy id, metus. Nullam accumsan lorem in dui. Cras ultricies mi eu turpis hendrerit fringilla. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In ac dui quis mi consectetuer lacinia. Nam pretium turpis et arcu. Duis arcu tortor, suscipit eget, imperdiet nec, imperdiet iaculis, ipsum. Sed aliquam ultrices mauris. Integer ante arcu, accumsan a, consectetuer eget, posuere ut, mauris. Praesent adipiscing. Phasellus ullamcorper ipsum rutrum nunc. Nunc nonummy metus. Vestibulum volutpat pretium libero. Cras id dui. Aenean ut eros et nisl sagittis vestibulum. Nullam nulla eros, ultricies sit amet, nonummy id, imperdiet feugiat, pede. Sed lectus.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Donec mollis hendrerit risus. Phasellus nec sem in justo pellentesque facilisis. Etiam imperdiet imperdiet orci. Nunc nec neque. Phasellus leo dolor, tempus non, auctor et, hendrerit quis, nisi. Curabitur ligula sapien, tincidunt non, euismod vitae, posuere imperdiet, leo. Maecenas malesuada. Praesent congue erat at massa. Sed cursus turpis vitae tortor. Donec posuere vulputate arcu. Phasellus accumsan cursus velit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed aliquam, nisi quis porttitor congue, elit erat euismod orci, ac placerat dolor lectus quis orci. Phasellus consectetuer vestibulum elit. Aenean tellus metus, bibendum sed, posuere ac, mattis non, nunc. Vestibulum fringilla pede sit amet augue. In turpis.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Pellentesque posuere. Praesent turpis. Aenean posuere, tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus. Donec elit libero, sodales nec, volutpat a, suscipit non, turpis. Nullam sagittis. Suspendisse pulvinar, augue ac venenatis condimentum, sem libero volutpat nibh, nec pellentesque velit pede quis nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce id purus. Ut varius tincidunt libero. Phasellus dolor. Maecenas vestibulum mollis diam. Pellentesque ut neque.</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[Vestibulum purus quam, scelerisque ut, mollis sed, nonummy id, metus. Nullam accumsan lorem in dui.]]></excerpt:encoded>
-		<wp:post_id>25</wp:post_id>
-		<wp:post_date><![CDATA[2019-06-26 06:34:31]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-06-26 06:34:31]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[tips-to-help-you-get-better-at-lifestyle]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="lifestyle"><![CDATA[Lifestyle]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[ec_counter_data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[saaya_post_sidebar_layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[layout--default-sidebar]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[color_blog_post_sidebar_layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[layout--default-sidebar]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[demoadmin]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[116]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title>Tips To Help You Get Better At Fashion</title>
-		<link>http://demo.mysterythemes.com/color-blog/tips-to-help-you-get-better-at-fashion/</link>
+		<link>https://demo.mysterythemes.com/color-blog/tips-to-help-you-get-better-at-fashion/</link>
 		<pubDate>Wed, 26 Jun 2019 06:33:55 +0000</pubDate>
 		<dc:creator><![CDATA[DemoAdmin]]></dc:creator>
 		<guid isPermaLink="false">http://demo.mysterythemes.com/child-theme/saaya-blog/?p=26</guid>
@@ -974,284 +1028,8 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>How Fashion Can Ease Your Pain</title>
-		<link>http://demo.mysterythemes.com/color-blog/how-fashion-can-ease-your-pain/</link>
-		<pubDate>Wed, 26 Jun 2019 06:34:42 +0000</pubDate>
-		<dc:creator><![CDATA[DemoAdmin]]></dc:creator>
-		<guid isPermaLink="false">http://demo.mysterythemes.com/child-theme/saaya-blog/?p=27</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc, quis gravida magna mi a libero. Fusce vulputate eleifend sapien.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Vestibulum purus quam, scelerisque ut, mollis sed, nonummy id, metus. Nullam accumsan lorem in dui. Cras ultricies mi eu turpis hendrerit fringilla. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In ac dui quis mi consectetuer lacinia. Nam pretium turpis et arcu. Duis arcu tortor, suscipit eget, imperdiet nec, imperdiet iaculis, ipsum. Sed aliquam ultrices mauris. Integer ante arcu, accumsan a, consectetuer eget, posuere ut, mauris. Praesent adipiscing. Phasellus ullamcorper ipsum rutrum nunc. Nunc nonummy metus. Vestibulum volutpat pretium libero. Cras id dui. Aenean ut eros et nisl sagittis vestibulum. Nullam nulla eros, ultricies sit amet, nonummy id, imperdiet feugiat, pede.</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. ]]></excerpt:encoded>
-		<wp:post_id>27</wp:post_id>
-		<wp:post_date><![CDATA[2019-06-26 06:34:42]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-06-26 06:34:42]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[how-fashion-can-ease-your-pain]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="fashion"><![CDATA[Fashion]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[ec_counter_data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[saaya_post_sidebar_layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[layout--default-sidebar]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[how-art-can-ease-your-pain]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[color_blog_post_sidebar_layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[layout--default-sidebar]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[demoadmin]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[126]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>This Year Will Be The Year of Travel</title>
-		<link>http://demo.mysterythemes.com/color-blog/this-year-will-be-the-year-of-travel/</link>
-		<pubDate>Wed, 26 Jun 2019 06:34:07 +0000</pubDate>
-		<dc:creator><![CDATA[DemoAdmin]]></dc:creator>
-		<guid isPermaLink="false">http://demo.mysterythemes.com/child-theme/saaya-blog/?p=28</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>Sed lectus. Donec mollis hendrerit risus. Phasellus nec sem in justo pellentesque facilisis. Etiam imperdiet imperdiet orci. Nunc nec neque. Phasellus leo dolor, tempus non, auctor et, hendrerit quis, nisi. Curabitur ligula sapien, tincidunt non, euismod vitae, posuere imperdiet, leo. Maecenas malesuada. Praesent congue erat at massa. Sed cursus turpis vitae tortor. Donec posuere vulputate arcu. Phasellus accumsan cursus velit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed aliquam, nisi quis porttitor congue, elit erat euismod orci, ac placerat dolor lectus quis orci. Phasellus consectetuer vestibulum elit. Aenean tellus metus, bibendum sed, posuere ac, mattis non, nunc.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Vestibulum fringilla pede sit amet augue. In turpis. Pellentesque posuere. Praesent turpis. Aenean posuere, tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus. Donec elit libero, sodales nec, volutpat a, suscipit non, turpis. Nullam sagittis. Suspendisse pulvinar, augue ac venenatis condimentum, sem libero volutpat nibh, nec pellentesque velit pede quis nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce id purus. Ut varius tincidunt libero. Phasellus dolor. Maecenas vestibulum mollis diam. Pellentesque ut neque. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>In dui magna, posuere eget, vestibulum et, tempor auctor, justo. In ac felis quis tortor malesuada pretium. Pellentesque auctor neque nec urna. Proin sapien ipsum, porta a, auctor quis, euismod ut, mi. Aenean viverra rhoncus pede. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Ut non enim eleifend felis pretium feugiat. Vivamus quis mi. Phasellus a est. Phasellus magna. In hac habitasse platea dictumst. Curabitur at lacus ac velit ornare lobortis. Curabitur a felis in nunc fringilla tristique. Morbi mattis ullamcorper velit. Phasellus gravida semper nisi. Nullam vel sem. Pellentesque libero tortor, tincidunt et, tincidunt eget, semper nec, quam. Sed hendrerit.</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[Sed lectus. Donec mollis hendrerit risus. Phasellus nec sem in justo pellentesque facilisis.]]></excerpt:encoded>
-		<wp:post_id>28</wp:post_id>
-		<wp:post_date><![CDATA[2019-06-26 06:34:07]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-06-26 06:34:07]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[this-year-will-be-the-year-of-travel]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="travel"><![CDATA[Travel]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[ec_counter_data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[saaya_post_sidebar_layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[layout--default-sidebar]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[color_blog_post_sidebar_layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[layout--default-sidebar]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[demoadmin]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[122]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Reason Why Everyone Love Travel</title>
-		<link>http://demo.mysterythemes.com/color-blog/reason-why-everyone-love-travel/</link>
-		<pubDate>Wed, 26 Jun 2019 06:34:55 +0000</pubDate>
-		<dc:creator><![CDATA[DemoAdmin]]></dc:creator>
-		<guid isPermaLink="false">http://demo.mysterythemes.com/child-theme/saaya-blog/?p=29</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>Sed lectus. Donec mollis hendrerit risus. Phasellus nec sem in justo pellentesque facilisis. Etiam imperdiet imperdiet orci. Nunc nec neque. Phasellus leo dolor, tempus non, auctor et, hendrerit quis, nisi. Curabitur ligula sapien, tincidunt non, euismod vitae, posuere imperdiet, leo. Maecenas malesuada. Praesent congue erat at massa. Sed cursus turpis vitae tortor. Donec posuere vulputate arcu. Phasellus accumsan cursus velit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed aliquam, nisi quis porttitor congue, elit erat euismod orci, ac placerat dolor lectus quis orci. Phasellus consectetuer vestibulum elit. Aenean tellus metus, bibendum sed, posuere ac, mattis non, nunc.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Vestibulum fringilla pede sit amet augue. In turpis. Pellentesque posuere. Praesent turpis. Aenean posuere, tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus. Donec elit libero, sodales nec, volutpat a, suscipit non, turpis. Nullam sagittis. Suspendisse pulvinar, augue ac venenatis condimentum, sem libero volutpat nibh, nec pellentesque velit pede quis nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce id purus. Ut varius tincidunt libero. Phasellus dolor. Maecenas vestibulum mollis diam. Pellentesque ut neque. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>In dui magna, posuere eget, vestibulum et, tempor auctor, justo. In ac felis quis tortor malesuada pretium. Pellentesque auctor neque nec urna. Proin sapien ipsum, porta a, auctor quis, euismod ut, mi. Aenean viverra rhoncus pede. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Ut non enim eleifend felis pretium feugiat. Vivamus quis mi. Phasellus a est. Phasellus magna. In hac habitasse platea dictumst. Curabitur at lacus ac velit ornare lobortis. Curabitur a felis in nunc fringilla tristique. Morbi mattis ullamcorper velit. Phasellus gravida semper nisi. Nullam vel sem. Pellentesque libero tortor, tincidunt et, tincidunt eget, semper nec, quam. Sed hendrerit.</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[Sed lectus. Donec mollis hendrerit risus. Phasellus nec sem in justo pellentesque facilisis.]]></excerpt:encoded>
-		<wp:post_id>29</wp:post_id>
-		<wp:post_date><![CDATA[2019-06-26 06:34:55]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-06-26 06:34:55]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[reason-why-everyone-love-travel]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="post_tag" nicename="adventure"><![CDATA[Adventure]]></category>
-		<category domain="post_tag" nicename="tips"><![CDATA[Tips]]></category>
-		<category domain="category" nicename="travel"><![CDATA[Travel]]></category>
-		<category domain="post_tag" nicename="travel"><![CDATA[Travel]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[ec_counter_data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[saaya_post_sidebar_layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[layout--default-sidebar]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[color_blog_post_sidebar_layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[layout--default-sidebar]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[demoadmin]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[120]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Doubts About Lifestyle You Should Clarify</title>
-		<link>http://demo.mysterythemes.com/color-blog/doubts-about-lifestyle-you-should-clarify/</link>
-		<pubDate>Wed, 26 Jun 2019 06:40:48 +0000</pubDate>
-		<dc:creator><![CDATA[DemoAdmin]]></dc:creator>
-		<guid isPermaLink="false">http://demo.mysterythemes.com/child-theme/saaya-blog/?p=36</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>Vestibulum purus quam, scelerisque ut, mollis sed, nonummy id, metus. Nullam accumsan lorem in dui. Cras ultricies mi eu turpis hendrerit fringilla. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In ac dui quis mi consectetuer lacinia. Nam pretium turpis et arcu. Duis arcu tortor, suscipit eget, imperdiet nec, imperdiet iaculis, ipsum. Sed aliquam ultrices mauris. Integer ante arcu, accumsan a, consectetuer eget, posuere ut, mauris. Praesent adipiscing. Phasellus ullamcorper ipsum rutrum nunc. Nunc nonummy metus. Vestibulum volutpat pretium libero. Cras id dui. Aenean ut eros et nisl sagittis vestibulum. Nullam nulla eros, ultricies sit amet, nonummy id, imperdiet feugiat, pede. Sed lectus.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Donec mollis hendrerit risus. Phasellus nec sem in justo pellentesque facilisis. Etiam imperdiet imperdiet orci. Nunc nec neque. Phasellus leo dolor, tempus non, auctor et, hendrerit quis, nisi. Curabitur ligula sapien, tincidunt non, euismod vitae, posuere imperdiet, leo. Maecenas malesuada. Praesent congue erat at massa. Sed cursus turpis vitae tortor. Donec posuere vulputate arcu. Phasellus accumsan cursus velit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed aliquam, nisi quis porttitor congue, elit erat euismod orci, ac placerat dolor lectus quis orci. Phasellus consectetuer vestibulum elit. Aenean tellus metus, bibendum sed, posuere ac, mattis non, nunc. Vestibulum fringilla pede sit amet augue. In turpis.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Pellentesque posuere. Praesent turpis. Aenean posuere, tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus. Donec elit libero, sodales nec, volutpat a, suscipit non, turpis. Nullam sagittis. Suspendisse pulvinar, augue ac venenatis condimentum, sem libero volutpat nibh, nec pellentesque velit pede quis nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce id purus. Ut varius tincidunt libero. Phasellus dolor. Maecenas vestibulum mollis diam. Pellentesque ut neque.</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[Vestibulum purus quam, scelerisque ut, mollis sed, nonummy id, metus. Nullam accumsan lorem in dui.]]></excerpt:encoded>
-		<wp:post_id>36</wp:post_id>
-		<wp:post_date><![CDATA[2019-06-26 06:40:48]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-06-26 06:40:48]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[doubts-about-lifestyle-you-should-clarify]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="lifestyle"><![CDATA[Lifestyle]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[ec_counter_data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[saaya_post_sidebar_layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[layout--default-sidebar]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[color_blog_post_sidebar_layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[layout--default-sidebar]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[demoadmin]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[117]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Things You Can Learn From Fashion</title>
-		<link>http://demo.mysterythemes.com/color-blog/things-you-can-learn-from-fashion/</link>
-		<pubDate>Wed, 26 Jun 2019 06:40:51 +0000</pubDate>
-		<dc:creator><![CDATA[DemoAdmin]]></dc:creator>
-		<guid isPermaLink="false">http://demo.mysterythemes.com/child-theme/saaya-blog/?p=39</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc, quis gravida magna mi a libero. Fusce vulputate eleifend sapien.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Vestibulum purus quam, scelerisque ut, mollis sed, nonummy id, metus. Nullam accumsan lorem in dui. Cras ultricies mi eu turpis hendrerit fringilla. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In ac dui quis mi consectetuer lacinia. Nam pretium turpis et arcu. Duis arcu tortor, suscipit eget, imperdiet nec, imperdiet iaculis, ipsum. Sed aliquam ultrices mauris. Integer ante arcu, accumsan a, consectetuer eget, posuere ut, mauris. Praesent adipiscing. Phasellus ullamcorper ipsum rutrum nunc. Nunc nonummy metus. Vestibulum volutpat pretium libero. Cras id dui. Aenean ut eros et nisl sagittis vestibulum. Nullam nulla eros, ultricies sit amet, nonummy id, imperdiet feugiat, pede.</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. ]]></excerpt:encoded>
-		<wp:post_id>39</wp:post_id>
-		<wp:post_date><![CDATA[2019-06-26 06:40:51]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-06-26 06:40:51]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[things-you-can-learn-from-fashion]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="fashion"><![CDATA[Fashion]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[ec_counter_data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[saaya_post_sidebar_layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[layout--default-sidebar]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[things-you-can-learn-from-art]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[color_blog_post_sidebar_layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[layout--default-sidebar]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[demoadmin]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[127]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title></title>
-		<link>http://demo.mysterythemes.com/color-blog/50/</link>
+		<link>https://demo.mysterythemes.com/color-blog/50/</link>
 		<pubDate>Wed, 03 Jul 2019 08:59:03 +0000</pubDate>
 		<dc:creator><![CDATA[DemoAdmin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/wp-themes/color-blog/?p=50</guid>
@@ -1314,7 +1092,7 @@
 							</item>
 					<item>
 		<title></title>
-		<link>http://demo.mysterythemes.com/color-blog/51/</link>
+		<link>https://demo.mysterythemes.com/color-blog/51/</link>
 		<pubDate>Wed, 03 Jul 2019 08:59:03 +0000</pubDate>
 		<dc:creator><![CDATA[DemoAdmin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/wp-themes/color-blog/?p=51</guid>
@@ -1377,7 +1155,7 @@
 							</item>
 					<item>
 		<title></title>
-		<link>http://demo.mysterythemes.com/color-blog/52/</link>
+		<link>https://demo.mysterythemes.com/color-blog/52/</link>
 		<pubDate>Wed, 03 Jul 2019 08:59:03 +0000</pubDate>
 		<dc:creator><![CDATA[DemoAdmin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/wp-themes/color-blog/?p=52</guid>
@@ -1440,7 +1218,7 @@
 							</item>
 					<item>
 		<title>Home</title>
-		<link>http://demo.mysterythemes.com/color-blog/home/</link>
+		<link>https://demo.mysterythemes.com/color-blog/home/</link>
 		<pubDate>Wed, 03 Jul 2019 08:59:03 +0000</pubDate>
 		<dc:creator><![CDATA[DemoAdmin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/wp-themes/color-blog/?p=53</guid>
@@ -1502,71 +1280,8 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Color Blog Pro</title>
-		<link>http://demo.mysterythemes.com/color-blog/buy-pro/</link>
-		<pubDate>Wed, 10 Jul 2019 12:02:58 +0000</pubDate>
-		<dc:creator><![CDATA[DemoAdmin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/wp-themes/color-blog/buy-pro/</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>96</wp:post_id>
-		<wp:post_date><![CDATA[2019-07-10 12:02:58]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-07-10 12:02:58]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[buy-pro]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>7</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="main-menu"><![CDATA[main-menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[ec_counter_data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[96]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://mysterythemes.com/wp-themes/color-blog-pro/]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[demoadmin]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title>Gutenberg</title>
-		<link>http://demo.mysterythemes.com/color-blog/gutenberg/</link>
+		<link>https://demo.mysterythemes.com/color-blog/gutenberg/</link>
 		<pubDate>Mon, 01 Jul 2019 08:36:11 +0000</pubDate>
 		<dc:creator><![CDATA[DemoAdmin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/wp-themes/color-blog/?page_id=2</guid>
@@ -1620,7 +1335,7 @@
 							</item>
 					<item>
 		<title></title>
-		<link>http://demo.mysterythemes.com/color-blog/112/</link>
+		<link>https://demo.mysterythemes.com/color-blog/112/</link>
 		<pubDate>Thu, 11 Jul 2019 07:08:36 +0000</pubDate>
 		<dc:creator><![CDATA[DemoAdmin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/wp-themes/color-blog/112/</guid>
@@ -1682,63 +1397,8 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Buy Pro</title>
-		<link>http://demo.mysterythemes.com/color-blog/buy-pro-2/</link>
-		<pubDate>Mon, 15 Jul 2019 08:07:08 +0000</pubDate>
-		<dc:creator><![CDATA[DemoAdmin]]></dc:creator>
-		<guid isPermaLink="false">http://demo.mysterythemes.com/color-blog/buy-pro-2/</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>165</wp:post_id>
-		<wp:post_date><![CDATA[2019-07-15 08:07:08]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-07-15 08:07:08]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[buy-pro-2]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>1</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="top-menu"><![CDATA[top menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[165]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://mysterythemes.com/wp-themes/color-blog-pro/]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title>color-blog</title>
-		<link>http://demo.mysterythemes.com/color-blog/color-blog/</link>
+		<link>https://demo.mysterythemes.com/color-blog/color-blog/</link>
 		<pubDate>Mon, 29 Jul 2019 11:13:18 +0000</pubDate>
 		<dc:creator><![CDATA[DemoAdmin]]></dc:creator>
 		<guid isPermaLink="false">http://demo.mysterythemes.com/color-blog/color-blog/</guid>
@@ -1760,7 +1420,7 @@
 														</item>
 					<item>
 		<title>color-blog-icon</title>
-		<link>http://demo.mysterythemes.com/color-blog/color-blog-icon/</link>
+		<link>https://demo.mysterythemes.com/color-blog/color-blog-icon/</link>
 		<pubDate>Sun, 11 Aug 2019 11:00:53 +0000</pubDate>
 		<dc:creator><![CDATA[DemoAdmin]]></dc:creator>
 		<guid isPermaLink="false">http://demo.mysterythemes.com/color-blog/wp-content/uploads/sites/58/2019/08/color-blog-icon.png</guid>
@@ -1779,7 +1439,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://demo.mysterythemes.com/color-blog/wp-content/uploads/sites/58/2019/08/color-blog-icon.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.mysterythemes.com/color-blog/wp-content/uploads/sites/58/2019/08/color-blog-icon.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/08/color-blog-icon.png]]></wp:meta_value>
@@ -1791,7 +1451,7 @@
 							</item>
 					<item>
 		<title>Tutorials</title>
-		<link>http://demo.mysterythemes.com/color-blog/tutorials/</link>
+		<link>https://demo.mysterythemes.com/color-blog/tutorials/</link>
 		<pubDate>Mon, 12 Aug 2019 03:44:57 +0000</pubDate>
 		<dc:creator><![CDATA[DemoAdmin]]></dc:creator>
 		<guid isPermaLink="false">http://demo.mysterythemes.com/color-blog/?p=219</guid>
@@ -1845,8 +1505,834 @@
 		</wp:postmeta>
 							</item>
 					<item>
+		<title>Color Blog Pro</title>
+		<link>https://demo.mysterythemes.com/color-blog/color-blog-pro/</link>
+		<pubDate>Mon, 02 Mar 2020 16:41:41 +0000</pubDate>
+		<dc:creator><![CDATA[DemoAdmin]]></dc:creator>
+		<guid isPermaLink="false">https://demo.mysterythemes.com/color-blog/?p=229</guid>
+		<description></description>
+		<content:encoded><![CDATA[Buy Now]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>229</wp:post_id>
+		<wp:post_date><![CDATA[2020-03-02 16:41:41]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-03-02 16:41:41]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[color-blog-pro]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>7</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="main-menu"><![CDATA[main-menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://mysterythemes.com/wp-themes/color-blog-pro/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[229]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[_blank]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>More Demos</title>
+		<link>https://demo.mysterythemes.com/color-blog/more-demos/</link>
+		<pubDate>Mon, 02 Mar 2020 16:42:04 +0000</pubDate>
+		<dc:creator><![CDATA[DemoAdmin]]></dc:creator>
+		<guid isPermaLink="false">https://demo.mysterythemes.com/color-blog/?p=230</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>230</wp:post_id>
+		<wp:post_date><![CDATA[2020-03-02 16:42:04]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-03-02 16:42:04]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[more-demos]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>1</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="top-menu"><![CDATA[top menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[230]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[_blank]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://demo.mysterythemes.com/color-blog-landing/]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Documentation</title>
+		<link>https://demo.mysterythemes.com/color-blog/documentation/</link>
+		<pubDate>Mon, 02 Mar 2020 16:42:51 +0000</pubDate>
+		<dc:creator><![CDATA[DemoAdmin]]></dc:creator>
+		<guid isPermaLink="false">https://demo.mysterythemes.com/color-blog/?p=231</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>231</wp:post_id>
+		<wp:post_date><![CDATA[2020-03-02 16:42:51]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-03-02 16:42:51]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[documentation]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>2</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="top-menu"><![CDATA[top menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[231]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[_blank]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://docs.mysterythemes.com/color-blog/]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Privacy Policy</title>
+		<link>https://demo.mysterythemes.com/color-blog/privacy-policy/</link>
+		<pubDate>Mon, 02 Mar 2020 16:46:36 +0000</pubDate>
+		<dc:creator><![CDATA[DemoAdmin]]></dc:creator>
+		<guid isPermaLink="false">https://demo.mysterythemes.com/color-blog/?page_id=233</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:heading --><h2>Who we are</h2><!-- /wp:heading --><!-- wp:paragraph --><p>Our website address is: https://demo.mysterythemes.com/color-blog.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>What personal data we collect and why we collect it</h2><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>Comments</h3><!-- /wp:heading --><!-- wp:paragraph --><p>When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor&#8217;s IP address and browser user agent string to help spam detection.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.</p><!-- /wp:paragraph --><!-- wp:heading {"level":3} --><h3>Media</h3><!-- /wp:heading --><!-- wp:paragraph --><p>If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.</p><!-- /wp:paragraph --><!-- wp:heading {"level":3} --><h3>Contact forms</h3><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>Cookies</h3><!-- /wp:heading --><!-- wp:paragraph --><p>If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>If you visit our login page, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select &quot;Remember Me&quot;, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.</p><!-- /wp:paragraph --><!-- wp:heading {"level":3} --><h3>Embedded content from other websites</h3><!-- /wp:heading --><!-- wp:paragraph --><p>Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.</p><!-- /wp:paragraph --><!-- wp:heading {"level":3} --><h3>Analytics</h3><!-- /wp:heading --><!-- wp:heading --><h2>Who we share your data with</h2><!-- /wp:heading --><!-- wp:heading --><h2>How long we retain your data</h2><!-- /wp:heading --><!-- wp:paragraph --><p>If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>What rights you have over your data</h2><!-- /wp:heading --><!-- wp:paragraph --><p>If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Where we send your data</h2><!-- /wp:heading --><!-- wp:paragraph --><p>Visitor comments may be checked through an automated spam detection service.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Your contact information</h2><!-- /wp:heading --><!-- wp:heading --><h2>Additional information</h2><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>How we protect your data</h3><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>What data breach procedures we have in place</h3><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>What third parties we receive data from</h3><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>What automated decision making and/or profiling we do with user data</h3><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>Industry regulatory disclosure requirements</h3><!-- /wp:heading -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>233</wp:post_id>
+		<wp:post_date><![CDATA[2020-03-02 16:46:36]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-03-02 16:46:36]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[privacy-policy]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[color_blog_post_sidebar_layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[layout--default-sidebar]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title></title>
+		<link>https://demo.mysterythemes.com/color-blog/235/</link>
+		<pubDate>Mon, 02 Mar 2020 16:47:19 +0000</pubDate>
+		<dc:creator><![CDATA[DemoAdmin]]></dc:creator>
+		<guid isPermaLink="false">https://demo.mysterythemes.com/color-blog/?p=235</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>235</wp:post_id>
+		<wp:post_date><![CDATA[2020-03-02 16:47:19]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-03-02 16:47:19]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[235]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>2</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="footer-menu"><![CDATA[footer menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[233]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Coupons</title>
+		<link>https://demo.mysterythemes.com/color-blog/coupons/</link>
+		<pubDate>Mon, 02 Mar 2020 16:47:46 +0000</pubDate>
+		<dc:creator><![CDATA[DemoAdmin]]></dc:creator>
+		<guid isPermaLink="false">https://demo.mysterythemes.com/color-blog/?p=236</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>236</wp:post_id>
+		<wp:post_date><![CDATA[2020-03-02 16:47:46]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-03-02 16:47:46]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[coupons]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>3</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="footer-menu"><![CDATA[footer menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[_blank]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[236]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://wpallresources.com/coupons/]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Typography</title>
+		<link>https://demo.mysterythemes.com/color-blog/typography/</link>
+		<pubDate>Mon, 02 Mar 2020 16:48:49 +0000</pubDate>
+		<dc:creator><![CDATA[DemoAdmin]]></dc:creator>
+		<guid isPermaLink="false">https://demo.mysterythemes.com/color-blog/?page_id=237</guid>
+		<description></description>
+		<content:encoded><![CDATA[<h1>Header one</h1>
+<h2>Header two</h2>
+<h3>Header three</h3>
+<h4>Header four</h4>
+<h5>Header five</h5>
+<h6>Header six</h6>
+<p> </p>
+<h2>Blockquotes</h2>
+<p>Single line blockquote:</p>
+<blockquote>
+<p>Stay hungry. Stay foolish.</p>
+</blockquote>
+<p>Multi line blockquote with a cite reference:</p>
+<blockquote>
+<p>People think focus means saying yes to the thing you’ve got to focus on. But that’s not what it means at all. It means saying no to the hundred other good ideas that there are. You have to pick carefully. I’m actually as proud of the things we haven’t done as the things I have done. Innovation is saying no to 1,000 things. <cite>Steve Jobs – Apple Worldwide Developers’ Conference, 1997</cite></p>
+<p> </p>
+</blockquote>
+<h2>Tables</h2>
+<table>
+<tbody>
+<tr>
+<th>Employee</th>
+<th class="views">Salary</th>
+<th> </th>
+</tr>
+<tr class="odd">
+<td><a href="http://example.com/">Jane</a></td>
+<td>$1</td>
+<td>Because that’s all Steve Job’ needed for a salary.</td>
+</tr>
+<tr class="even">
+<td><a href="http://example.com">John</a></td>
+<td>$100K</td>
+<td>For all the blogging he does.</td>
+</tr>
+<tr class="odd">
+<td><a href="http://example.com/">Jane</a></td>
+<td>$100M</td>
+<td>Pictures are worth a thousand words, right? So Tom x 1,000.</td>
+</tr>
+<tr class="even">
+<td><a href="http://example.com/">Jane</a></td>
+<td>$100B</td>
+<td>With hair like that?! Enough said…</td>
+</tr>
+</tbody>
+</table>
+<h2> </h2>
+<h2>Definition Lists</h2>
+<dl>
+<dt>Definition List Title</dt>
+<dd>Definition list division.</dd>
+<dt>Startup</dt>
+<dd>A startup company or startup is a company or temporary organization designed to search for a repeatable and scalable business model.</dd>
+<dt>#dowork</dt>
+<dd>Coined by Rob Dyrdek and his personal body guard Christopher “Big Black” Boykins, “Do Work” works as a self motivator, to motivating your friends.</dd>
+<dt>Do It Live</dt>
+<dd>I’ll let Bill O’Reilly will <a title="We'll Do It Live" href="https://www.youtube.com/watch?v=O_HyZ5aW76c">explain</a> this one.</dd>
+</dl>
+<h2> </h2>
+<h2>Unordered Lists (Nested)</h2>
+<ul>
+<li>List item one
+<ul>
+<li>List item one
+<ul>
+<li>List item one</li>
+<li>List item two</li>
+<li>List item three</li>
+<li>List item four</li>
+</ul>
+</li>
+<li>List item two</li>
+<li>List item three</li>
+<li>List item four</li>
+</ul>
+</li>
+<li>List item two</li>
+<li>List item three</li>
+<li>List item four</li>
+</ul>
+<h2> </h2>
+<h2>Ordered List (Nested)</h2>
+<ol>
+<li>List item one
+<ol>
+<li>List item one
+<ol>
+<li>List item one</li>
+<li>List item two</li>
+<li>List item three</li>
+<li>List item four</li>
+</ol>
+</li>
+<li>List item two</li>
+<li>List item three</li>
+<li>List item four</li>
+</ol>
+</li>
+<li>List item two</li>
+<li>List item three</li>
+<li>List item four</li>
+</ol>
+<h2> </h2>
+<h2>HTML Tags</h2>
+<p>These supported tags come from the WordPress.com code <a title="Code" href="http://en.support.wordpress.com/code/">FAQ</a>.</p>
+<p><strong>Address Tag</strong></p>
+<address>1 Infinite Loop<br />Cupertino, CA 95014<br />United States</address><address> </address>
+<p><strong>Anchor Tag (aka. Link)</strong></p>
+<p>This is an example of a <a title="Apple" href="http://apple.com">link</a>.</p>
+<p> </p>
+<p><strong>Abbreviation Tag</strong></p>
+<p>The abbreviation <abbr title="Seriously">srsly</abbr> stands for “seriously”.</p>
+<p> </p>
+<p><strong>Acronym Tag</strong></p>
+<p>The acronym <acronym title="For The Win">ftw</acronym> stands for “for the win”.</p>
+<p> </p>
+<p><strong>Big Tag</strong></p>
+<p>These tests are a <big>big</big> deal, but this tag is no longer supported in HTML5.</p>
+<p> </p>
+<p><strong>Cite Tag</strong></p>
+<p>“Code is poetry.” —<cite>Automattic</cite></p>
+<p> </p>
+<p><strong>Code Tag</strong></p>
+<p>You will learn later on in these tests that <code>word-wrap: break-word;</code> will be your best friend.</p>
+<p> </p>
+<p><strong>Delete Tag</strong></p>
+<p>This tag will let you <del>strikeout text</del>, but this tag is no longer supported in HTML5 (use the <code>&lt;strike&gt;</code> instead).</p>
+<p> </p>
+<p><strong>Emphasize Tag</strong></p>
+<p>The emphasize tag should <em>italicize</em> text.</p>
+<p> </p>
+<p><strong>Insert Tag</strong></p>
+<p>This tag should denote <ins>inserted</ins> text.</p>
+<p> </p>
+<p><strong>Keyboard Tag</strong></p>
+<p>This scarcely known tag emulates <kbd>keyboard text</kbd>, which is usually styled like the <code>&lt;code&gt;</code> tag.</p>
+<p> </p>
+<p><strong>Preformatted Tag</strong></p>
+<p>This tag styles large blocks of code.</p>
+<pre>.post-title {
+margin: 0 0 5px;
+font-weight: bold;
+font-size: 38px;
+line-height: 1.2;
+}
+
+</pre>
+<p><strong>Quote Tag</strong></p>
+<p><q>Developers, developers, developers…</q> –Steve Ballmer</p>
+<p> </p>
+<p><strong>Strong Tag</strong></p>
+<p>This tag shows <strong>bold<strong> text.</strong></strong></p>
+<p> </p>
+<p><strong>Subscript Tag</strong></p>
+<p>Getting our science styling on with H<sub>2</sub>O, which should push the “2” down.</p>
+<p> </p>
+<p><strong>Superscript Tag</strong></p>
+<p>Still sticking with science and Isaac Newton’s E = MC<sup>2</sup>, which should lift the 2 up.</p>
+<p> </p>
+<p><strong>Teletype Tag</strong></p>
+<p>This rarely used tag emulates <tt>teletype text</tt>, which is usually styled like the <code>&lt;code&gt;</code> tag.</p>
+<p> </p>
+<p><strong>Variable Tag</strong></p>
+<p>This allows you to denote <var>variables</var>.</p>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>237</wp:post_id>
+		<wp:post_date><![CDATA[2020-03-02 16:48:49]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-03-02 16:48:49]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[typography]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[color_blog_post_sidebar_layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[layout--default-sidebar]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title></title>
+		<link>https://demo.mysterythemes.com/color-blog/240/</link>
+		<pubDate>Mon, 02 Mar 2020 16:50:35 +0000</pubDate>
+		<dc:creator><![CDATA[DemoAdmin]]></dc:creator>
+		<guid isPermaLink="false">https://demo.mysterythemes.com/color-blog/?p=240</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>240</wp:post_id>
+		<wp:post_date><![CDATA[2020-03-02 16:50:35]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-03-02 16:50:35]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[240]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>1</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="footer-menu"><![CDATA[footer menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[237]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Tips To Help You Get Better At Lifestyle</title>
+		<link>https://demo.mysterythemes.com/color-blog/tips-to-help-you-get-better-at-lifestyle/</link>
+		<pubDate>Wed, 26 Jun 2019 06:34:31 +0000</pubDate>
+		<dc:creator><![CDATA[DemoAdmin]]></dc:creator>
+		<guid isPermaLink="false">http://demo.mysterythemes.com/child-theme/saaya-blog/?p=25</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Vestibulum purus quam, scelerisque ut, mollis sed, nonummy id, metus. Nullam accumsan lorem in dui. Cras ultricies mi eu turpis hendrerit fringilla. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In ac dui quis mi consectetuer lacinia. Nam pretium turpis et arcu. Duis arcu tortor, suscipit eget, imperdiet nec, imperdiet iaculis, ipsum. Sed aliquam ultrices mauris. Integer ante arcu, accumsan a, consectetuer eget, posuere ut, mauris. Praesent adipiscing. Phasellus ullamcorper ipsum rutrum nunc. Nunc nonummy metus. Vestibulum volutpat pretium libero. Cras id dui. Aenean ut eros et nisl sagittis vestibulum. Nullam nulla eros, ultricies sit amet, nonummy id, imperdiet feugiat, pede. Sed lectus.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Donec mollis hendrerit risus. Phasellus nec sem in justo pellentesque facilisis. Etiam imperdiet imperdiet orci. Nunc nec neque. Phasellus leo dolor, tempus non, auctor et, hendrerit quis, nisi. Curabitur ligula sapien, tincidunt non, euismod vitae, posuere imperdiet, leo. Maecenas malesuada. Praesent congue erat at massa. Sed cursus turpis vitae tortor. Donec posuere vulputate arcu. Phasellus accumsan cursus velit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed aliquam, nisi quis porttitor congue, elit erat euismod orci, ac placerat dolor lectus quis orci. Phasellus consectetuer vestibulum elit. Aenean tellus metus, bibendum sed, posuere ac, mattis non, nunc. Vestibulum fringilla pede sit amet augue. In turpis.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Pellentesque posuere. Praesent turpis. Aenean posuere, tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus. Donec elit libero, sodales nec, volutpat a, suscipit non, turpis. Nullam sagittis. Suspendisse pulvinar, augue ac venenatis condimentum, sem libero volutpat nibh, nec pellentesque velit pede quis nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce id purus. Ut varius tincidunt libero. Phasellus dolor. Maecenas vestibulum mollis diam. Pellentesque ut neque.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[Vestibulum purus quam, scelerisque ut, mollis sed, nonummy id, metus. Nullam accumsan lorem in dui.]]></excerpt:encoded>
+		<wp:post_id>25</wp:post_id>
+		<wp:post_date><![CDATA[2019-06-26 06:34:31]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-06-26 06:34:31]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[tips-to-help-you-get-better-at-lifestyle]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="lifestyle"><![CDATA[Lifestyle]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[ec_counter_data]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[saaya_post_sidebar_layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[layout--default-sidebar]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[color_blog_post_sidebar_layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[layout--default-sidebar]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[demoadmin]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[116]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>How Fashion Can Ease Your Pain</title>
+		<link>https://demo.mysterythemes.com/color-blog/how-fashion-can-ease-your-pain/</link>
+		<pubDate>Wed, 26 Jun 2019 06:34:42 +0000</pubDate>
+		<dc:creator><![CDATA[DemoAdmin]]></dc:creator>
+		<guid isPermaLink="false">http://demo.mysterythemes.com/child-theme/saaya-blog/?p=27</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc, quis gravida magna mi a libero. Fusce vulputate eleifend sapien.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Vestibulum purus quam, scelerisque ut, mollis sed, nonummy id, metus. Nullam accumsan lorem in dui. Cras ultricies mi eu turpis hendrerit fringilla. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In ac dui quis mi consectetuer lacinia. Nam pretium turpis et arcu. Duis arcu tortor, suscipit eget, imperdiet nec, imperdiet iaculis, ipsum. Sed aliquam ultrices mauris. Integer ante arcu, accumsan a, consectetuer eget, posuere ut, mauris. Praesent adipiscing. Phasellus ullamcorper ipsum rutrum nunc. Nunc nonummy metus. Vestibulum volutpat pretium libero. Cras id dui. Aenean ut eros et nisl sagittis vestibulum. Nullam nulla eros, ultricies sit amet, nonummy id, imperdiet feugiat, pede.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. ]]></excerpt:encoded>
+		<wp:post_id>27</wp:post_id>
+		<wp:post_date><![CDATA[2019-06-26 06:34:42]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-06-26 06:34:42]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[how-fashion-can-ease-your-pain]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="fashion"><![CDATA[Fashion]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[ec_counter_data]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[saaya_post_sidebar_layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[layout--default-sidebar]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[how-art-can-ease-your-pain]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[color_blog_post_sidebar_layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[layout--default-sidebar]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[demoadmin]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[126]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>This Year Will Be The Year of Travel</title>
+		<link>https://demo.mysterythemes.com/color-blog/this-year-will-be-the-year-of-travel/</link>
+		<pubDate>Wed, 26 Jun 2019 06:34:07 +0000</pubDate>
+		<dc:creator><![CDATA[DemoAdmin]]></dc:creator>
+		<guid isPermaLink="false">http://demo.mysterythemes.com/child-theme/saaya-blog/?p=28</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Sed lectus. Donec mollis hendrerit risus. Phasellus nec sem in justo pellentesque facilisis. Etiam imperdiet imperdiet orci. Nunc nec neque. Phasellus leo dolor, tempus non, auctor et, hendrerit quis, nisi. Curabitur ligula sapien, tincidunt non, euismod vitae, posuere imperdiet, leo. Maecenas malesuada. Praesent congue erat at massa. Sed cursus turpis vitae tortor. Donec posuere vulputate arcu. Phasellus accumsan cursus velit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed aliquam, nisi quis porttitor congue, elit erat euismod orci, ac placerat dolor lectus quis orci. Phasellus consectetuer vestibulum elit. Aenean tellus metus, bibendum sed, posuere ac, mattis non, nunc.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Vestibulum fringilla pede sit amet augue. In turpis. Pellentesque posuere. Praesent turpis. Aenean posuere, tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus. Donec elit libero, sodales nec, volutpat a, suscipit non, turpis. Nullam sagittis. Suspendisse pulvinar, augue ac venenatis condimentum, sem libero volutpat nibh, nec pellentesque velit pede quis nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce id purus. Ut varius tincidunt libero. Phasellus dolor. Maecenas vestibulum mollis diam. Pellentesque ut neque. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>In dui magna, posuere eget, vestibulum et, tempor auctor, justo. In ac felis quis tortor malesuada pretium. Pellentesque auctor neque nec urna. Proin sapien ipsum, porta a, auctor quis, euismod ut, mi. Aenean viverra rhoncus pede. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Ut non enim eleifend felis pretium feugiat. Vivamus quis mi. Phasellus a est. Phasellus magna. In hac habitasse platea dictumst. Curabitur at lacus ac velit ornare lobortis. Curabitur a felis in nunc fringilla tristique. Morbi mattis ullamcorper velit. Phasellus gravida semper nisi. Nullam vel sem. Pellentesque libero tortor, tincidunt et, tincidunt eget, semper nec, quam. Sed hendrerit.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[Sed lectus. Donec mollis hendrerit risus. Phasellus nec sem in justo pellentesque facilisis.]]></excerpt:encoded>
+		<wp:post_id>28</wp:post_id>
+		<wp:post_date><![CDATA[2019-06-26 06:34:07]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-06-26 06:34:07]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[this-year-will-be-the-year-of-travel]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="travel"><![CDATA[Travel]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[ec_counter_data]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[saaya_post_sidebar_layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[layout--default-sidebar]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[color_blog_post_sidebar_layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[layout--default-sidebar]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[demoadmin]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[122]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Reason Why Everyone Love Travel</title>
+		<link>https://demo.mysterythemes.com/color-blog/reason-why-everyone-love-travel/</link>
+		<pubDate>Wed, 26 Jun 2019 06:34:55 +0000</pubDate>
+		<dc:creator><![CDATA[DemoAdmin]]></dc:creator>
+		<guid isPermaLink="false">http://demo.mysterythemes.com/child-theme/saaya-blog/?p=29</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Sed lectus. Donec mollis hendrerit risus. Phasellus nec sem in justo pellentesque facilisis. Etiam imperdiet imperdiet orci. Nunc nec neque. Phasellus leo dolor, tempus non, auctor et, hendrerit quis, nisi. Curabitur ligula sapien, tincidunt non, euismod vitae, posuere imperdiet, leo. Maecenas malesuada. Praesent congue erat at massa. Sed cursus turpis vitae tortor. Donec posuere vulputate arcu. Phasellus accumsan cursus velit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed aliquam, nisi quis porttitor congue, elit erat euismod orci, ac placerat dolor lectus quis orci. Phasellus consectetuer vestibulum elit. Aenean tellus metus, bibendum sed, posuere ac, mattis non, nunc.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Vestibulum fringilla pede sit amet augue. In turpis. Pellentesque posuere. Praesent turpis. Aenean posuere, tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus. Donec elit libero, sodales nec, volutpat a, suscipit non, turpis. Nullam sagittis. Suspendisse pulvinar, augue ac venenatis condimentum, sem libero volutpat nibh, nec pellentesque velit pede quis nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce id purus. Ut varius tincidunt libero. Phasellus dolor. Maecenas vestibulum mollis diam. Pellentesque ut neque. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>In dui magna, posuere eget, vestibulum et, tempor auctor, justo. In ac felis quis tortor malesuada pretium. Pellentesque auctor neque nec urna. Proin sapien ipsum, porta a, auctor quis, euismod ut, mi. Aenean viverra rhoncus pede. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Ut non enim eleifend felis pretium feugiat. Vivamus quis mi. Phasellus a est. Phasellus magna. In hac habitasse platea dictumst. Curabitur at lacus ac velit ornare lobortis. Curabitur a felis in nunc fringilla tristique. Morbi mattis ullamcorper velit. Phasellus gravida semper nisi. Nullam vel sem. Pellentesque libero tortor, tincidunt et, tincidunt eget, semper nec, quam. Sed hendrerit.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[Sed lectus. Donec mollis hendrerit risus. Phasellus nec sem in justo pellentesque facilisis.]]></excerpt:encoded>
+		<wp:post_id>29</wp:post_id>
+		<wp:post_date><![CDATA[2019-06-26 06:34:55]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-06-26 06:34:55]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[reason-why-everyone-love-travel]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="post_tag" nicename="adventure"><![CDATA[Adventure]]></category>
+		<category domain="post_tag" nicename="tips"><![CDATA[Tips]]></category>
+		<category domain="category" nicename="travel"><![CDATA[Travel]]></category>
+		<category domain="post_tag" nicename="travel"><![CDATA[Travel]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[ec_counter_data]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[saaya_post_sidebar_layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[layout--default-sidebar]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[color_blog_post_sidebar_layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[layout--default-sidebar]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[demoadmin]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[120]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Doubts About Lifestyle You Should Clarify</title>
+		<link>https://demo.mysterythemes.com/color-blog/doubts-about-lifestyle-you-should-clarify/</link>
+		<pubDate>Wed, 26 Jun 2019 06:40:48 +0000</pubDate>
+		<dc:creator><![CDATA[DemoAdmin]]></dc:creator>
+		<guid isPermaLink="false">http://demo.mysterythemes.com/child-theme/saaya-blog/?p=36</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Vestibulum purus quam, scelerisque ut, mollis sed, nonummy id, metus. Nullam accumsan lorem in dui. Cras ultricies mi eu turpis hendrerit fringilla. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In ac dui quis mi consectetuer lacinia. Nam pretium turpis et arcu. Duis arcu tortor, suscipit eget, imperdiet nec, imperdiet iaculis, ipsum. Sed aliquam ultrices mauris. Integer ante arcu, accumsan a, consectetuer eget, posuere ut, mauris. Praesent adipiscing. Phasellus ullamcorper ipsum rutrum nunc. Nunc nonummy metus. Vestibulum volutpat pretium libero. Cras id dui. Aenean ut eros et nisl sagittis vestibulum. Nullam nulla eros, ultricies sit amet, nonummy id, imperdiet feugiat, pede. Sed lectus.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Donec mollis hendrerit risus. Phasellus nec sem in justo pellentesque facilisis. Etiam imperdiet imperdiet orci. Nunc nec neque. Phasellus leo dolor, tempus non, auctor et, hendrerit quis, nisi. Curabitur ligula sapien, tincidunt non, euismod vitae, posuere imperdiet, leo. Maecenas malesuada. Praesent congue erat at massa. Sed cursus turpis vitae tortor. Donec posuere vulputate arcu. Phasellus accumsan cursus velit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed aliquam, nisi quis porttitor congue, elit erat euismod orci, ac placerat dolor lectus quis orci. Phasellus consectetuer vestibulum elit. Aenean tellus metus, bibendum sed, posuere ac, mattis non, nunc. Vestibulum fringilla pede sit amet augue. In turpis.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Pellentesque posuere. Praesent turpis. Aenean posuere, tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus. Donec elit libero, sodales nec, volutpat a, suscipit non, turpis. Nullam sagittis. Suspendisse pulvinar, augue ac venenatis condimentum, sem libero volutpat nibh, nec pellentesque velit pede quis nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce id purus. Ut varius tincidunt libero. Phasellus dolor. Maecenas vestibulum mollis diam. Pellentesque ut neque.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[Vestibulum purus quam, scelerisque ut, mollis sed, nonummy id, metus. Nullam accumsan lorem in dui.]]></excerpt:encoded>
+		<wp:post_id>36</wp:post_id>
+		<wp:post_date><![CDATA[2019-06-26 06:40:48]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-06-26 06:40:48]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[doubts-about-lifestyle-you-should-clarify]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="lifestyle"><![CDATA[Lifestyle]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[ec_counter_data]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[saaya_post_sidebar_layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[layout--default-sidebar]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[color_blog_post_sidebar_layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[layout--default-sidebar]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[demoadmin]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[117]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title>These Bizarre Truths Behind Lifestyle</title>
-		<link>http://demo.mysterythemes.com/color-blog/these-bizarre-truths-behind-lifestyle/</link>
+		<link>https://demo.mysterythemes.com/color-blog/these-bizarre-truths-behind-lifestyle/</link>
 		<pubDate>Wed, 26 Jun 2019 06:41:01 +0000</pubDate>
 		<dc:creator><![CDATA[DemoAdmin]]></dc:creator>
 		<guid isPermaLink="false">http://demo.mysterythemes.com/child-theme/saaya-blog/?p=37</guid>
@@ -1901,7 +2387,7 @@
 							</item>
 					<item>
 		<title>Skills Of Lifestyle And Be Successful</title>
-		<link>http://demo.mysterythemes.com/color-blog/skills-of-lifestyle-and-be-successful/</link>
+		<link>https://demo.mysterythemes.com/color-blog/skills-of-lifestyle-and-be-successful/</link>
 		<pubDate>Wed, 26 Jun 2019 06:41:27 +0000</pubDate>
 		<dc:creator><![CDATA[DemoAdmin]]></dc:creator>
 		<guid isPermaLink="false">http://demo.mysterythemes.com/child-theme/saaya-blog/?p=38</guid>
@@ -1955,8 +2441,65 @@
 		</wp:postmeta>
 							</item>
 					<item>
+		<title>Things You Can Learn From Fashion</title>
+		<link>https://demo.mysterythemes.com/color-blog/things-you-can-learn-from-fashion/</link>
+		<pubDate>Wed, 26 Jun 2019 06:40:51 +0000</pubDate>
+		<dc:creator><![CDATA[DemoAdmin]]></dc:creator>
+		<guid isPermaLink="false">http://demo.mysterythemes.com/child-theme/saaya-blog/?p=39</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc, quis gravida magna mi a libero. Fusce vulputate eleifend sapien.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Vestibulum purus quam, scelerisque ut, mollis sed, nonummy id, metus. Nullam accumsan lorem in dui. Cras ultricies mi eu turpis hendrerit fringilla. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In ac dui quis mi consectetuer lacinia. Nam pretium turpis et arcu. Duis arcu tortor, suscipit eget, imperdiet nec, imperdiet iaculis, ipsum. Sed aliquam ultrices mauris. Integer ante arcu, accumsan a, consectetuer eget, posuere ut, mauris. Praesent adipiscing. Phasellus ullamcorper ipsum rutrum nunc. Nunc nonummy metus. Vestibulum volutpat pretium libero. Cras id dui. Aenean ut eros et nisl sagittis vestibulum. Nullam nulla eros, ultricies sit amet, nonummy id, imperdiet feugiat, pede.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. ]]></excerpt:encoded>
+		<wp:post_id>39</wp:post_id>
+		<wp:post_date><![CDATA[2019-06-26 06:40:51]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-06-26 06:40:51]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[things-you-can-learn-from-fashion]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="fashion"><![CDATA[Fashion]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[ec_counter_data]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[saaya_post_sidebar_layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[layout--default-sidebar]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[things-you-can-learn-from-art]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[color_blog_post_sidebar_layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[layout--default-sidebar]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[demoadmin]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[127]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title>Approaches To Improve Your Fashion</title>
-		<link>http://demo.mysterythemes.com/color-blog/approaches-to-improve-your-fashion/</link>
+		<link>https://demo.mysterythemes.com/color-blog/approaches-to-improve-your-fashion/</link>
 		<pubDate>Wed, 26 Jun 2019 06:41:14 +0000</pubDate>
 		<dc:creator><![CDATA[DemoAdmin]]></dc:creator>
 		<guid isPermaLink="false">http://demo.mysterythemes.com/child-theme/saaya-blog/?p=40</guid>
@@ -2015,7 +2558,7 @@
 							</item>
 					<item>
 		<title>Believe These Bizarre Truth Behind Fashion</title>
-		<link>http://demo.mysterythemes.com/color-blog/believe-these-bizarre-truth-behind-fashion/</link>
+		<link>https://demo.mysterythemes.com/color-blog/believe-these-bizarre-truth-behind-fashion/</link>
 		<pubDate>Wed, 26 Jun 2019 06:41:29 +0000</pubDate>
 		<dc:creator><![CDATA[DemoAdmin]]></dc:creator>
 		<guid isPermaLink="false">http://demo.mysterythemes.com/child-theme/saaya-blog/?p=41</guid>
@@ -2076,38 +2619,10 @@
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:comment>
-			<wp:comment_id>2</wp:comment_id>
-			<wp:comment_author><![CDATA[4545]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[fsdfsf@gmail.com]]></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[116.74.94.75]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2019-08-28 11:52:37]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2019-08-28 11:52:37]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[542]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>0</wp:comment_user_id>
-							</wp:comment>
-					<wp:comment>
-			<wp:comment_id>3</wp:comment_id>
-			<wp:comment_author><![CDATA[4545]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[fsdfsf@gmail.com]]></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[116.74.94.75]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2019-08-28 11:52:52]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2019-08-28 11:52:52]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[545454]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[]]></wp:comment_type>
-			<wp:comment_parent>2</wp:comment_parent>
-			<wp:comment_user_id>0</wp:comment_user_id>
-							</wp:comment>
-					</item>
+							</item>
 					<item>
 		<title>Travel Be Like In The Next 50 Years</title>
-		<link>http://demo.mysterythemes.com/color-blog/travel-be-like-in-the-next-50-years/</link>
+		<link>https://demo.mysterythemes.com/color-blog/travel-be-like-in-the-next-50-years/</link>
 		<pubDate>Wed, 26 Jun 2019 06:40:55 +0000</pubDate>
 		<dc:creator><![CDATA[DemoAdmin]]></dc:creator>
 		<guid isPermaLink="false">http://demo.mysterythemes.com/child-theme/saaya-blog/?p=42</guid>
@@ -2160,7 +2675,7 @@
 							</item>
 					<item>
 		<title>Travel That Had Gone Way Too Far</title>
-		<link>http://demo.mysterythemes.com/color-blog/travel-that-had-gone-way-too-far/</link>
+		<link>https://demo.mysterythemes.com/color-blog/travel-that-had-gone-way-too-far/</link>
 		<pubDate>Wed, 26 Jun 2019 06:41:17 +0000</pubDate>
 		<dc:creator><![CDATA[DemoAdmin]]></dc:creator>
 		<guid isPermaLink="false">http://demo.mysterythemes.com/child-theme/saaya-blog/?p=43</guid>
@@ -2213,7 +2728,7 @@
 							</item>
 					<item>
 		<title>Preparations You Make Before Travel</title>
-		<link>http://demo.mysterythemes.com/color-blog/preparations-you-should-make-before-travel/</link>
+		<link>https://demo.mysterythemes.com/color-blog/preparations-you-should-make-before-travel/</link>
 		<pubDate>Wed, 26 Jun 2019 06:41:31 +0000</pubDate>
 		<dc:creator><![CDATA[DemoAdmin]]></dc:creator>
 		<guid isPermaLink="false">http://demo.mysterythemes.com/child-theme/saaya-blog/?p=44</guid>
