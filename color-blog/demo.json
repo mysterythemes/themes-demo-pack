@@ -36,11 +36,11 @@
         "theme_slug":"color-blog-pro",
         "version":"1.0.4",
         "theme_description":"A clean and colorful Premium WordPress Theme.",
-        "xml_file":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/color-blog\/color-blog-pro\/color-blog-pro.xml",
-        "theme_settings":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/color-blog\/color-blog-pro\/color-blog-pro-export.dat",
-        "widgets_file":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/color-blog\/color-blog-pro\/color-blog-pro-widgets.wie",
-        "preview_screen":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/color-blog\/color-blog-pro\/screenshot.png",
-        "preview_url":"https:\/\/demo.mysterythemes.com\/color-blog-pro\/",
+        "xml_file":"https://raw.githubusercontent.com/mysterythemes/themes-demo-pack/master/color-blog/color-blog-pro/color-blog-pro.xml",
+        "theme_settings":"https://raw.githubusercontent.com/mysterythemes/themes-demo-pack/master/color-blog/color-blog-pro/color-blog-pro-export.dat",
+        "widgets_file":"https://raw.githubusercontent.com/mysterythemes/themes-demo-pack/master/color-blog/color-blog-pro/color-blog-pro-widgets.wie",
+        "preview_screen":"https://raw.githubusercontent.com/mysterythemes/themes-demo-pack/master/color-blog/color-blog-pro/screenshot.png",
+        "preview_url":"https://demo.mysterythemes.com/color-blog-pro/",
         "is_shop":true,
         "theme_type":[
             "premium",
@@ -63,12 +63,13 @@
         "plugins_list":{
             "contact-form-7":{
                 "name":"Contact Form 7",
-                "slug":"contact-form-7\/wp-contact-form-7.php",
+                "slug":"contact-form-7/wp-contact-form-7.php",
                 "required":true
             },
             "woocommerce":{
                 "name":"WooCommerce",
-                "slug":"woocommerce\/woocommerce.php","required":true
+                "slug":"woocommerce/woocommerce.php",
+                "required":true
             }
         }
     },
