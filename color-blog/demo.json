@@ -50,6 +50,11 @@
         "show_on_front":"",
         "home_title":"",
         "blog_title":"",
+        "menus_locations":{
+            "top_header_menu":"Top Menu",
+            "primary_menu":"Main Menu",
+            "footer_menu":"Footer menu"
+        },
         "customizer_data_update":{
             "top_header_menu":"Top Menu",
             "primary_menu":"Main Menu",
