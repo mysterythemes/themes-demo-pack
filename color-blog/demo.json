@@ -19,7 +19,7 @@
         "home_title":"",
         "blog_title":"",
         "customizer_data_update":{
-            "nav_menu_locations": {
+            "nav_menu_locations":{
                 "top_header_menu":"top menu",
                 "primary_menu":"main-menu",
                 "footer_menu":"footer-menu"
@@ -53,10 +53,10 @@
         "home_title":"",
         "blog_title":"",
         "customizer_data_update":{
-            "nav_menu_locations": {
+            "nav_menu_locations":{
                 "top_header_menu":"Top Menu",
                 "primary_menu":"Main Menu",
-                "footer_menu":"Footer menu"
+                "footer_menu":"Footer Menu"
             }
         },
         "plugins_list":{
@@ -92,7 +92,7 @@
         "home_title":"",
         "blog_title":"",
         "customizer_data_update":{
-            "nav_menu_locations": {
+            "nav_menu_locations":{
                 "top_header_menu":"Top",
                 "primary_menu":"Main Menu"
             }
@@ -125,7 +125,7 @@
         "home_title":"",
         "blog_title":"",
         "customizer_data_update":{
-            "nav_menu_locations": {
+            "nav_menu_locations":{
                 "top_header_menu":"Top Menu",
                 "primary_menu":"Main Menu"
             }
