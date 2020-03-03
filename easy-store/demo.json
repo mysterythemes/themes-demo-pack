@@ -27,17 +27,17 @@
         "plugins_list":{ 
             "contact-form-7":{ 
                 "name":"Contact Form 7",
-                "slug":"contact-form-7/wp-contact-form-7.php",
+                "slug":"contact-form-7\/wp-contact-form-7.php",
                 "required":true
             },
             "woocommerce":{ 
                 "name":"WooCommerce",
-                "slug":"woocommerce/woocommerce.php",
+                "slug":"woocommerce\/woocommerce.php",
                 "required":true
             },
             "yith-woocommerce-wishlist":{ 
                 "name":"YITH WooCommerce Wishlist",
-                "slug":"yith-woocommerce-wishlist/init.php",
+                "slug":"yith-woocommerce-wishlist\/init.php",
                 "required":true
             }
         }
@@ -51,7 +51,7 @@
         "theme_settings":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/easy-store\/easy-store-pro\/easy-store-pro-export.dat",
         "widgets_file":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/easy-store\/easy-store-pro\/easy-store-pro-widgets.wie",
         "preview_screen":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/easy-store\/easy-store-pro\/screenshot.png",
-        "preview_url":"https:\/\/demo.mysterythemes.com\/easy-store-pro",
+        "preview_url":"https:\/\/demo.mysterythemes.com\/easy-store-pro\/",
         "is_shop":"1",
         "theme_type":[
             "premium",
@@ -70,22 +70,22 @@
         "plugins_list":{ 
             "contact-form-7":{ 
                 "name":"Contact Form 7",
-                "slug":"contact-form-7/wp-contact-form-7.php",
+                "slug":"contact-form-7\/wp-contact-form-7.php",
                 "required":true
             },
             "woocommerce":{ 
                 "name":"WooCommerce",
-                "slug":"woocommerce/woocommerce.php",
+                "slug":"woocommerce\/woocommerce.php",
                 "required":true
             },
             "yith-woocommerce-wishlist":{ 
                 "name":"YITH WooCommerce Wishlist",
-                "slug":"yith-woocommerce-wishlist/init.php",
+                "slug":"yith-woocommerce-wishlist\/init.php",
                 "required":true
             },
             "yith-woocommerce-quick-view":{
                 "name":"YITH WooCommerce Quick View",
-                "slug":"yith-woocommerce-quick-view/init.php",
+                "slug":"yith-woocommerce-quick-view\/init.php",
                 "required":true
             }
         }
@@ -99,7 +99,7 @@
         "theme_settings":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/easy-store\/easy-store-pro-fashion\/easy-store-pro-export.dat",
         "widgets_file":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/easy-store\/easy-store-pro-fashion\/easy-store-pro-widgets.wie",
         "preview_screen":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/easy-store\/easy-store-pro-fashion\/screenshot.png",
-        "preview_url":"https:\/\/demo.mysterythemes.com\/easy-store-pro-fashion",
+        "preview_url":"https:\/\/demo.mysterythemes.com\/easy-store-pro-fashion\/",
         "is_shop":"1",
         "theme_type":[
             "premium",
@@ -118,22 +118,22 @@
         "plugins_list":{ 
             "contact-form-7":{ 
                 "name":"Contact Form 7",
-                "slug":"contact-form-7/wp-contact-form-7.php",
+                "slug":"contact-form-7\/wp-contact-form-7.php",
                 "required":true
             },
             "woocommerce":{ 
                 "name":"WooCommerce",
-                "slug":"woocommerce/woocommerce.php",
+                "slug":"woocommerce\/woocommerce.php",
                 "required":true
             },
             "yith-woocommerce-wishlist":{ 
                 "name":"YITH WooCommerce Wishlist",
-                "slug":"yith-woocommerce-wishlist/init.php",
+                "slug":"yith-woocommerce-wishlist\/init.php",
                 "required":true
             },
             "yith-woocommerce-quick-view":{
                 "name":"YITH WooCommerce Quick View",
-                "slug":"yith-woocommerce-quick-view/init.php",
+                "slug":"yith-woocommerce-quick-view\/init.php",
                 "required":true
             }
         }

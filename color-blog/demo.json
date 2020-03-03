@@ -30,5 +30,44 @@
                 "required":true
             }
         }
-    }
+    },
+    "color-blog-pro":{
+        "name":"Color Blog Pro",
+        "theme_slug":"color-blog",
+        "version":"1.0.7",
+        "theme_description":"A clean and colorful Premium WordPress Theme.",
+        "xml_file":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/color-blog\/color-blog-pro\/color-blog-pro.xml",
+        "theme_settings":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/color-blog\/color-blog-pro\/color-blog-pro-export.dat",
+        "widgets_file":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/color-blog\/color-blog-pro\/color-blog-pro-widgets.wie",
+        "preview_screen":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/color-blog\/color-blog-pro\/screenshot.png",
+        "preview_url":"https:\/\/demo.mysterythemes.com\/color-blog-pro\/",
+        "is_shop":true,
+        "theme_type":[
+            "premium",
+            "blog",
+            "magazine"
+        ],
+        "show_on_front":"",
+        "home_title":"",
+        "blog_title":"",
+        "customizer_data_update": {
+            "nav_menu_locations": {
+                "top_header_menu":"Top Menu",
+                "primary_menu" : "Main Menu",
+                "footer_menu" : "Footer menu",
+            }
+        },
+        "plugins_list":{
+            "contact-form-7":{
+                "name":"Contact Form 7",
+                "slug":"contact-form-7\/wp-contact-form-7.php",
+                "required":true
+            },
+            "woocommerce":{ 
+                "name":"WooCommerce",
+                "slug":"woocommerce\/woocommerce.php",
+                "required":true
+            },
+        }
+    },
 }
