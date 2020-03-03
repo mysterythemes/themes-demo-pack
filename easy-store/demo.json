@@ -4,11 +4,11 @@
         "theme_slug":"easy-store",
         "theme_description":"Easy Ecommerce WordPress Theme",
         "version":"1.0.16",
-        "xml_file":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/easy-store\/easy-store\/easy-store.xml",
-        "theme_settings":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/easy-store\/easy-store\/easy-store-export.dat",
-        "widgets_file":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/easy-store\/easy-store\/easy-store-widgets.wie",
-        "preview_screen":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/easy-store\/easy-store\/screenshot.png",
-        "preview_url":"https:\/\/demo.mysterythemes.com\/easy-store",
+        "xml_file":"https://raw.githubusercontent.com/mysterythemes/themes-demo-pack/master/easy-store/easy-store/easy-store.xml",
+        "theme_settings":"https://raw.githubusercontent.com/mysterythemes/themes-demo-pack/master/easy-store/easy-store/easy-store-export.dat",
+        "widgets_file":"https://raw.githubusercontent.com/mysterythemes/themes-demo-pack/master/easy-store/easy-store/easy-store-widgets.wie",
+        "preview_screen":"https://raw.githubusercontent.com/mysterythemes/themes-demo-pack/master/easy-store/easy-store/screenshot.png",
+        "preview_url":"https://demo.mysterythemes.com/easy-store",
         "is_shop":"1",
         "theme_type":[
             "free",
@@ -27,17 +27,17 @@
         "plugins_list":{ 
             "contact-form-7":{ 
                 "name":"Contact Form 7",
-                "slug":"contact-form-7\/wp-contact-form-7.php",
+                "slug":"contact-form-7/wp-contact-form-7.php",
                 "required":true
             },
             "woocommerce":{ 
                 "name":"WooCommerce",
-                "slug":"woocommerce\/woocommerce.php",
+                "slug":"woocommerce/woocommerce.php",
                 "required":true
             },
             "yith-woocommerce-wishlist":{ 
                 "name":"YITH WooCommerce Wishlist",
-                "slug":"yith-woocommerce-wishlist\/init.php",
+                "slug":"yith-woocommerce-wishlist/init.php",
                 "required":true
             }
         }
@@ -47,11 +47,11 @@
         "theme_slug":"easy-store-pro",
         "theme_description":"Premium Creative Ecommerce WordPress Theme",
         "version":"1.0.9",
-        "xml_file":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/easy-store\/easy-store-pro\/easy-store-pro.xml",
-        "theme_settings":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/easy-store\/easy-store-pro\/easy-store-pro-export.dat",
-        "widgets_file":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/easy-store\/easy-store-pro\/easy-store-pro-widgets.wie",
-        "preview_screen":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/easy-store\/easy-store-pro\/screenshot.png",
-        "preview_url":"https:\/\/demo.mysterythemes.com\/easy-store-pro\/",
+        "xml_file":"https://raw.githubusercontent.com/mysterythemes/themes-demo-pack/master/easy-store/easy-store-pro/easy-store-pro.xml",
+        "theme_settings":"https://raw.githubusercontent.com/mysterythemes/themes-demo-pack/master/easy-store/easy-store-pro/easy-store-pro-export.dat",
+        "widgets_file":"https://raw.githubusercontent.com/mysterythemes/themes-demo-pack/master/easy-store/easy-store-pro/easy-store-pro-widgets.wie",
+        "preview_screen":"https://raw.githubusercontent.com/mysterythemes/themes-demo-pack/master/easy-store/easy-store-pro/screenshot.png",
+        "preview_url":"https://demo.mysterythemes.com/easy-store-pro/",
         "is_shop":"1",
         "theme_type":[
             "premium",
@@ -70,22 +70,22 @@
         "plugins_list":{ 
             "contact-form-7":{ 
                 "name":"Contact Form 7",
-                "slug":"contact-form-7\/wp-contact-form-7.php",
+                "slug":"contact-form-7/wp-contact-form-7.php",
                 "required":true
             },
             "woocommerce":{ 
                 "name":"WooCommerce",
-                "slug":"woocommerce\/woocommerce.php",
+                "slug":"woocommerce/woocommerce.php",
                 "required":true
             },
             "yith-woocommerce-wishlist":{ 
                 "name":"YITH WooCommerce Wishlist",
-                "slug":"yith-woocommerce-wishlist\/init.php",
+                "slug":"yith-woocommerce-wishlist/init.php",
                 "required":true
             },
             "yith-woocommerce-quick-view":{
                 "name":"YITH WooCommerce Quick View",
-                "slug":"yith-woocommerce-quick-view\/init.php",
+                "slug":"yith-woocommerce-quick-view/init.php",
                 "required":true
             }
         }
@@ -95,11 +95,11 @@
         "theme_slug":"easy-store-pro-fashion",
         "theme_description":"Premium Creative Ecommerce WordPress Theme",
         "version":"1.0.9",
-        "xml_file":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/easy-store\/easy-store-pro-fashion\/easy-store-pro.xml",
-        "theme_settings":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/easy-store\/easy-store-pro-fashion\/easy-store-pro-export.dat",
-        "widgets_file":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/easy-store\/easy-store-pro-fashion\/easy-store-pro-widgets.wie",
-        "preview_screen":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/easy-store\/easy-store-pro-fashion\/screenshot.png",
-        "preview_url":"https:\/\/demo.mysterythemes.com\/easy-store-pro-fashion\/",
+        "xml_file":"https://raw.githubusercontent.com/mysterythemes/themes-demo-pack/master/easy-store/easy-store-pro-fashion/easy-store-pro.xml",
+        "theme_settings":"https://raw.githubusercontent.com/mysterythemes/themes-demo-pack/master/easy-store/easy-store-pro-fashion/easy-store-pro-export.dat",
+        "widgets_file":"https://raw.githubusercontent.com/mysterythemes/themes-demo-pack/master/easy-store/easy-store-pro-fashion/easy-store-pro-widgets.wie",
+        "preview_screen":"https://raw.githubusercontent.com/mysterythemes/themes-demo-pack/master/easy-store/easy-store-pro-fashion/screenshot.png",
+        "preview_url":"https://demo.mysterythemes.com/easy-store-pro-fashion/",
         "is_shop":"1",
         "theme_type":[
             "premium",
@@ -118,22 +118,22 @@
         "plugins_list":{ 
             "contact-form-7":{ 
                 "name":"Contact Form 7",
-                "slug":"contact-form-7\/wp-contact-form-7.php",
+                "slug":"contact-form-7/wp-contact-form-7.php",
                 "required":true
             },
             "woocommerce":{ 
                 "name":"WooCommerce",
-                "slug":"woocommerce\/woocommerce.php",
+                "slug":"woocommerce/woocommerce.php",
                 "required":true
             },
             "yith-woocommerce-wishlist":{ 
                 "name":"YITH WooCommerce Wishlist",
-                "slug":"yith-woocommerce-wishlist\/init.php",
+                "slug":"yith-woocommerce-wishlist/init.php",
                 "required":true
             },
             "yith-woocommerce-quick-view":{
                 "name":"YITH WooCommerce Quick View",
-                "slug":"yith-woocommerce-quick-view\/init.php",
+                "slug":"yith-woocommerce-quick-view/init.php",
                 "required":true
             }
         }
