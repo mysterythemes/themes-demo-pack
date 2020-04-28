@@ -4,14 +4,165 @@
 		"theme_slug":"mismo",
 		"version":"1.0.9",
 		"theme_description":"Ultimate responsive magazine WordPress Theme.",
-		"xml_file":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/mismo\/default\/mismo.xml",
-		"theme_settings":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/mismo\/default\/mismo-export.dat",
-		"widgets_file":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/mismo\/default\/mismo-widgets.wie",
-		"preview_screen":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/mismo\/default\/screenshot.png",
+		"xml_file":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/mismo\/mismo\/mismo.xml",
+		"theme_settings":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/mismo\/mismo\/mismo-export.dat",
+		"widgets_file":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/mismo\/mismo\/mismo-widgets.wie",
+		"preview_screen":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/mismo\/mismo\/screenshot.png",
 		"preview_url":"https:\/\/demo.mysterythemes.com\/mismo\/",
 		"is_shop":false,
 		"theme_type":[
 			"free",
+			"blog",
+			"magazine"
+		],
+		"show_on_front":"page",
+		"home_title":"Home",
+		"blog_title":"",
+		"menus_locations":{
+			"menu-1":"Main menu"
+		},
+		"plugins_list":{
+			"contact-form-7":{
+				"name":"Contact Form 7",
+				"slug":"contact-form-7\/wp-contact-form-7.php",
+				"required":true
+			}
+		}
+	},
+	"mismo-classic":{
+		"name":"Mismo Classic",
+		"theme_slug":"mismo-classic",
+		"version":"1.0.9",
+		"theme_description":"Ultimate responsive magazine WordPress Theme.",
+		"xml_file":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/mismo\/mismo-classic\/mismo-classic.xml",
+		"theme_settings":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/mismo\/mismo-classic\/mismo-classic-export.dat",
+		"widgets_file":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/mismo\/mismo-classic\/mismo-classic-widgets.wie",
+		"preview_screen":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/mismo\/mismo-classic\/screenshot.png",
+		"preview_url":"https:\/\/demo.mysterythemes.com\/mismo-classic\/",
+		"is_shop":false,
+		"theme_type":[
+			"free",
+			"blog",
+			"magazine"
+		],
+		"show_on_front":"page",
+		"home_title":"Home",
+		"blog_title":"",
+		"menus_locations":{
+			"menu-1":"Main menu"
+		},
+		"plugins_list":{
+			"contact-form-7":{
+				"name":"Contact Form 7",
+				"slug":"contact-form-7\/wp-contact-form-7.php",
+				"required":true
+			}
+		}
+	},
+	"mismo-fashion":{
+		"name":"Mismo Fashion",
+		"theme_slug":"mismo-fashion",
+		"version":"1.0.9",
+		"theme_description":"Ultimate responsive magazine WordPress Theme.",
+		"xml_file":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/mismo\/mismo-fashion\/mismo-fashion.xml",
+		"theme_settings":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/mismo\/mismo-fashion\/mismo-fashion-export.dat",
+		"widgets_file":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/mismo\/mismo-fashion\/mismo-fashion-widgets.wie",
+		"preview_screen":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/mismo\/mismo-fashion\/screenshot.png",
+		"preview_url":"https:\/\/demo.mysterythemes.com\/mismo-fashion\/",
+		"is_shop":false,
+		"theme_type":[
+			"free",
+			"blog",
+			"magazine"
+		],
+		"show_on_front":"page",
+		"home_title":"Homepage",
+		"blog_title":"",
+		"menus_locations":{
+			"menu-1":"Main menu"
+		},
+		"plugins_list":{
+			"contact-form-7":{
+				"name":"Contact Form 7",
+				"slug":"contact-form-7\/wp-contact-form-7.php",
+				"required":true
+			}
+		}
+	},
+	"mismo-pro":{
+		"name":"Mismo Pro",
+		"theme_slug":"mismo-pro",
+		"version":"1.0.2",
+		"theme_description":"Ultimate responsive magazine WordPress Theme.",
+		"xml_file":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/mismo\/mismo-pro\/mismo-pro.xml",
+		"theme_settings":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/mismo\/mismo-pro\/mismo-pro-export.dat",
+		"widgets_file":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/mismo\/mismo-pro\/mismo-pro-widgets.wie",
+		"preview_screen":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/mismo\/mismo-pro\/screenshot.png",
+		"preview_url":"https:\/\/demo.mysterythemes.com\/mismo-pro\/",
+		"is_shop":false,
+		"theme_type":[
+			"premium",
+			"blog",
+			"magazine"
+		],
+		"show_on_front":"page",
+		"home_title":"Home",
+		"blog_title":"",
+		"menus_locations":{
+			"menu-1":"Main menu"
+		},
+		"plugins_list":{
+			"contact-form-7":{
+				"name":"Contact Form 7",
+				"slug":"contact-form-7\/wp-contact-form-7.php",
+				"required":true
+			}
+		}
+	},
+	"mismo-pro-news":{
+		"name":"Mismo Pro News",
+		"theme_slug":"mismo-pro-news",
+		"version":"1.0.2",
+		"theme_description":"Ultimate responsive magazine WordPress Theme.",
+		"xml_file":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/mismo\/mismo-pro-news\/mismo-pro-news.xml",
+		"theme_settings":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/mismo\/mismo-pro-news\/mismo-pro-news-export.dat",
+		"widgets_file":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/mismo\/mismo-pro-news\/mismo-pro-news-widgets.wie",
+		"preview_screen":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/mismo\/mismo-pro-news\/screenshot.png",
+		"preview_url":"https:\/\/demo.mysterythemes.com\/mismo-pro\/",
+		"is_shop":false,
+		"theme_type":[
+			"premium",
+			"blog",
+			"magazine"
+		],
+		"show_on_front":"page",
+		"home_title":"Home",
+		"blog_title":"",
+		"menus_locations":{
+			"menu-1":"Header menu",
+			"menu-footer":"Footer menu"
+		},
+		"plugins_list":{
+			"contact-form-7":{
+				"name":"Contact Form 7",
+				"slug":"contact-form-7\/wp-contact-form-7.php",
+				"required":true
+			}
+		}
+	},
+	"mismo-pro-blog":{
+		"name":"Mismo Pro Blog",
+		"theme_slug":"mismo-pro-blog",
+		"version":"1.0.2",
+		"theme_description":"Ultimate responsive magazine WordPress Theme.",
+		"xml_file":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/mismo\/mismo-pro-blog\/mismo-pro-blog.xml",
+		"theme_settings":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/mismo\/mismo-pro-blog\/mismo-pro-blog-export.dat",
+		"widgets_file":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/mismo\/mismo-pro-blog\/mismo-pro-blog-widgets.wie",
+		"preview_screen":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/mismo\/mismo-pro-blog\/screenshot.png",
+		"preview_url":"https:\/\/demo.mysterythemes.com\/mismo-pro\/",
+		"is_shop":false,
+		"theme_type":[
+			"premium",
 			"blog",
 			"magazine"
 		],
