@@ -45,4 +45,186 @@
             }
 		}
 	},
+	"shopay-pro":{
+		"name":"Shopay Pro",
+		"theme_slug":"shopay-pro",
+		"version":"1.1.0",
+		"theme_description":"Easy Ecommerce WordPress Theme.",
+		"xml_file":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/shopay\/shopay-pro\/shopay-pro.xml",
+		"theme_settings":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/shopay\/shopay-pro\/shopay-pro-export.dat",
+		"widgets_file":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/shopay\/shopay-pro\/shopay-pro-widgets.wie",
+		"preview_screen":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/shopay-pro\/shopay-pro\/screenshot.png",
+		"preview_url":"https:\/\/demo.mysterythemes.com\/shopay-pro\/",
+		"is_shop":"1",
+		"theme_type":[
+			"premium",
+            "woocommerce",
+            "ecommerce"
+		],
+		"show_on_front":"posts",
+		"home_title":"",
+		"blog_title":"",
+		"menus_locations":{
+			"menu-top":"quick menu",
+			"menu-primary":"Main Menu"
+		},
+		"plugins_list":{
+			"everest-forms":{ 
+                "name":"Everest Form",
+                "slug":"everest-forms/everest-forms.php",
+                "required":true
+            },
+            "woocommerce":{ 
+                "name":"WooCommerce",
+                "slug":"woocommerce/woocommerce.php",
+                "required":true
+            },
+            "yith-woocommerce-wishlist":{
+                "name":"YITH WooCommerce Wishlist",
+                "slug":"yith-woocommerce-wishlist/init.php",
+                "required":true
+            },
+            "yith-woocommerce-quick-view":{
+                "name":"YITH WooCommerce Quick View",
+                "slug":"yith-woocommerce-quick-view/init.php",
+                "required":true
+            }
+		}
+	},
+	"shopay-pro-tech":{
+		"name":"Shopay Pro Tech",
+		"theme_slug":"shopay-pro-tech",
+		"version":"1.1.0",
+		"theme_description":"Easy Ecommerce WordPress Theme.",
+		"xml_file":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/shopay\/shopay-pro-tech\/shopay-pro-tech.xml",
+		"theme_settings":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/shopay\/shopay-pro-tech\/shopay-pro-tech-export.dat",
+		"widgets_file":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/shopay\/shopay-pro-tech\/shopay-pro-tech-widgets.wie",
+		"preview_screen":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/shopay-pro-tech\/shopay-pro-tech\/screenshot.png",
+		"preview_url":"https:\/\/demo.mysterythemes.com\/shopay-pro-tech\/",
+		"is_shop":"1",
+		"theme_type":[
+			"premium",
+            "woocommerce",
+            "ecommerce"
+		],
+		"show_on_front":"posts",
+		"home_title":"",
+		"blog_title":"",
+		"menus_locations":{
+			"menu-top":"quick menu",
+			"menu-primary":"Main Menu"
+		},
+		"plugins_list":{
+			"everest-forms":{ 
+                "name":"Everest Form",
+                "slug":"everest-forms/everest-forms.php",
+                "required":true
+            },
+            "woocommerce":{ 
+                "name":"WooCommerce",
+                "slug":"woocommerce/woocommerce.php",
+                "required":true
+            },
+            "yith-woocommerce-wishlist":{
+                "name":"YITH WooCommerce Wishlist",
+                "slug":"yith-woocommerce-wishlist/init.php",
+                "required":true
+            },
+            "yith-woocommerce-quick-view":{
+                "name":"YITH WooCommerce Quick View",
+                "slug":"yith-woocommerce-quick-view/init.php",
+                "required":true
+            }
+		}
+	},
+	"shopay-pro-fashion":{
+		"name":"Shopay Pro Fashion",
+		"theme_slug":"shopay-pro-fashion",
+		"version":"1.1.0",
+		"theme_description":"Easy Ecommerce WordPress Theme.",
+		"xml_file":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/shopay\/shopay-pro-fashion\/shopay-pro-fashion.xml",
+		"theme_settings":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/shopay\/shopay-pro-fashion\/shopay-pro-fashion-export.dat",
+		"widgets_file":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/shopay\/shopay-pro-fashion\/shopay-pro-fashion-widgets.wie",
+		"preview_screen":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/shopay-pro-fashion\/shopay-pro-fashion\/screenshot.png",
+		"preview_url":"https:\/\/demo.mysterythemes.com\/shopay-pro-fashion\/",
+		"is_shop":"1",
+		"theme_type":[
+			"premium",
+            "woocommerce",
+            "ecommerce"
+		],
+		"show_on_front":"posts",
+		"home_title":"",
+		"blog_title":"",
+		"menus_locations":{
+			"menu-primary":"Header Menu"
+		},
+		"plugins_list":{
+			"everest-forms":{ 
+                "name":"Everest Form",
+                "slug":"everest-forms/everest-forms.php",
+                "required":true
+            },
+            "woocommerce":{ 
+                "name":"WooCommerce",
+                "slug":"woocommerce/woocommerce.php",
+                "required":true
+            },
+            "yith-woocommerce-wishlist":{
+                "name":"YITH WooCommerce Wishlist",
+                "slug":"yith-woocommerce-wishlist/init.php",
+                "required":true
+            },
+            "yith-woocommerce-quick-view":{
+                "name":"YITH WooCommerce Quick View",
+                "slug":"yith-woocommerce-quick-view/init.php",
+                "required":true
+            }
+		}
+	},
+	"shopay-pro-home-decor":{
+		"name":"Shopay Pro Home Decor",
+		"theme_slug":"shopay-pro-home-decor",
+		"version":"1.1.0",
+		"theme_description":"Easy Ecommerce WordPress Theme.",
+		"xml_file":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/shopay\/shopay-pro-home-decor\/shopay-pro-home-decor.xml",
+		"theme_settings":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/shopay\/shopay-pro-home-decor\/shopay-pro-home-decor-export.dat",
+		"widgets_file":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/shopay\/shopay-pro-home-decor\/shopay-pro-home-decor-widgets.wie",
+		"preview_screen":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/shopay-pro-home-decor\/shopay-pro-home-decor\/screenshot.png",
+		"preview_url":"https:\/\/demo.mysterythemes.com\/shopay-pro-home-decor\/",
+		"is_shop":"1",
+		"theme_type":[
+			"premium",
+            "woocommerce",
+            "ecommerce"
+		],
+		"show_on_front":"posts",
+		"home_title":"",
+		"blog_title":"",
+		"menus_locations":{
+			"menu-primary":"Main Menu"
+		},
+		"plugins_list":{
+			"everest-forms":{ 
+                "name":"Everest Form",
+                "slug":"everest-forms/everest-forms.php",
+                "required":true
+            },
+            "woocommerce":{ 
+                "name":"WooCommerce",
+                "slug":"woocommerce/woocommerce.php",
+                "required":true
+            },
+            "yith-woocommerce-wishlist":{
+                "name":"YITH WooCommerce Wishlist",
+                "slug":"yith-woocommerce-wishlist/init.php",
+                "required":true
+            },
+            "yith-woocommerce-quick-view":{
+                "name":"YITH WooCommerce Quick View",
+                "slug":"yith-woocommerce-quick-view/init.php",
+                "required":true
+            }
+		}
+	}
 }
