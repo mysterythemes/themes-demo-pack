@@ -42,7 +42,7 @@
                 "name":"YITH WooCommerce Quick View",
                 "slug":"yith-woocommerce-quick-view/init.php",
                 "required":true
-            },
+            }
 		}
 	},
 	"shopay-pro":{
@@ -88,7 +88,7 @@
                 "name":"YITH WooCommerce Quick View",
                 "slug":"yith-woocommerce-quick-view/init.php",
                 "required":true
-            },
+            }
 		}
 	},
 	"shopay-pro-tech":{
@@ -134,7 +134,7 @@
                 "name":"YITH WooCommerce Quick View",
                 "slug":"yith-woocommerce-quick-view/init.php",
                 "required":true
-            },
+            }
 		}
 	},
 	"shopay-pro-fashion":{
@@ -179,9 +179,9 @@
                 "name":"YITH WooCommerce Quick View",
                 "slug":"yith-woocommerce-quick-view/init.php",
                 "required":true
-            },
+            }
 		},
-		"shopay-pro-home-decor":{
+	"shopay-pro-home-decor":{
 		"name":"Shopay Pro Home Decor",
 		"theme_slug":"shopay-pro-home-decor",
 		"version":"1.1.0",
@@ -223,7 +223,7 @@
                 "name":"YITH WooCommerce Quick View",
                 "slug":"yith-woocommerce-quick-view/init.php",
                 "required":true
-            },
+            }
 		}
 	}
 }
