@@ -1,0 +1,38 @@
+a:4:{s:8:"template";s:10:"shopay-pro";s:4:"mods";a:26:{i:0;b:0;s:18:"nav_menu_locations";a:3:{s:12:"menu-primary";i:21;s:8:"menu-top";i:22;s:11:"menu-footer";i:22;}s:18:"custom_css_post_id";i:64;s:32:"shopay_front_latest_posts_option";b:0;s:20:"shopay_primary_color";s:7:"#0063d1";s:28:"shopay_sticky_sidebar_option";b:0;s:22:"shopay_preloader_style";s:4:"wave";s:29:"shopay_top_header_description";s:54:"Get <span> 50% Discount </span> on all summer arrival ";s:27:"shopay_top_header_bg_option";b:1;s:34:"shopay_top_header_background_color";s:7:"#f2f2f2";s:41:"shopay_sticky_header_sidebar_slide_option";s:4:"left";s:22:"shopay_search_bar_type";s:14:"product-search";s:23:"shopay_cart_link_option";b:1;s:27:"shopay_wishlist_link_option";b:1;s:20:"shopay_header_layout";s:15:"header-layout-2";s:32:"shopay_highlight_products_option";b:0;s:22:"shopay_cat_menu_option";b:1;s:11:"custom_logo";i:60;s:16:"header_textcolor";s:5:"blank";s:21:"shopay_services_items";s:333:"[{"mt_item_icon":"fas fa-bullhorn","mt_item_desc":"Biggest Discount"},{"mt_item_icon":"fab fa-whatsapp","mt_item_desc":"Live Support"},{"mt_item_icon":"fas fa-truck","mt_item_desc":"Free Delivery"},{"mt_item_icon":"fab fa-amazon-pay","mt_item_desc":"Easy Payment"},{"mt_item_icon":"far fa-thumbs-up","mt_item_desc":"Truster Seller"}]";s:21:"shopay_sponsors_items";s:1016:"[{"mt_item_upload":"https:\/\/demo.mysterythemes.com\/shopay-pro-tech\/wp-content\/uploads\/sites\/78\/2020\/04\/brand7_logo.png","mt_item_link":"#","mt_item_title":""},{"mt_item_upload":"https:\/\/demo.mysterythemes.com\/shopay-pro-tech\/wp-content\/uploads\/sites\/78\/2020\/04\/dribble_black.png","mt_item_link":"#","mt_item_title":""},{"mt_item_upload":"https:\/\/demo.mysterythemes.com\/shopay-pro-tech\/wp-content\/uploads\/sites\/78\/2020\/04\/jquery_black.png","mt_item_link":"#","mt_item_title":""},{"mt_item_upload":"https:\/\/demo.mysterythemes.com\/shopay-pro-tech\/wp-content\/uploads\/sites\/78\/2020\/04\/brand1_logo.png","mt_item_link":"#","mt_item_title":""},{"mt_item_upload":"https:\/\/demo.mysterythemes.com\/shopay-pro-tech\/wp-content\/uploads\/sites\/78\/2020\/04\/wordpress_black.png","mt_item_link":"#","mt_item_title":""},{"mt_item_upload":"https:\/\/demo.mysterythemes.com\/shopay-pro-tech\/wp-content\/uploads\/sites\/78\/2020\/04\/brand4_logo.png","mt_item_link":"#","mt_item_title":""}]";s:21:"shopay_copyright_text";s:94:"Shopay Pro | Theme: Shopay Pro Demo By <a href="https://mysterythemes.com/">Mystery Themes</a>";s:32:"shopay_footer_widget_area_option";b:0;s:19:"shopay_social_media";s:306:"[{"mt_item_icon":"fab fa-facebook-f","mt_item_link":"#","mt_item_checkbox":""},{"mt_item_icon":"fab fa-twitter","mt_item_link":"#","mt_item_checkbox":""},{"mt_item_icon":"fab fa-instagram","mt_item_link":"#","mt_item_checkbox":""},{"mt_item_icon":"fab fa-youtube","mt_item_link":"#","mt_item_checkbox":""}]";s:25:"shopay_footer_description";s:303:"Shopay Pro is the premium version of shopay responsive free theme which is highly customizable and beautifully designed WordPress theme built-in with full WooCommerce support. The theme is perfectly integrated with any kinds of e-commerce stores loaded with all the extensive functionality and features.";s:20:"shopay_payment_image";s:94:"https://demo.mysterythemes.com/shopay-pro-tech/wp-content/uploads/sites/78/2020/04/payment.png";}s:7:"options";a:22:{s:22:"woocommerce_demo_store";s:2:"no";s:29:"woocommerce_demo_store_notice";s:79:"This is a demo store for testing purposes &mdash; no orders shall be fulfilled.";s:29:"woocommerce_shop_page_display";s:0:"";s:36:"woocommerce_category_archive_display";s:0:"";s:35:"woocommerce_default_catalog_orderby";s:10:"menu_order";s:27:"woocommerce_catalog_columns";i:4;s:24:"woocommerce_catalog_rows";i:4;s:30:"woocommerce_single_image_width";s:3:"600";s:33:"woocommerce_thumbnail_image_width";s:3:"300";s:30:"woocommerce_thumbnail_cropping";s:3:"1:1";s:43:"woocommerce_thumbnail_cropping_custom_width";s:1:"4";s:44:"woocommerce_thumbnail_cropping_custom_height";s:1:"3";s:34:"woocommerce_checkout_company_field";s:8:"optional";s:36:"woocommerce_checkout_address_2_field";s:8:"optional";s:32:"woocommerce_checkout_phone_field";s:8:"required";s:46:"woocommerce_checkout_highlight_required_fields";s:3:"yes";s:55:"woocommerce_checkout_terms_and_conditions_checkbox_text";s:44:"I have read and agree to the website [terms]";s:40:"woocommerce_checkout_privacy_policy_text";s:161:"Your personal data will be used to process your order, support your experience throughout this website, and for other purposes described in our [privacy_policy].";s:26:"wp_page_for_privacy_policy";s:1:"0";s:25:"woocommerce_terms_page_id";s:0:"";s:9:"site_icon";s:2:"61";s:23:"nav_menus_created_posts";a:0:{}}s:6:"wp_css";s:969:".header-two .main-header-wrapper .site-branding-toggle-wrapper {
+	padding: 30px 0 50px;
+}
+.header-two .main-header-wrapper .site-branding-toggle-wrapper .woo-items-wrapper {
+	margin: 20px 0;
+}
+.header-two .main-header-wrapper .site-branding-toggle-wrapper .header-site-info-wrap {
+	margin: 5px 0;
+}
+.slider-layout-three .main-slider-section .slider-featured-section .featured-section > a{
+	position: relative;
+}
+.slider-layout-three .featured-image-content {
+	z-index: 99;
+}
+.slider-layout-three .main-slider-section .slider-featured-section .featured-section > a:before {
+	content: "";
+	position: absolute;
+	background: rgba(0,0,0,0.4);
+	width: 100%;
+	height: 100%;
+	left: 0;
+	top: 0;
+	z-index: 99;
+}
+.shopay_slider {
+	margin-bottom: 0;
+}
+.shopay_category_products .layout-three .category-products-wrap li {
+	width: 33.33%;
+	margin-right: -4px !important;
+}
+.section-title {
+	margin: 0 0 10px;
+}
+.shopay-category-products-section.layout-three {
+	background: #f8f8f8;
+}";}
