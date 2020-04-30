@@ -230,14 +230,22 @@
 							"editorial_pro_featured_category":"featured"
 						}
 					},
-					"editorial_pro_block_grid":{
-						"3":{
-							"editorial_pro_block_cat_id":"kids"
-						}
-					},
 					"editorial_pro_block_column":{
 						"4":{
 							"editorial_pro_block_cat_id":"world"
+						}
+					},
+					"editorial_pro_fullwidth_tabbed":{
+						"2":{
+							"first_tab_category":"featured",
+							"second_tab_category":"women",
+							"third_tab_category":"kids",
+							"forth_tab_category":"men",
+						}
+					},
+					"editorial_pro_block_list":{
+						"4":{
+							"editorial_pro_block_cat_id":"women"
 						}
 					},
 					"editorial_pro_carousel":{
@@ -245,9 +253,9 @@
 							"block_post_category":"beauty"
 						}
 					},
-					"editorial_pro_block_list":{
-						"4":{
-							"editorial_pro_block_cat_id":"women"
+					"editorial_pro_block_grid":{
+						"3":{
+							"editorial_pro_block_cat_id":"kids"
 						}
 					}
 				}
