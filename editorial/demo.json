@@ -110,22 +110,22 @@
 						}
 					},
 					"editorial_pro_block_layout":{
-						"1":{
+						"2":{
 							"editorial_pro_block_cat_id":"world-news"
 						}
 					},
 					"editorial_pro_block_column":{
-						"1":{
+						"2":{
 							"editorial_pro_block_cat_id":"lifestyle"
 						}
 					},
 					"editorial_pro_carousel":{
-						"1":{
+						"2":{
 							"block_post_category":"world-news"
 						}
 					},
 					"editorial_pro_block_list":{
-						"1":{
+						"2":{
 							"editorial_pro_block_cat_id":"world-news"
 						}
 					}
