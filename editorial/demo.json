@@ -160,7 +160,7 @@
 		"home_title":"Home",
 		"blog_title":"",
 		"menus_locations":{
-			"primary":"primary menu",
+			"primary":"primary menu"
 		},
 		"widgets_data_update":{
 			"dropdown_categories":{
@@ -219,7 +219,7 @@
 		"home_title":"Home",
 		"blog_title":"",
 		"menus_locations":{
-			"primary":"primary menu",
+			"primary":"primary menu"
 		},
 		"widgets_data_update":{
 			"dropdown_categories":{
@@ -282,7 +282,7 @@
 		"blog_title":"",
 		"menus_locations":{
 			"top-header":"top-menu",
-			"primary":"Main Menu",
+			"primary":"Main Menu"
 		},
 		"widgets_data_update":{
 			"dropdown_categories":{
