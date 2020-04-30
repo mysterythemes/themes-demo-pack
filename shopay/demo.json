@@ -67,7 +67,7 @@
 		"menus_locations":{
 			"menu-top":"quick menu",
 			"menu-primary":"Main Menu",
-			"menu-footer":"quick menu",
+			"menu-footer":"quick menu"
 		},
 		"plugins_list":{
 			"everest-forms":{ 
