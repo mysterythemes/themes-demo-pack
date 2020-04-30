@@ -1,0 +1,14 @@
+a:4:{s:8:"template";s:13:"editorial-pro";s:4:"mods";a:38:{i:0;b:0;s:18:"custom_css_post_id";i:59;s:16:"header_textcolor";s:5:"blank";s:25:"editorial_pro_theme_color";s:7:"#9b4120";s:27:"editorial_pro_header_layout";s:15:"header_layout_2";s:30:"editorial_pro_home_icon_option";s:7:"disable";s:16:"menu_font_family";s:9:"Open Sans";s:15:"menu_font_style";s:3:"600";s:13:"p_font_family";s:9:"Open Sans";s:14:"h1_font_family";s:10:"Montserrat";s:14:"h2_font_family";s:10:"Montserrat";s:14:"h3_font_family";s:7:"Raleway";s:14:"h4_font_family";s:10:"Montserrat";s:14:"h5_font_family";s:10:"Montserrat";s:14:"h6_font_family";s:10:"Montserrat";s:27:"editorial_pro_ticker_option";s:7:"disable";s:18:"nav_menu_locations";a:2:{s:7:"primary";i:2;s:10:"top-header";i:6;}s:14:"menu_font_size";i:13;s:30:"editorial_pro_menu_hover_color";s:7:"#9b4120";s:16:"menu_line_height";i:42;s:19:"menu_text_transform";s:9:"uppercase";s:14:"social_fb_link";s:1:"#";s:14:"social_tw_link";s:1:"#";s:14:"social_gp_link";s:1:"#";s:14:"social_yt_link";s:1:"#";s:40:"editorial_pro_category_color_photography";s:7:"#4fc11b";s:33:"editorial_pro_category_color_tech";s:7:"#dd9933";s:38:"editorial_pro_category_color_lifestyle";s:7:"#dd3333";s:35:"editorial_pro_category_color_nature";s:7:"#008949";s:25:"post_categories_list_type";s:8:"in_boxed";s:11:"custom_logo";i:99;s:28:"editorial_pro_archive_layout";s:4:"grid";s:32:"editorial_pro_main_menu_bg_color";s:7:"#ffffff";s:15:"menu_font_color";s:7:"#333333";s:17:"h1_text_transform";s:4:"none";s:13:"h3_font_style";s:3:"500";s:15:"site_pre_loader";s:5:"steps";s:28:"editorial_pro_copyright_text";s:193:"<span class="copy-info">2019 editorial</span><span class="sep"> | </span>Editorial Pro by <a href="https://mysterythemes.com/" rel="designer" class="customize-unpreviewable">Mystery Themes</a>.";}s:7:"options";a:9:{s:9:"site_icon";s:1:"0";s:43:"wpseo_titles[breadcrumbs-display-blog-page]";b:1;s:29:"wpseo_titles[breadcrumbs-sep]";s:7:"&raquo;";s:30:"wpseo_titles[breadcrumbs-home]";s:4:"Home";s:32:"wpseo_titles[breadcrumbs-prefix]";s:0:"";s:39:"wpseo_titles[breadcrumbs-archiveprefix]";s:12:"Archives for";s:38:"wpseo_titles[breadcrumbs-searchprefix]";s:16:"You searched for";s:34:"wpseo_titles[breadcrumbs-404crumb]";s:25:"Error 404: Page not found";s:23:"nav_menus_created_posts";a:0:{}}s:6:"wp_css";s:224:"/*
+You can add your own CSS here.
+
+Click the help icon above to learn more.
+*/
+
+.header-layout-2 .logo-ads-wrapper {
+  border-bottom: 1px solid #e1e1e1;
+  padding: 15px 0 10px;
+}
+
+.blog .post-cat-list {
+  margin-top: 10px;
+}";}

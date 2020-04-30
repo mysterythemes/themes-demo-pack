@@ -4,10 +4,10 @@
 		"theme_slug":"editorial",
 		"version":"1.4.2",
 		"theme_description":"Ultimate responsive magazine WordPress Theme.",
-		"xml_file":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/editorial\/default\/editorial.xml",
-		"theme_settings":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/editorial\/default\/editorial-export.dat",
-		"widgets_file":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/editorial\/default\/editorial-widgets.wie",
-		"preview_screen":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/editorial\/default\/screenshot.png",
+		"xml_file":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/editorial\/editorial\/editorial.xml",
+		"theme_settings":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/editorial\/editorial\/editorial-export.dat",
+		"widgets_file":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/editorial\/editorial\/editorial-widgets.wie",
+		"preview_screen":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/editorial\/editorial\/screenshot.png",
 		"preview_url":"https:\/\/demo.mysterythemes.com\/editorial\/",
 		"is_shop":false,
 		"theme_type":[
@@ -59,6 +59,252 @@
 					"editorial_block_list":{
 						"1":{
 							"editorial_block_cat_id":"Music"
+						}
+					}
+				}
+			}
+		},
+		"plugins_list":{
+			"contact-form-7":{
+				"name":"Contact Form 7",
+				"slug":"contact-form-7\/wp-contact-form-7.php",
+				"required":true
+			}
+		}
+	},
+	"editorial-pro":{
+		"name":"Editorial Pro",
+		"theme_slug":"editorial-pro",
+		"version":"1.2.3",
+		"theme_description":"Ultimate responsive magazine WordPress Theme.",
+		"xml_file":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/editorial\/editorial-pro\/editorial-pro.xml",
+		"theme_settings":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/editorial\/editorial-pro\/editorial-pro-export.dat",
+		"widgets_file":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/editorial\/editorial-pro\/editorial-pro-widgets.wie",
+		"preview_screen":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/editorial\/editorial-pro\/screenshot.png",
+		"preview_url":"https:\/\/demo.mysterythemes.com\/editorial-pro\/",
+		"is_shop":false,
+		"theme_type":[
+			"premium",
+			"blog",
+			"magazine"
+		],
+		"show_on_front":"page",
+		"home_title":"Home",
+		"blog_title":"",
+		"menus_locations":{
+			"primary":"Primary Menu",
+			"footer":"Footer Menu"
+		},
+		"widgets_data_update":{
+			"dropdown_categories":{
+				"category":{
+					"editorial_pro_featured_slider":{
+						"1":{
+							"editorial_pro_slider_category":"lifestyle",
+							"editorial_pro_featured_category":"fashion"
+						}
+					},
+					"editorial_pro_block_grid":{
+						"1":{
+							"editorial_pro_block_cat_id":"world-news"
+						}
+					},
+					"editorial_pro_block_layout":{
+						"1":{
+							"editorial_pro_block_cat_id":"world-news"
+						}
+					},
+					"editorial_pro_block_column":{
+						"1":{
+							"editorial_pro_block_cat_id":"lifestyle"
+						}
+					},
+					"editorial_pro_carousel":{
+						"1":{
+							"block_post_category":"world-news"
+						}
+					},
+					"editorial_pro_block_list":{
+						"1":{
+							"editorial_pro_block_cat_id":"world-news"
+						}
+					}
+				}
+			}
+		},
+		"plugins_list":{
+			"contact-form-7":{
+				"name":"Contact Form 7",
+				"slug":"contact-form-7\/wp-contact-form-7.php",
+				"required":true
+			}
+		}
+	},
+	"editorial-pro-sport":{
+		"name":"Editorial Pro Sport",
+		"theme_slug":"editorial-pro-sport",
+		"version":"1.2.3",
+		"theme_description":"Ultimate responsive magazine WordPress Theme.",
+		"xml_file":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/editorial\/editorial-pro-sport\/editorial-pro-sport.xml",
+		"theme_settings":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/editorial\/editorial-pro-sport\/editorial-pro-sport-export.dat",
+		"widgets_file":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/editorial\/editorial-pro-sport\/editorial-pro-sport-widgets.wie",
+		"preview_screen":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/editorial\/editorial-pro-sport\/screenshot.png",
+		"preview_url":"https:\/\/demo.mysterythemes.com\/editorial-pro\/sport",
+		"is_shop":false,
+		"theme_type":[
+			"premium",
+			"blog",
+			"magazine"
+		],
+		"show_on_front":"page",
+		"home_title":"Home",
+		"blog_title":"",
+		"menus_locations":{
+			"primary":"primary menu",
+		},
+		"widgets_data_update":{
+			"dropdown_categories":{
+				"category":{
+					"editorial_pro_block_grid":{
+						"1":{
+							"editorial_pro_block_cat_id":"sports"
+						}
+					},
+					"editorial_pro_block_column":{
+						"1":{
+							"editorial_pro_block_cat_id":"swimming"
+						},
+						"2":{
+							"editorial_pro_block_cat_id":"basketball"
+						}
+					},
+					"editorial_pro_carousel":{
+						"1":{
+							"block_post_category":"sports"
+						}
+					},
+					"editorial_pro_block_list":{
+						"1":{
+							"editorial_pro_block_cat_id":"racing"
+						}
+					}
+				}
+			}
+		},
+		"plugins_list":{
+			"contact-form-7":{
+				"name":"Contact Form 7",
+				"slug":"contact-form-7\/wp-contact-form-7.php",
+				"required":true
+			}
+		}
+	},
+	"editorial-pro-fashion":{
+		"name":"Editorial Pro Fashion",
+		"theme_slug":"editorial-pro-fashion",
+		"version":"1.2.3",
+		"theme_description":"Ultimate responsive magazine WordPress Theme.",
+		"xml_file":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/editorial\/editorial-pro-fashion\/editorial-pro-fashion.xml",
+		"theme_settings":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/editorial\/editorial-pro-fashion\/editorial-pro-fashion-export.dat",
+		"widgets_file":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/editorial\/editorial-pro-fashion\/editorial-pro-fashion-widgets.wie",
+		"preview_screen":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/editorial\/editorial-pro-fashion\/screenshot.png",
+		"preview_url":"https:\/\/demo.mysterythemes.com\/editorial-pro\/fashion",
+		"is_shop":false,
+		"theme_type":[
+			"premium",
+			"blog",
+			"magazine"
+		],
+		"show_on_front":"page",
+		"home_title":"Home",
+		"blog_title":"",
+		"menus_locations":{
+			"primary":"primary menu",
+		},
+		"widgets_data_update":{
+			"dropdown_categories":{
+				"category":{
+					"editorial_pro_featured_slider":{
+						"1":{
+							"editorial_pro_slider_category":"trend",
+							"editorial_pro_featured_category":"featured"
+						}
+					},
+					"editorial_pro_block_grid":{
+						"1":{
+							"editorial_pro_block_cat_id":"kids"
+						}
+					},
+					"editorial_pro_block_column":{
+						"1":{
+							"editorial_pro_block_cat_id":"world"
+						}
+					},
+					"editorial_pro_carousel":{
+						"1":{
+							"block_post_category":"beauty"
+						}
+					},
+					"editorial_pro_block_list":{
+						"1":{
+							"editorial_pro_block_cat_id":"women"
+						}
+					}
+				}
+			}
+		},
+		"plugins_list":{
+			"contact-form-7":{
+				"name":"Contact Form 7",
+				"slug":"contact-form-7\/wp-contact-form-7.php",
+				"required":true
+			}
+		}
+	},
+	"editorial-pro-blog":{
+		"name":"Editorial Pro Blog",
+		"theme_slug":"editorial-pro-blog",
+		"version":"1.2.3",
+		"theme_description":"Ultimate responsive magazine WordPress Theme.",
+		"xml_file":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/editorial\/editorial-pro-blog\/editorial-pro-blog.xml",
+		"theme_settings":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/editorial\/editorial-pro-blog\/editorial-pro-blog-export.dat",
+		"widgets_file":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/editorial\/editorial-pro-blog\/editorial-pro-blog-widgets.wie",
+		"preview_screen":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/editorial\/editorial-pro-blog\/screenshot.png",
+		"preview_url":"https:\/\/demo.mysterythemes.com\/editorial-pro\/blogs",
+		"is_shop":false,
+		"theme_type":[
+			"premium",
+			"blog",
+			"magazine"
+		],
+		"show_on_front":"page",
+		"home_title":"Home",
+		"blog_title":"",
+		"menus_locations":{
+			"top-header":"top-menu",
+			"primary":"Main Menu",
+		},
+		"widgets_data_update":{
+			"dropdown_categories":{
+				"category":{
+					"editorial_pro_featured_slider":{
+						"1":{
+							"editorial_pro_slider_category":"blog"
+						}
+					},
+					"editorial_pro_block_grid":{
+						"1":{
+							"editorial_pro_block_cat_id":"travel"
+						}
+					},
+					"editorial_pro_block_column":{
+						"1":{
+							"editorial_pro_block_cat_id":"tech"
+						}
+					},
+					"editorial_pro_block_list":{
+						"1":{
+							"editorial_pro_block_cat_id":"lifestyle"
 						}
 					}
 				}

@@ -1,0 +1,19 @@
+a:4:{s:8:"template";s:13:"editorial-pro";s:4:"mods";a:40:{i:0;b:0;s:18:"custom_css_post_id";i:48;s:15:"site_pre_loader";s:15:"spinning_border";s:18:"site_layout_option";s:12:"boxed_layout";s:27:"editorial_pro_header_layout";s:15:"header_layout_3";s:31:"editorial_pro_top_header_option";s:7:"disable";s:25:"editorial_pro_theme_color";s:7:"#59a34f";s:11:"custom_logo";i:15;s:16:"header_textcolor";s:5:"blank";s:22:"site_pre_loader_option";s:4:"hide";s:15:"menu_font_color";s:7:"#ffffff";s:32:"editorial_pro_main_menu_bg_color";s:7:"#000000";s:16:"menu_font_family";s:6:"Roboto";s:15:"menu_font_style";s:7:"regular";s:14:"menu_font_size";i:12;s:30:"editorial_pro_menu_hover_color";s:7:"#59a34f";s:18:"nav_menu_locations";a:1:{s:7:"primary";i:5;}s:19:"menu_text_transform";s:9:"uppercase";s:28:"editorial_pro_copyright_text";s:193:"<span class="copy-info">2019 editorial</span><span class="sep"> | </span>Editorial Pro by <a href="https://mysterythemes.com/" rel="designer" class="customize-unpreviewable">Mystery Themes</a>.";s:35:"editorial_pro_category_color_racing";s:7:"#000000";s:35:"editorial_pro_category_color_sports";s:7:"#000000";s:37:"editorial_pro_category_color_swimming";s:7:"#000000";s:27:"editorial_pro_ticker_option";s:7:"disable";s:39:"editorial_pro_category_color_basketball";s:7:"#000000";s:37:"editorial_pro_category_color_football";s:7:"#000000";s:13:"p_font_family";s:6:"Roboto";s:12:"p_font_style";s:7:"regular";s:16:"p_text_transform";s:10:"capitalize";s:11:"p_font_size";i:13;s:14:"h3_font_family";s:6:"Roboto";s:17:"h3_text_transform";s:9:"uppercase";s:12:"h3_font_size";i:20;s:13:"p_line_height";d:1.8000000000000000444089209850062616169452667236328125;s:20:"footer_widget_option";s:7:"column3";s:28:"editorial_pro_archive_layout";s:4:"grid";s:17:"background_preset";s:4:"fill";s:15:"background_size";s:5:"cover";s:17:"background_repeat";s:9:"no-repeat";s:21:"background_attachment";s:5:"fixed";s:16:"background_image";s:91:"http://demo.mysterythemes.com/editorial-pro/sport/wp-content/uploads/sites/4/2017/02/bg.jpg";}s:7:"options";a:9:{s:9:"site_icon";s:1:"0";s:43:"wpseo_titles[breadcrumbs-display-blog-page]";b:1;s:29:"wpseo_titles[breadcrumbs-sep]";s:7:"&raquo;";s:30:"wpseo_titles[breadcrumbs-home]";s:4:"Home";s:32:"wpseo_titles[breadcrumbs-prefix]";s:0:"";s:39:"wpseo_titles[breadcrumbs-archiveprefix]";s:12:"Archives for";s:38:"wpseo_titles[breadcrumbs-searchprefix]";s:16:"You searched for";s:34:"wpseo_titles[breadcrumbs-404crumb]";s:25:"Error 404: Page not found";s:23:"nav_menus_created_posts";a:0:{}}s:6:"wp_css";s:307:"/*
+You can add your own CSS here.
+
+Click the help icon above to learn more.
+*/
+.post-content-wrapper .post-content {
+  font-size: 13px;
+}
+.header-layout-3 .search-main {
+  color: #fff;
+}
+
+#site-navigation ul li {
+  border: none;
+}
+
+.custom-logo-link, .header-layout-3 .custom-logo-link {
+  margin: 31px 0;
+}";}
