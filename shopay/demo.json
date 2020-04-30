@@ -66,7 +66,8 @@
 		"blog_title":"",
 		"menus_locations":{
 			"menu-top":"quick menu",
-			"menu-primary":"Main Menu"
+			"menu-primary":"Main Menu",
+			"menu-footer":"quick menu",
 		},
 		"plugins_list":{
 			"everest-forms":{ 
@@ -112,7 +113,8 @@
 		"blog_title":"",
 		"menus_locations":{
 			"menu-top":"quick menu",
-			"menu-primary":"Main Menu"
+			"menu-primary":"Main Menu",
+			"menu-footer":"quick menu",
 		},
 		"plugins_list":{
 			"everest-forms":{ 
