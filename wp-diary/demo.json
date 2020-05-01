@@ -2,12 +2,11 @@
     "wp-diary":{
         "name":"WP Diary",
         "theme_slug":"wp-diary",
-        "version":"1.0.6",
         "theme_description":"A pure blogger free WordPress Theme.",
-        "xml_file":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/wp-diary\/default\/wp-diary.xml",
-        "theme_settings":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/wp-diary\/default\/wp-diary-export.dat",
-        "widgets_file":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/wp-diary\/default\/wp-diary-widgets.wie",
-        "preview_screen":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/wp-diary\/default\/screenshot.png",
+        "xml_file":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/wp-diary\/wp-diary\/wp-diary.xml",
+        "theme_settings":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/wp-diary\/wp-diary\/wp-diary-export.dat",
+        "widgets_file":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/wp-diary\/wp-diary\/wp-diary-widgets.wie",
+        "preview_screen":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/wp-diary\/wp-diary\/screenshot.png",
         "preview_url":"https:\/\/demo.mysterythemes.com\/wp-diary\/",
         "is_shop":false,
         "theme_type":[
