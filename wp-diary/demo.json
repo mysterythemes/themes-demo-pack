@@ -58,35 +58,5 @@
                 "required":true
             }
         }
-    },
-    "wp-diary-pro-masonry":{
-        "name":"WP Diary Pro Masonry",
-        "theme_slug":"wp-diary-pro-masonry",
-        "theme_description":"A pure blogger Premium WordPress Theme.",
-        "xml_file":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/wp-diary\/wp-diary-pro-masonry\/wp-diary-pro.xml",
-        "theme_settings":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/wp-diary\/wp-diary-pro-masonry\/wp-diary-pro-export.dat",
-        "widgets_file":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/wp-diary\/wp-diary-pro-masonry\/wp-diary-pro-widgets.wie",
-        "preview_screen":"https:\/\/raw.githubusercontent.com\/mysterythemes\/themes-demo-pack\/master\/wp-diary\/wp-diary-pro-masonry\/screenshot.png",
-        "preview_url":"https:\/\/demo.mysterythemes.com\/wp-diary-pro-masonry\/",
-        "is_shop":false,
-        "theme_type":[
-            "premium",
-            "blog",
-            "portfolio"
-        ],
-        "show_on_front":"",
-        "home_title":"",
-        "blog_title":"",
-        "menus_locations":{
-            "primary_menu":"main menu",
-            "footer_menu":"main menu",
-        },
-        "plugins_list":{
-            "contact-form-7":{
-                "name":"Contact Form 7",
-                "slug":"contact-form-7\/wp-contact-form-7.php",
-                "required":true
-            }
-        }
     }
 }
